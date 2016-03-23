@@ -1,0 +1,8 @@
+CSUR - http://dl.acm.org/pub_series.cfm?id=J204&_cf_containerId=pubs&_cf_nodebug=true&_cf_nocache=true&_cf_clientid=C37F87628DE0E7610F1187FC299D1CA1&_cf_rc=1
+-JACM - http://dl.acm.org/pub_series.cfm?id=J401&_cf_containerId=pubs&_cf_nodebug=true&_cf_nocache=true&_cf_clientid=C37F87628DE0E7610F1187FC299D1CA1&_cf_rc=1
+-JDIQ - http://dl.acm.org/pub_series.cfm?id=J1191&_cf_containerId=pubs&_cf_nodebug=true&_cf_nocache=true&_cf_clientid=C37F87628DE0E7610F1187FC299D1CA1&_cf_rc=1
+-JEA - http://dl.acm.org/pub_series.cfm?id=J430&_cf_containerId=pubs&_cf_nodebug=true&_cf_nocache=true&_cf_clientid=C37F87628DE0E7610F1187FC299D1CA1&_cf_rc=1
+-JETC - http://dl.acm.org/pub_series.cfm?id=J967&_cf_containerId=pubs&_cf_nodebug=true&_cf_nocache=true&_cf_clientid=C37F87628DE0E7610F1187FC299D1CA1&_cf_rc=1
+-JOCCH - http://dl.acm.org/pub_series.cfm?id=J1157&_cf_containerId=pubs&_cf_nodebug=true&_cf_nocache=true&_cf_clientid=C37F87628DE0E7610F1187FC299D1CA1&_cf_rc=1
+-TAAS - http://dl.acm.org/pub_series.cfm?id=J1010&_cf_containerId=pubs&_cf_nodebug=true&_cf_nocache=true&_cf_clientid=C37F87628DE0E7610F1187FC299D1CA1&_cf_rc=1
+-TACCESS - http://dl.acm.org/pub_series.cfm?id=J1156&_cf_containerId=pubs&_cf_nodebug=true&_cf_nocache=true&_cf_clientid=C37F87628DE0E7610F1187FC299D1CA1&_cf_rc=1
