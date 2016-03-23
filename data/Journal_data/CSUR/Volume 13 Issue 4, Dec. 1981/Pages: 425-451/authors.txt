@@ -1,0 +1,2 @@
+edward_h_frank author_page.cfm?id=81100370199&CFID=762608235&CFTOKEN=87691393
+robert_f_sproull author_page.cfm?id=81100302488&CFID=762608235&CFTOKEN=87691393

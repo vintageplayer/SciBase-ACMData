@@ -1,0 +1,8 @@
+Ole Agesen, The Cartesian Product Algorithm: Simple and Precise Type Inference Of Parametric Polymorphism, Proceedings of the 9th European Conference on Object-Oriented Programming, p.2-26, August 07-11, 1995
+J. Michael Ashley, A practical and flexible flow analysis for higher-order languages, Proceedings of the 23rd ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.184-194, January 21-24, 1996, St. Petersburg Beach, Florida, United States[doi>10.1145/237721.237773]
+Nevin Heintze, Control-Flow Analysis and Type Systems, Proceedings of the Second International Symposium on Static Analysis, p.189-206, September 25-27, 1995
+Urs Hölzle , Ole Agesen, Dynamic versus static optimization techniques for object-oriented languages, Theory and Practice of Object Systems, v.1 n.3, p.167-188, Fall 1995
+Suresh Jagannathan , Stephen Weeks, A unified treatment of flow analysis in higher-order languages, Proceedings of the 22nd ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.393-407, January 23-25, 1995, San Francisco, California, United States[doi>10.1145/199448.199536]
+Jens Palsberg , Patrick O'Keefe, A type system equivalent to flow analysis, Proceedings of the 22nd ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.367-378, January 23-25, 1995, San Francisco, California, United States[doi>10.1145/199448.199533]
+Hemant D. Pande , Barbara G. Ryder, Data-Flow-Based Virtual Function Resolution, Proceedings of the Third International Symposium on Static Analysis, p.238-254, September 24-26, 1996
+Olin Grigsby Shivers, Control-flow analysis of higher-order languages of taming lambda, Carnegie Mellon University, Pittsburgh, PA, 1991

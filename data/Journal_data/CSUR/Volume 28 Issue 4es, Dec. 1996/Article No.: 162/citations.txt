@@ -1,0 +1,2 @@
+L. Charest , M. Reid , E. Aboulhamid , G. Bois, A methodology for interfacing open source systemC with a third party software, Proceedings of the conference on Design, automation and test in Europe, p.16, March 2001, Munich, Germany
+Deborah J. Armstrong , H. James Nelson , Kay M. Nelson , V.K. Narayanan, Building the IT Workforce of the Future: The Demand for More Complex, Abstract, and Strategic Knowledge, Information Resources Management Journal, v.21 n.2, p.63-79, April 2008

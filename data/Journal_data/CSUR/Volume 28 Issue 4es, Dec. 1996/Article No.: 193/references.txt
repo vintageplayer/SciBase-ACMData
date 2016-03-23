@@ -1,0 +1,7 @@
+D. J. Barrett , L. A. Clarke , P. L. Tarr , A. E. Wise, An Event-Based Software Integration Framework, University of Massachusetts, Amherst, MA, 1995
+P. A. Berstein, Database system support for software engineering, Proceedings of the 9th international conference on Software Engineering, p.166-178, March 1987, Monterey, California, USA
+Martin Bever , Kurt Geihs , Lutz Heuser , Max Mühlhäuser , Alexander Schill, Distributed Systems, OSF DCE, and Beyond, Proceedings of the International DCE Workshop on DCE - The OSF Distributed Computing Environment, Client/Server Model and Beyond, p.1-20, October 07-08, 1993
+Colin Gerety. HP SoftBench: A New Generation of Software Development Tools. Technical Report SESD-89-25, Hewlett-Packard Software Engineering Systems Division, Fort Collins, Colorado, November 1989.
+D.C. Knuth. An Empirical Study of Fortran Programs. Software-Practice and Experience, 1:105-133, 1971.
+BNR Europe Limited, Digital Equipment Corporation, Expersoft Corporation, Hewlett Packard Corporation, IBM Corporation, ICL, p1c, and IONA Technologies and SunSoft, Inc. CORBA 2.0/Interoperability, volume OMG TC Document 95.3.xx. Object Management Group, revised 1.8 edition, March 1995.
+Peri Tarr , Lori A. Clarke, PLEIADES: an object management system for software engineering environments, Proceedings of the 1st ACM SIGSOFT symposium on Foundations of software engineering, p.56-70, December 08-10, 1993, Los Angeles, California, USA[doi>10.1145/256428.167065]

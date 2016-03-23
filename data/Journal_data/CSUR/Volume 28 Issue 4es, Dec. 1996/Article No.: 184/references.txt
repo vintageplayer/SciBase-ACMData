@@ -1,0 +1,4 @@
+John A. Stankovic, Strategic directions in real-time and embedded systems, ACM Computing Surveys (CSUR), v.28 n.4, p.751-763, Dec. 1996[doi>10.1145/242223.242291]
+C. L. Liu , James W. Layland, Scheduling Algorithms for Multiprogramming in a Hard-Real-Time Environment, Journal of the ACM (JACM), v.20 n.1, p.46-61, Jan. 1973[doi>10.1145/321738.321743]
+T.-S. Tia , Z. Deng , M. Shankar , M. Storch , J. Sun , L.-C. Wu , J. W.-S. Liu, Probabilistic performance guarantee for real-time tasks with varying computation times, Proceedings of the Real-Time Technology and Applications Symposium, p.164, May 15-17, 1995
+Jane W. S. Liu , Rhan Ha, Efficient methods of validating timing constraints, Advances in real-time systems, Prentice-Hall, Inc., Upper Saddle River, NJ, 1995

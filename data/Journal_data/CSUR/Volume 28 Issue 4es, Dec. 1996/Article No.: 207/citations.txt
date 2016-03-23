@@ -1,0 +1,2 @@
+William Maniatty , Mohammed Javeed Zaki, A Requirements Analysis for Parallel KDD Systems, Proceedings of the 15 IPDPS 2000 Workshops on Parallel and Distributed Processing, p.358-365, May 01-05, 2000
+William A. Maniatty , Mohammed J. Zaki, Systems support for scalable data mining, ACM SIGKDD Explorations Newsletter, v.2 n.2, p.56-65, Dec. 2000

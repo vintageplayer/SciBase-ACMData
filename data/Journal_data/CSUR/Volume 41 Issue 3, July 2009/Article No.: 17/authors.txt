@@ -1,0 +1,4 @@
+claudio_carpineto author_page.cfm?id=81100165299&CFID=762304674&CFTOKEN=20726030
+stanislaw_osinski author_page.cfm?id=81320493479&CFID=762304674&CFTOKEN=20726030
+giovanni_romano author_page.cfm?id=81100602499&CFID=762304674&CFTOKEN=20726030
+dawid_weiss author_page.cfm?id=81100500121&CFID=762304674&CFTOKEN=20726030

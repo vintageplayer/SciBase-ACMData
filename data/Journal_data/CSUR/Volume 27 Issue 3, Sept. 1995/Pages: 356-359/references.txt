@@ -1,0 +1,12 @@
+Robert H. Creecy , Brij M. Masand , Stephen J. Smith , David L. Waltz, Trading MIPS and memory for knowledge engineering, Communications of the ACM, v.35 n.8, p.48-64, Aug. 1992[doi>10.1145/135226.135228]
+Scott Cost , Steven Salzberg, A Weighted Nearest Neighbor Algorithm for Learning with Symbolic Features, Machine Learning, v.10 n.1, p.57-78, Jan. 1993[doi>10.1023/A:1022664626993]
+DASARATHY, B. V., Ed. 1991. Nearest Neighbor (NN) Norms: NN Pattern Classification Techniques. IEEE Computer Society Press, Los Alamitos, CA.
+Janet Kolodner, Case-based reasoning, Morgan Kaufmann Publishers Inc., San Francisco, CA, 1993
+MOORE, A., ATKESON, C., AND SCHAAL, S. 1995. Memory-based learning for control. Artif. Intell. Rev. (to appear).
+MAES, P. AND KOZlEROK, R. 1993. Learning interface agents. In Proceedings of the Eleventh National Conference on Artificial I, telligence (Washington, D.C.), MIT Press, Cambridge, MA, 459-465.
+Brij Masand , Gordon Linoff , David Waltz, Classifying news stories using memory based reasoning, Proceedings of the 15th annual international ACM SIGIR conference on Research and development in information retrieval, p.59-65, June 21-24, 1992, Copenhagen, Denmark[doi>10.1145/133160.133177]
+Judea Pearl, Probabilistic reasoning in intelligent systems: networks of plausible inference, Morgan Kaufmann Publishers Inc., San Francisco, CA, 1988
+RACHLIN, J., KASIF, S., SALZBERG, S., AND AHA, n. 1994. Towards a better understanding of memory-based and Bayesian classifiers. In Proceedings of the Eleventh International Conference on Machine Learning (New Brunswick, N.J., July), 242-250.
+Craig Stanfill , David Waltz, Toward memory-based reasoning, Communications of the ACM, v.29 n.12, p.1213-1228, Dec. 1986[doi>10.1145/7902.7906]
+David L. Waltz, Eight principles for building an intelligent robot, Proceedings of the first international conference on simulation of adaptive behavior on From animals to animats, p.462-464, February 1991, Paris, France
+ZHANG, X., Musmov, J. P., AND WALTZ, D.L. 1992. A hybrid system for protein secondary structure prediction. J. Molecular Btol. 225, 1049-1063.

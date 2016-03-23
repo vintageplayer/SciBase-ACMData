@@ -1,0 +1,1 @@
+Nethanel Gelernter , Amir Herzberg, Cross-Site Search Attacks, Proceedings of the 22nd ACM SIGSAC Conference on Computer and Communications Security, October 12-16, 2015, Denver, Colorado, USA

@@ -1,0 +1,3 @@
+frank_w_allen author_page.cfm?id=81100651803&CFID=592448275&CFTOKEN=13188409
+mary_e_s_loomis author_page.cfm?id=81100091003&CFID=592448275&CFTOKEN=13188409
+michael_v_mannino author_page.cfm?id=81100584226&CFID=592448275&CFTOKEN=13188409

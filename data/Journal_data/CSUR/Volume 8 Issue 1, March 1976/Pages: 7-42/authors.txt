@@ -1,0 +1,2 @@
+james_p_fry author_page.cfm?id=81410592914&CFID=592452805&CFTOKEN=63747901
+edgar_h_sibley author_page.cfm?id=81100565736&CFID=592452805&CFTOKEN=63747901

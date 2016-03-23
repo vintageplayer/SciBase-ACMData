@@ -1,0 +1,3 @@
+david_payton author_page.cfm?id=81100151644&CFID=762328132&CFTOKEN=54492142
+mike_daily author_page.cfm?id=81100612554&CFID=762328132&CFTOKEN=54492142
+kevin_martin author_page.cfm?id=81100425962&CFID=762328132&CFTOKEN=54492142

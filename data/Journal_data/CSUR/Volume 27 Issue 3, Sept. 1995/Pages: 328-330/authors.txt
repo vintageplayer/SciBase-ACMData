@@ -1,0 +1,2 @@
+didier_dubois author_page.cfm?id=81100179824&CFID=762602201&CFTOKEN=73574314
+henri_prade author_page.cfm?id=81100531685&CFID=762602201&CFTOKEN=73574314

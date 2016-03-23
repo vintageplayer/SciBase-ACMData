@@ -1,0 +1,4 @@
+Andrew W. Appel and David B. MacQueen. Standard ML of New Jersey. In J. Maluszy~ nski and M. Wirsing, editors, Programming Language Implementation and Logic Programming, pages 1{13. Springer-Verlag, August 1991. Lecture Notes in Computer Science 528
+Kim Bruce, Luca Cardelli, Guiseppe Castagna, The Hopkins Objects Group, Gary T.Leavens, and Benjamin Pierce. On binary methods. Theory and Practice of Object Systems, 1(3), 1996.
+Jean-Yves Girard, Linear logic, Theoretical Computer Science, v.50 n.1, p.1-102, Jan. 30, 1987[doi>10.1016/0304-3975(87)90045-4]
+Jean-Pierre Talpin and Pierre Jouvelot. The type and e~ect discipline. In Seventh Annual IEEE Symposium on Logic in Computer Science, Santa Cruz, California, pages 162{173, Los Alamitos, California, June 1992. IEEE Computer Society Press.

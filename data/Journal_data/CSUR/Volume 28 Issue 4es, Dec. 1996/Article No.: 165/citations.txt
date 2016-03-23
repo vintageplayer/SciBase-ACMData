@@ -1,0 +1,7 @@
+David A. Schmidt, On the need for a popular formal semantics, ACM Computing Surveys (CSUR), v.28 n.4es, Dec. 1996
+Corrado Priami, Operational methods in theoretical computer science, ACM Computing Surveys (CSUR), v.31 n.3es, Sept. 1999
+Gilles Barthe , Guillaume Dufay , Marieke Huisman , Simão Melo de Sousa, Jakarta: A Toolset for Reasoning about JavaCard, Proceedings of the International Conference on Research in Smart Cards: Smart Card Programming and Security, p.2-18, September 19-21, 2001
+Emmanuel M. Tadjouddine , Frank Guerin , Wamberto Vasconcelos, Abstracting and Verifying Strategy-Proofness for Auction Mechanisms, Declarative Agent Languages and Technologies VI: 6th International Workshop, DALT 2008, Estoril, Portugal, May 12, 2008, Revised Selected and Invited Papers, Springer-Verlag, Berlin, Heidelberg, 2008
+Annalisa Bossi , Maria Chiara Meo, Theoretical foundations and semantics of logic programming, A 25-year perspective on logic programming: achievements of the Italian association for logic programming, GULP, Springer-Verlag, Berlin, Heidelberg, 2010
+Annalisa Bossi, S-semantics for logic programming: A retrospective look, Theoretical Computer Science, v.410 n.46, p.4692-4703, November, 2009
+Roberto Giacobazzi , Francesco Ranzato , Francesca Scozzari, Making abstract interpretations complete, Journal of the ACM (JACM), v.47 n.2, p.361-416, March 2000

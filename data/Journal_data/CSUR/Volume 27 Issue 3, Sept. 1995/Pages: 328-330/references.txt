@@ -1,0 +1,8 @@
+Didier Dubois , Francesc Esteva , Pere Garcia , Lluis Godo , Henri Prade, Similarity-based Consequence Relations, Proceedings of the European Conference on Symbolic and Quantitative Approaches to Reasoning and Uncertainty, p.171-180, July 03-05, 1995
+D. Dubois , J. Lang , H. Prade, Possibilistic logic, Handbook of logic in artificial intelligence and logic programming (vol. 3): nonmonotonic reasoning and uncertain reasoning, Oxford University Press, Inc., New York, NY, 1994
+DUBOiS, D. AND PRADE H. 1995 Possibility theory as a basis for qualitative decision theory. In Proceedings of the 14th Int. Joint Conference on Art~fictal Intelhgence ( IJCAI'95) (Montreal, Canada, Aug 19 25), 1924-1930.
+Michael DuBois , Didier DuBois , Henri Prade, Readings in Fuzzy Sets for Intelligent Systems, Morgan Kaufmann Publishers Inc., San Francisco, CA, 1993
+Charles Elkan, The Paradoxical Success of Fuzzy Logic, IEEE Expert: Intelligent Systems and Their Applications, v.9 n.4, p.3-8, August 1994[doi>10.1109/64.336150]
+George J. Klir , Bo Yuan, Fuzzy sets and fuzzy logic: theory and applications, Prentice-Hall, Inc., Upper Saddle River, NJ, 1994
+Proceedings of the Workshop on Fuzzy Logic in Artificial Intelligence, August 1993
+ZADEH, L.A. 1987. Fuzzy Sets and Apphcatwns (Selected papers, R. R. Yager, S. Ovchinnikov, R. M. Tong, and H. T. Ngyuen, Eds.). Wiley, New York.

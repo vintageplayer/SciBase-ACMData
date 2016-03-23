@@ -1,0 +1,2 @@
+daniel_le_metayer author_page.cfm?id=81100387737&CFID=592220943&CFTOKEN=10144708
+david_schmidt author_page.cfm?id=81410595094&CFID=592220943&CFTOKEN=10144708

@@ -1,0 +1,2 @@
+Laurent Bouillon , Jean Vanderdonckt , Kwok Chieu Chow, Flexible re-engineering of web sites, Proceedings of the 9th international conference on Intelligent user interfaces, January 13-16, 2004, Funchal, Madeira, Portugal
+Renata Bandelloni , Fabio Paternò , Carmen Santoro, Reverse Engineering Cross-Modal User Interfaces for Ubiquitous Environments, Engineering Interactive Systems: EIS 2007 Joint Working Conferences, EHCI 2007, DSV-IS 2007, HCSE 2007, Salamanca, Spain, March 22-24, 2007. Selected Papers, Springer-Verlag, Berlin, Heidelberg, 2008

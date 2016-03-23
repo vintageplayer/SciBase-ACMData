@@ -1,0 +1,6 @@
+Jia Wu , Shirui Pan , Xingquan Zhu , Zhihua Cai , Chengqi Zhang, Multi-graph-view learning for complicated object classification, Proceedings of the 24th International Conference on Artificial Intelligence, p.3953-3959, July 25-31, 2015, Buenos Aires, Argentina
+Karthik Subbian , Charu Aggarwal , Jaideep Srivastava, Mining Influencers Using Information Flows in Social Streams, ACM Transactions on Knowledge Discovery from Data (TKDD), v.10 n.3, p.1-28, February 2016
+Charu C. Aggarwal, Mining text and social streams: a review, ACM SIGKDD Explorations Newsletter, v.15 n.2, December 2013
+Robert Ryan McCune , Tim Weninger , Greg Madey, Thinking Like a Vertex: A Survey of Vertex-Centric Frameworks for Large-Scale Distributed Graph Processing, ACM Computing Surveys (CSUR), v.48 n.2, p.1-39, November 2015
+Leman Akoglu , Hanghang Tong , Danai Koutra, Graph based anomaly detection and description: a survey, Data Mining and Knowledge Discovery, v.29 n.3, p.626-688, May       2015
+Ankit Sharma , Rui Kuang , Jaideep Srivastava , Xiaodong Feng , Kartik Singhal, Predicting Small Group Accretion in Social Networks: A topology based incremental approach, Proceedings of the 2015 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining 2015, August 25-28, 2015, Paris, France

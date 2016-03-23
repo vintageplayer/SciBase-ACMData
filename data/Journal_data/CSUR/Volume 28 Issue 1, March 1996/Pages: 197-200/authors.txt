@@ -1,0 +1,3 @@
+stuart_a_selber author_page.cfm?id=81100385483&CFID=592438275&CFTOKEN=44450878
+johndan_johnson-eilola author_page.cfm?id=81100007334&CFID=592438275&CFTOKEN=44450878
+brad_mehlenbacher author_page.cfm?id=81100357281&CFID=592438275&CFTOKEN=44450878

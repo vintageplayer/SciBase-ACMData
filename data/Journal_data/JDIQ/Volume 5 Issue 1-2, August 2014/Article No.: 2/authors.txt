@@ -1,0 +1,4 @@
+john_talburt author_page.cfm?id=81100193409&CFID=592312543&CFTOKEN=60949954
+therese_l_williams author_page.cfm?id=99658635133&CFID=592312543&CFTOKEN=60949954
+thomas_c_redman author_page.cfm?id=81100374174&CFID=592312543&CFTOKEN=60949954
+david_becker author_page.cfm?id=99658636304&CFID=592312543&CFTOKEN=60949954

@@ -1,0 +1,4 @@
+Mary Campione , Kathy Walrath, The  Java Tutorial: Object-Oriented Programming for the Internet, Addison-Wesley Longman Publishing Co., Inc., Boston, MA, 1996
+Cardelli, L., A language with distributed scope. Computing Systems, 8(1), 27-59. MIT Press. 1995.
+Internet Engineering Task Force, Internet standards. The Internet Society. 1996.
+White, J.E., Telescript technology: the foundation for the electronic marketplace. White Paper. General Magic, Inc.1994.

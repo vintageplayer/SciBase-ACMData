@@ -1,0 +1,16 @@
+Edoardo Biagioni , Robert Harper , Peter Lee , Brian G. Milnes, Signatures for a network protocol stack: a systems application of Standard ML, Proceedings of the 1994 ACM conference on LISP and functional programming, p.55-64, June 27-29, 1994, Orlando, Florida, USA[doi>10.1145/182409.182431]
+Guy E. Blelloch , Jonathan C. Hardwick , Jay Sipelstein , Marco Zagha , Siddhartha Chatterjee, Implementation of a portable nested data-parallel language, Journal of Parallel and Distributed Computing, v.21 n.1, p.4-14, April 1994[doi>10.1006/jpdc.1994.1038]
+Emden R. Gansner , John H. Reppy, A multi-threaded higher-order user interface toolkit, User interface software, John Wiley & Sons, Inc., New York, NY, 1993
+Kanellakis, P., Mairson, H., and Mitchell, J. 1991. Uni~cation and ML type reconstruction. In Computational Logic, Essays in Honor of Alan Robinson, pp. 444{478. MIT Press.
+Xavier Leroy, Applicative functors and fully transparent higher-order modules, Proceedings of the 22nd ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.142-153, January 23-25, 1995, San Francisco, California, USA[doi>10.1145/199448.199476]
+Leroy, X. 1996. The Objective Caml system: Documentation and user's guide. Available at http://pauillac.inria.fr/ocaml/htmlman/.
+David MacQueen, Modules for standard ML, Proceedings of the 1984 ACM Symposium on LISP and functional programming, p.198-207, August 06-08, 1984, Austin, Texas, USA[doi>10.1145/800055.802036]
+David B. MacQueen , Mads Tofte, A Semantics for Higher-Order Functors, Proceedings of the 5th European Symposium on Programming: Programming Languages and Systems, p.409-423, April 11-13, 1994
+Robin Milner , Mads Tofte , Robert Harper, The definition of Standard ML, MIT Press, Cambridge, MA, 1990
+Robin Milner , Mads Tofte , Robert Harper, The definition of Standard ML, MIT Press, Cambridge, MA, 1990
+Benjamin C. Pierce, Bounded quantification is undecidable, Proceedings of the 19th ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.305-315, January 19-22, 1992, Albuquerque, New Mexico, USA[doi>10.1145/143165.143228]
+John H. Reppy, CML: A higher concurrent language, ACM SIGPLAN Notices, v.26 n.6, p.293-305, June 1991[doi>10.1145/113446.113470]
+John Reppy , Jon Riecke, Simple objects for Standard ML, Proceedings of the ACM SIGPLAN 1996 conference on Programming language design and implementation, p.171-180, May 21-24, 1996, Philadelphia, Pennsylvania, USA[doi>10.1145/231379.231412]
+D. Tarditi , G. Morrisett , P. Cheng , C. Stone , R. Harper , P. Lee, TIL: a type-directed optimizing compiler for ML, Proceedings of the ACM SIGPLAN 1996 conference on Programming language design and implementation, p.181-192, May 21-24, 1996, Philadelphia, Pennsylvania, USA[doi>10.1145/231379.231414]
+Weis, P. and Leroy, X. 1993. Le Language CAML. InterEditions, Paris.
+Wells, J. 1994. Typability and type checking in the second-order lambda-calculus are equivalent and undecidable. In Proc. IEEE Symp. on Logic in Computer Science (1994), pp. 176{185.

@@ -1,0 +1,3 @@
+matthew_l_jensen author_page.cfm?id=81100640101&CFID=762476567&CFTOKEN=33388549
+judee_k_burgoon author_page.cfm?id=81100139378&CFID=762476567&CFTOKEN=33388549
+jay_f_nunamaker author_page.cfm?id=81452618152&CFID=762476567&CFTOKEN=33388549

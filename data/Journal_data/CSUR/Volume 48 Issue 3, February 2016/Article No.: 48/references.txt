@@ -1,0 +1,173 @@
+E. Adar, J. Teevan, S. T. Dumais, and J. L. Elsas. 2009. The web changes everything: Understanding the dynamics of web content. In Proc. of the 2nd ACM Int. Conf. on Web Search and Data Mining (WSDM’09). ACM, 282--291.
+Y.-Y. Ahn, S. Han, H. Kwak, S. Moon, and H. Jeong. 2007. Analysis of topological characteristics of huge online social networking services. In Proc. of the 16th Int. Conf. on World Wide Web (WWW’07). ACM, 835--844.
+V. Akula and D. A. Menascé. 2007. Two-level workload characterization of online auctions. Electronic Commerce Research and Applications 6, 2 (2007), 192--208.
+J. M. Almeida, J. Krueger, D. L. Eager, and M. K. Vernon. 2001. Analysis of educational media server workloads. In Proc. of the 11th Int. Workshop on Network and Operating Systems Support for Digital Audio and Video (NOSSDAV’01). ACM, 21--30.
+M. Arlitt, D. Krishnamurthy, and J. Rolia. 2001. Characterizing the scalability of a large web-based shopping system. ACM Transactions on Internet Technology 1, 1 (2001), 44--69.
+M. Arlitt and C. Williamson. 1996. Web server workload characterization: The search for invariants. In Proc. of the ACM SIGMETRICS Int. Conf. on Measurement and Modeling of Computer Systems. ACM, 126--137.
+M. F. Arlitt and C. L. Williamson. 1997. Internet web servers: Workload characterization and performance implications. IEEE/ACM Transactions on Networking 5, 5 (1997), 631--645.
+F. Azmandian, M. Moffie, J. G. Dy, J. A. Aslam, and D. R. Kaeli. 2011. Workload characterization at the virtualization layer. In Proc. of the 19th Int. Symp. on Modeling, Analysis Simulation of Computer and Telecommunication Systems (MASCOTS’11). IEEE, 63--72.
+N. Basher, A. Mahanti, A. Mahanti, C. Williamson, and M. Arlitt. 2008. A comparative analysis of web and peer-to-peer traffic. In Proc. of the 17th Int. Conf. on World Wide Web (WWW’08). ACM, 287--296.
+F. Benevenuto, T. Rodrigues, M. Cha, and V. Almeida. 2009. Characterizing user behavior in online social networks. In Proc. of the 9th ACM SIGCOMM Conf. on Internet Measurement (IMC’09). ACM, 49--62.
+F. Benevenuto, T. Rodrigues, M. Cha, and V. Almeida. 2012. Characterizing user navigation and interactions in online social networks. Information Sciences 195 (2012), 1--24.
+L. Bent, M. Rabinovich, G. M. Voelker, and Z. Xiao. 2006. Characterization of a large web site population with implications for content delivery. World Wide Web Journal 9, 4 (2006), 505--536.
+C. Bernardini, T. Silverston, and O. Festor. 2014. A pin is worth a thousand words: Characterization of publications in Pinterest. In Proc. of the 5th Int. Workshop on TRaffic Analysis and Characterization (TRAC’14). IEEE, 322--327.
+R. Birke, A. Podzimek, L. Y. Chen, and E. Smirni. 2013. State-of-the-practice in data center virtualization: Toward a better understanding of VM usage. In Proc. of the 43rd Annual IEEE/IFIP Int. Conf. on Dependable Systems and Networks (DSN’13).
+M. Böhmer, B. Hecht, J. Schöning, A. Krüger, and G. Bauer. 2011. Falling asleep with angry birds, Facebook and Kindle: A large scale study on mobile application usage. In Proc. of the 13th Int. Conf. on Human Computer Interaction with Mobile Devices and Services (MobileHCI’11). ACM, 47--56.
+Y. Borghol, S. Ardon, N. Carlsson, D. Eager, and A. Mahanti. 2012. The untold story of the clones: Content-agnostic factors that impact YouTube video popularity. In Proc. of the 18th ACM SIGKDD Int. Conf. on Knowledge Discovery and Data Mining (KDD’12). ACM, 1186--1194.
+Y. Borghol, S. Mitra, S. Ardon, N. Carlsson, D. Eager, and A. Mahanti. 2011. Characterizing and modelling popularity of user-generated videos. Performance Evaluation 68, 11 (2011), 1037--1055.
+G. E. P. Box, G. M. Jenkins, and G. C. Reinsel. 2008. Time Series Analysis - Forecasting and Control (4th ed.). Wiley.
+B. E. Brewington and G. Cybenko. 2000. How dynamic is the web? Computer Networks 33, 1--6 (2000), 257--276.
+A. Broder, R. Kumar, F. Maghoul, P. Raghavan, S. Rajagopalan, R. Stata, A. Tomkins, and J. Wiener. 2000. Graph structure in the web. Computer Networks 33, 1--6 (2000), 309--320.
+A. Brodersen, S. Scellato, and M. Wattenhofer. 2012. YouTube around the world: Geographic popularity of videos. In Proc. of the 21st Int. Conf. on World Wide Web (WWW’12). ACM, 241--250.
+M. Butkiewicz, H. V. Madhyastha, and V. Sekar. 2011. Understanding website complexity: Measurements, metrics, and implications. In Proc. of the 11th ACM SIGCOMM Conf. on Internet Measurement (IMC’11). ACM, 313--328.
+M. Calzarossa, M. L. Della Vedova, L. Massari, D. Petcu, M. I. M. Tabash, and D. Tessera. 2016. Workloads in the clouds. In Principles of Performance and Reliability Modeling and Evaluation, L. Fiondella and A. Puliafito (Eds.). Springer.
+M. Calzarossa and D. Ferrari. 1986. A sensitivity study of the clustering approach to workload modeling. Performance Evaluation 6 (1986), 25--33.
+M. Calzarossa, G. Haring, and G. Serazzi. 1988. On workload modeling for computer networks. In Architektur und Betrieb von Rechensystemen, U. Kastens and F. J. Rammig (Eds.). Springer-Verlag, 324--339.
+M. Calzarossa and L. Massari. 2011. Analysis of web logs: Challenges and findings. In Performance Evaluation of Computer and Communication Systems - Milestones and Future Challenges, K. A. Hummel, H. Hlavacs, and W. Gansterer (Eds.). Lecture Notes in Computer Science, Vol. 6821. Springer, 227--239.
+M. Calzarossa and L. Massari. 2012. Temporal analysis of crawling activities of commercial web robots. In Computer and Information Sciences III, E. Gelenbe and R. Lent (Eds.). Lecture Notes in Electrical Engineering, Vol. 264. Springer, 429--436.
+M. Calzarossa, L. Massari, and D. Tessera. 2000. Workload characterization: Issues and methodologies. In Performance Evaluation - Origins and Directions, G. Haring, C. Lindemann, and M. Reiser (Eds.). Lecture Notes in Computer Science, Vol. 1769. Springer, 459--484.
+M. Calzarossa, L. Massari, and D. Tessera. 2013. An extensive study of web robots traffic. In Proc. of Int. Conf. on Information Integration and Web-Based Applications & Services (iiWAS’’13). ACM, 410--417.
+M. Calzarossa and G. Serazzi. 1993. Workload characterization: A survey. Proceedings of the IEEE 8, 81 (1993), 1136--1150.
+M. Calzarossa and D. Tessera. 2008. Characterization of the evolution a news Web site. Journal of Systems and Software 81, 12 (2008), 2336--2344.
+M. Calzarossa and D. Tessera. 2010. An exploratory analysis of the novelty of a news Web site. In Proc. of the Int. Symp. on Performance Evaluation of Computer and Telecommunication Systems (SPECTS’10). IEEE, 399--404.
+M. Calzarossa and D. Tessera. 2014. Multivariate analysis of web content changes. In Proc. of the 11th ACS/IEEE Int. Conf. on Computer Systems and Applications (AICCSA’14). IEEE Computer Society Press, 699--706.
+M. Calzarossa and D. Tessera. 2015. Modeling and predicting temporal patterns of web content changes. Journal of Network and Computer Applications 56 (2015), 115--123.
+B. Carbunar and R. Potharaju. 2015. A longitudinal study of the Google app market. In Proc. of the 2015 IEEE/ACM Int. Conf. on Advances in Social Networks Analysis and Mining (ASONAM’15). ACM, 242--249.
+E. Casalicchio, S. Iannucci, and L. Silvestri. 2015. Cloud desktop workload: A characterization study. In Proc. of the Int. Conf. on Cloud Engineering (IC2E’15). IEEE, 66--75.
+M. Cataldi and M. A. Aufaure. 2015. The 10 million follower fallacy: Audience size does not prove domain-influence on Twitter. Knowledge and Information Systems 44, 3 (2015), 559--580.
+M. Cha, F. Benevenuto, Y.-Y. Ahn, and K. P. Gummadi. 2012a. Delayed information cascades in Flickr: Measurement, analysis, and modeling. Computer Networks 56, 3 (2012), 1066--1076.
+M. Cha, F. Benevenuto, H. Haddadi, and K. P. Gummadi. 2012b. The world of connections and information flow in Twitter. IEEE Transactions on Systems, Man and Cybernetics, Part A: Systems and Humans 42, 4 (2012), 991--998.
+M. Cha, H. Kwak, P. Rodriguez, Y.-Y. Ahn, and S. Moon. 2007. I tube, you tube, everybody tubes: Analyzing the world’s largest user generated content video system. In Proc. of the 7th ACM SIGCOMM Conf. on Internet Measurement (IMC’07). ACM, 1--14.
+M. Cha, H. Kwak, P. Rodriguez, Y.-Y. Ahn, and S. Moon. 2009. Analyzing the video popularity characteristics of large-scale user generated content systems. IEEE/ACM Transactions on Networking 17, 5 (2009), 1357--1370.
+M. Cha, A. Mislove, B. Adams, and K. P. Gummadi. 2008. Characterizing social cascades in Flickr. In Proc. of the 1st Workshop on Online Social Networks (WOSN’08). ACM, 13--18.
+M. Cha, A. Mislove, and K. P. Gummadi. 2009. A measurement-driven analysis of information propagation in the Flickr social network. In Proc. of the 18th Int. Conf. on World Wide Web (WWW’09). ACM, 721--730.
+G. Chatzopoulou, S. Cheng, and M. Faloutsos. 2010. A first step towards understanding popularity in YouTube. In Proc. IEEE INFOCOM Conf. on Computer Communications Workshops.
+L. Chen, Y. Zhou, and D. M. Chiu. 2014. A study of user behavior in online VoD services. Computer Communications 46 (2014), 66--75.
+Y. Chen, A. S. Ganapathi, R. Griffith, and R. H. Katz. 2010. Analysis and Lessons from a Publicly Available Google Cluster Trace. Technical Report UCB/EECS-2010-95. Electrical Engineering and Computer Sciences, University of California at Berkeley.
+X. Cheng, J. Liu, and C. Dale. 2013. Understanding the characteristics of Internet short video sharing: A YouTube-based measurement study. IEEE Transactions on Multimedia 15, 5 (2013), 1184--1194.
+Z. Cheng, J. Caverlee, K. Lee, and D. Sui. 2011. Exploring millions of footprints in location sharing services. In Proc. of the 5th Int. AAAI Conf. on Weblogs and Social Media (ICWSM’11). 81--88.
+L. Cherkasova and M. Gupta. 2004. Analysis of enterprise media server workloads: Access patterns, locality, content evolution, and rates of change. IEEE/ACM Transactions on Networking 12, 5 (2004), 781--794.
+J. Cho and H. Garcia-Molina. 2003. Estimating frequency of change. ACM Transactions on Internet Technology 3, 3 (2003), 256--290.
+A. Clauset, C. R. Shalizi, and M. E. J. Newman. 2009. Power-law distributions in empirical data. SIAM Review 51, 4 (2009), 661--703.
+G. Cormode and B. Krishnamurthy. 2008. Key differences between web 1.0 and web 2.0. First Monday 13, 6 (2008).
+G. Cormode, B. Krishnamurthy, and W. Willinger. 2010. A manifesto for modeling and measurement in social media. First Monday 15, 9 (2010).
+M. Crovella and B. Krishnamurthy. 2006. Internet Measurement: Infrastructure, Traffic & Applications. Wiley.
+M. De Choudhury, Y.-R. Lin, H. Sundaram, K. S. Candan, L. Xie, and A. Kelliher. 2010. How does the data sampling strategy impact the discovery of information diffusion in social media? In Proc. of the 4th Int. AAAI Conf. on Weblogs and Social Media (ICWSM’10). 34--41.
+S. Di, D. Kondo, and F. Cappello. 2014a. Characterizing and modeling cloud applications/jobs on a Google data center. Journal of Supercomputing 69, 1 (2014), 139--160.
+S. Di, D. Kondo, and W. Cirne. 2014b. Google hostload prediction based on Bayesian model with optimized feature combination. Journal of Parallel and Distributed Computing 74, 1 (2014), 1820--1832.
+M. D. Dikaiakos, A. Stassopoulou, and L. Papageorgiou. 2005. An investigation of web crawler behavior: Characterization and metrics. Computer Communications 28, 8 (2005), 880--897.
+Y. Ding, Y. Du, Y. Hu, Z. Liu, L. Wang, K. Ross, and A. Ghose. 2011. Broadcast yourself: Understanding YouTube uploaders. In Proc. of the 11th ACM SIGCOMM Conf. on Internet Measurement (IMC’11). ACM, 361--370.
+T. M. T. Do, J. Blom, and D. Gatica-Perez. 2011. Smartphone usage in the wild: A large-scale analysis of applications and context. In Proc. of the 13th Int. Conf. on Multimodal Interfaces (ICMI’11). ACM, 353--360.
+T. M. T. Do and D. Gatica-Perez. 2014. Where and what: Using smartphones to predict next locations and applications in daily life. Pervasive and Mobile Computing 12 (2014), 79--91.
+D. Doran and S. S. Gokhale. 2011. Web robot detection techniques: Overview and limitations. Data Mining and Knowledge Discovery 22, 1--2 (2011), 183--210.
+D. Doran, K. Morillo, and S. S. Gokhale. 2013. A comparison of web robot and human requests. In Proc. of the 2013 IEEE/ACM Int. Conf. on Advances in Social Networks Analysis and Mining (ASONAM’13). ACM, 1374--1380.
+D. Doran, S. Yelne, L. Massari, M. Calzarossa, L. Jackson, and G. Moriarty. 2015. Stay awhile and listen: User interactions in a crowdsourced platform for clinical psychology. In Proc. of the IEEE/ACM Int. Conf. on Advances in Social Networks Analysis and Mining (ASONAM’15). ACM, 667--674.
+I. Drago, M. Mellia, M. M. Munafò, A. Sperotto, R. Sadre, and A. Pras. 2012. Inside Dropbox: Understanding personal cloud storage services. In Proc. of the 12th ACM SIGCOMM Conf. on Internet Measurement (IMC’12). ACM, 481--494.
+N. R. Draper and H. Smith. 1998. Applied Regression Analysis (3rd ed.). Wiley.
+H. Falaki, R. Mahajan, S. Kandula, D. Lymberopoulos, R. Govindan, and D. Estrin. 2010. Diversity in smartphone usage. In Proc. of the 8th Int. Conf. on Mobile Systems, Applications and Services (MobiSys’10). ACM, 179--194.
+R. Farahbakhsh, X. Han, A. Cuevas, and N. Crespi. 2013. Analysis of publicly disclosed information in Facebook profiles. In Proc. of the IEEE/ACM Int. Conf. on Advances in Social Networks Analysis and Mining (ASONAM’13). 699--705.
+D. G. Feitelson. 2015. Workload Modeling for Computer Systems Performance Evaluation. Cambridge University Press.
+D. Ferrari. 1972. Workload characterization and selection in computer performance measurement. Computer 5, 4 (1972), 18--24.
+D. Ferrari. 1984. On the foundations of artificial workload design. In Proc. of the ACM SIGMETRICS Int. Conf. on Measurement and Modeling of Computer Systems. ACM, 8--14.
+D. Ferrari, G. Serazzi, and A. Zeigner. 1983. Measurement and Tuning of Computer Systems. Prentice-Hall.
+D. Fetterly, M. Manasse, M. Najork, and J. Wiener. 2004. A large-scale study of the evolution of web pages. Software: Practice & Experience 34, 2 (2004), 213--237.
+F. Figueiredo, J. M. Almeida, M. A. Gonçalves, and F. Benevenuto. 2014. On the dynamics of social media popularity: A YouTube case study. ACM Transaction on Internet Technology 14, 4 (2014), 24:1--24:23.
+F. Figueiredo, F. Benevenuto, and J. M. Almeida. 2011. The tube over time: Characterizing popularity growth of YouTube videos. In Proc. of the 4th ACM Int. Conf. on Web Search and Data Mining (WSDM’11). ACM, 745--754.
+W. Fischer and K. Meier-Hellstern. 1993. The Markov-Modulated Poisson Process (MMPP) cookbook. Performance Evaluation 18, 2 (1993), 149--171.
+M. Gabielkov, A. Rao, and A. Legout. 2014. Studying social networks at scale: Macroscopic anatomy of the Twitter social graph. In Proc. of the ACM SIGMETRICS Int. Conf. on Measurement and Modeling of Computer Systems. ACM, 277--288.
+G. Gan, C. Ma, and J. Wu. 2007. Data Clustering: Theory, Algorithms, and Applications. SIAM.
+Q. Gao, F. Abel, G. J. Houben, and Y. Yu. 2012. A comparative study of users’ microblogging behavior on Sina Weibo and Twitter. In User Modeling, Adaptation, and Personalization, J. Masthoff, B. Mobasher, M. C. Desmarais, and R. Nkambou (Eds.). Lecture Notes in Computer Science, Vol. 7379. Springer, 88--101.
+R. García, X. G. Pañeda, V. García, D. Melendi, and M. Vilas. 2007. Statistical characterization of a real video on demand service: User behaviour and streaming-media workload analysis. Simulation Modelling Practice and Theory 15, 6 (2007), 672--689.
+M. Gerontini and S. Moritz. 2014. Large scale geospatial analysis on mobile application usage. In Proc. of the 8th Int. Conf. on Next Generation Mobile Apps, Services and Technologies (NGMAST). 94--99.
+M. Ghorbani, Y. Wang, Y. Xue, M. Pedram, and P. Bogdan. 2014. Prediction and control of bursty cloud workloads: A fractal framework. In Proc. of the 2014 Int. Conf. on Hardware/Software Codesign and System Synthesis (CODES’14). ACM, 12:1--12:9.
+E. Gilbert, S. Bakhshi, S. Chang, and L. Terveen. 2013. “I need to try this&excl;”: A statistical overview of Pinterest. In Proc. of the ACM SIGCHI Conf. on Human Factors in Computing Systems (CHI’13). ACM, 2427--2436.
+P. Gill, M. Arlitt, N. Carlsson, A. Mahanti, and C. Williamson. 2011. Characterizing organizational use of web-based services: Methodology, challenges, observations, and insights. ACM Transactions on the Web 5, 4 (2011), 19:1--19:23.
+P. Gill, M. Arlitt, Z. Li, and A. Mahanti. 2007. YouTube traffic characterization: A view from the edge. In Proc. of the 7th ACM SIGCOMM Conf. on Internet Measurement (IMC’07). ACM, 15--28.
+M. Gjoka, M. Kurant, C. T. Butts, and A. Markopoulou. 2011. Practical recommendations on crawling online social networks. IEEE Journal on Selected Areas Communications 29, 9 (2011), 1872--1892.
+D. Gmach, J. Rolia, L. Cherkasova, and A. Kemper. 2007. Workload analysis and demand prediction of enterprise data center applications. In Proc. of the Int. Symp. on Workload Characterization (IISWC’07). IEEE, 171--180.
+G. Gonçalves, I. Drago, A. P. Couto da Silva, A. B. Vieira, and J. M. Almeida. 2014. Modeling the Dropbox client behavior. In Proc. of the Int. Conf. on Communications (ICC’14). IEEE, 1332--1337.
+N. Z. Gong, W. Xu, L. Huang, P. Mittal, E. Stefanov, V. Sekar, and D. Song. 2012. Evolution of social-attribute networks: Measurements, modeling, and implications using Google+. In Proc. of the 12th ACM SIGCOMM Conf. on Internet Measurement (IMC’12). ACM, 131--144.
+V. Gopalakrishnan, R. Jana, K. K. Ramakrishnan, D. F. Swayne, and V. A. Vaishampayan. 2011. Understanding couch potatoes: Measurement and modeling of interactive usage of IPTV at large scale. In Proc. of the 11th ACM SIGCOMM Conf. on Internet Measurement (ICM’11). ACM, 225--242.
+G. Gürsun, M. Crovella, and I. Matta. 2011. Describing and forecasting video access patterns. In Proc. of IEEE INFOCOM. 16--20.
+J. Han, D. Choi, B. G. Chun, T. Kwon, H. C. Kim, and Y. Choi. 2014. Collecting, organizing, and sharing pins in Pinterest: Interest-driven or social-driven? In Proc. of the ACM SIGMETRICS Int. Conf. on Measurement and Modeling of Computer Systems. ACM, 15--27.
+S. Ihm and V. S. Pai. 2011. Towards understanding modern Web traffic. In Proc. of the 11th ACM SIGCOMM Conf. on Internet Measurement (IMC’11). ACM, 295--312.
+M. A. Islam, D. Eager, N. Carlsson, and A. Mahanti. 2013. Revisiting popularity characterization and modeling of user-generated videos. In Proc. of the 21st Int. Symp. on Modeling, Analysis Simulation of Computer and Telecommunication Systems (MASCOTS’13). IEEE Computer Society Press, 350--354.
+A. K. Jain, M. N. Murty, and P. J. Flynn. 1999. Data clustering: A review. ACM Computing Surveys 31, 3 (1999), 264--323.
+A. Java, X. Song, T. Finin, and B. Tseng. 2007. Why we Twitter: Understanding microblogging usage and communities. In Proc. of the 9th WebKDD and 1st SNA-KDD 2007 Workshop on Web Mining and Social Network Analysis. ACM, 56--65.
+J. Jiang, C. Wilson, X. Wang, W. Sha, P. Huang, Y. Dai, and B. Y. Zhao. 2010. Understanding latent interactions in online social networks. In Proc. of the 10th ACM SIGCOMM Conf. on Internet Measurement (IMC’10). ACM, 369--382.
+T. Jiang, R. Hou, L. Zhang, K. Zhang, L. Chen, M. Chen, and N. Sun. 2012. Micro-architectural characterization of desktop cloud workloads. In Proc. of the Int. Symp. on Workload Characterization (IISWC’12). IEEE, 131--140.
+R. A. Johnson and D. W. Wichern. 2007. Applied Multivariate Statistical Data Analysis (6th ed.). Pearson Prentice Hall.
+I. T. Jolliffe. 2002. Principal Component Analysis (2nd ed.). Springer.
+D.-C. Juan, Lei Li, H.-K. Peng, D. Marculescu, and C. Faloutsos. 2014. Beyond Poisson: Modeling inter-arrival time of requests in a datacenter. In Advances in Knowledge Discovery and Data Mining, V. S. Tseng, T. B. Ho, Z. H. Zhou, A. L. P. Chen, and H. Y. Kao (Eds.). Lecture Notes in Computer Science, Vol. 8444. Springer, 198--209.
+X. Kang, H. Zhang, G. Jiang, H. Chen, X. Meng, and K. Yoshihira. 2010. Understanding Internet video sharing site workload: A view from data center design. Journal of Visual Communication and Image Representation 21, 2 (2010), 129--138.
+A. Khan, X. Yan, Shu Tao, and N. Anerousis. 2012. Workload characterization and prediction in the cloud: A multiple time series approach. In Proc. of the 13th Network Operations and Management Symposium (NOMS’12). IEEE, 1287--1294.
+A. Kochut and K. Beaty. 2007. On strategies for dynamic resource management in virtualized server environments. In Proc. of the 15th Int. Symp. on Modeling, Analysis, and Simulation of Computer and Telecommunication Systems (MASCOTS’07). IEEE, 193--200.
+A. Kochut, K. Beaty, H. Shaikh, and D. G. Shea. 2010. Desktop workload study with implications for desktop cloud resource optimization. In Proc. of the Int. Symp. on Parallel Distributed Processing, Workshops and Phd Forum (IPDPSW’10).
+B. Krishnamurthy, P. Gill, and M. Arlitt. 2008. A few chirps about Twitter. In Proc. of the 1st Workshop on Online Social Networks (WOSN’08). ACM, 19--24.
+R. Kumar, J. Novak, and A. Tomkins. 2006. Structure and evolution of online social networks. In Proc. of the 12th ACM SIGKDD Int. Conf. on Knowledge Discovery and Data Mining. ACM, 611--617.
+H. Kwak, C. Lee, H. Park, and S. Moon. 2010. What is Twitter, a social network or a news media? In Proc. of the 19th Int. Conf. on World Wide Web (WWW’10). ACM, 591--600.
+C. A. C. Lampe, N. Ellison, and C. Steinfield. 2007. A familiar Face(book): Profile elements as signals in an online social network. In Proc. of the ACM SIGCHI Conf. on Human Factors in Computing Systems (CHI’07). ACM, 435--444.
+J. Lee, S. Cha, D. Lee, and H. Lee. 2009. Classification of web robots: An empirical study based on over one billion requests. Computers & Security 28, 8 (2009), 795--802.
+K. Lerman and R. Ghosh. 2010. Information contagion: An empirical study of the spread of news on Digg and Twitter social networks. In Proc. of 4th Int. AAAI Conf. on Weblogs and Social Media (ICWSM’10). 90--97.
+J. Leskovec, L. Backstrom, R. Kumar, and A. Tomkins. 2008. Microscopic evolution of social networks. In Proc. of the 14th ACM SIGKDD Int. Conf. on Knowledge Discovery and Data Mining (KDD’08). ACM, 462--470.
+H. Li, X. Cheng, and J. Liu. 2014. Understanding video sharing propagation in social networks: Measurement and analysis. ACM Transactions on Multimedia Computing, Communications and Applications 10, 4 (2014), 33:1--33:20.
+J. Li and S. Ma. 2014. Characterization and modeling of video popularity. International Journal of Communication Systems 27 (2014), 2604--2615.
+Z.-X. Liao, Y.-C. Pan, W.-C. Peng, and P.-R. Lei. 2013. On mining mobile apps usage behavior for predicting apps usage in smartphones. In Proc. of the 22nd ACM Int. Conf. on Information & Knowledge Management (CIKM’’13). ACM, 609--618.
+T. Lins, A. C. M. Pereira, and F. Benevenuto. 2014. Workload characterization of a location-based social network. Social Network Analysis and Mining 4, 1 (2014), 208--221.
+N. Liu, H. Cui, S.-H. G. Chan, Z. Chen, and Y. Zhuang. 2014. Dissecting user behaviors for a simultaneous live and VoD IPTV system. ACM Transactions on Multimedia Computing, Communications and Applications 10, 3 (2014), 23:1--23:16.
+A. Mahanti, N. Carlsson, A. Mahanti, M. Arlitt, and C. Williamson. 2013. A tale of the tails: Power-laws in Internet measurements. IEEE Network 27, 1 (2013), 59--64.
+A. Mahanti, C. Williamson, and L. Wu. 2009. Workload characterization of a large systems conference web server. In Proc. of the 7th Annual Conf. on Communication Networks and Services Research (CNSR’09). IEEE, 55--64.
+M. Maia, J. Almeida, and V. Almeida. 2008. Identifying user behavior in online social networks. In Proc. of the 1st Workshop on Social Network Systems (SocialNets’08). ACM, 1--6.
+L. Massari. 2010a. Analysis of MySpace user profiles. Information Systems Frontiers 12, 4 (2010), 361--367.
+L. Massari. 2010b. What’s inside MySpace comments? In Proc. of the Int. Symp. on Performance Evaluation of Computer and Telecommunication Systems (SPECTS’10). IEEE, 311--316.
+D. A. Menascé. 2003. Workload characterization. IEEE Internet Computing 7, 5 (2003), 89--92.
+D. A. Menascé and V. A. F. Almeida. 2001. Capacity Planning for Web Services: Metrics, Models, and Methods. Prentice Hall.
+D. A. Menascé, V. A. F. Almeida, R. Fonseca, and M. A. Mendes. 1999. A methodology for workload characterization of e-commerce sites. In Proc. of the 1st ACM Conf. on Electronic Commerce (EC’99). ACM, 119--128.
+D. A. Menascé, V. A. F. Almeida, R. Riedi, F. Ribeiro, R. Fonseca, and W. Meira Jr. 2003. A hierarchical and multiscale approach to analyze E-business workloads. Performance Evaluation 54, 1 (2003), 33--57.
+A. K. Mishra, J. L. Hellerstein, W. Cirne, and C. R. Das. 2010. Towards characterizing cloud backend workloads: Insights from Google compute clusters. ACM SIGMETRICS Performance Evaluation Review 37, 4 (2010), 34--41.
+A. Mislove, M. Marcon, K. P. Gummadi, P. Druschel, and B. Bhattacharjee. 2007. Measurement and analysis of online social networks. In Proc. of the 7th ACM SIGCOMM Conf. on Internet Measurement (IMC’07). ACM, 29--42.
+S. Mitra, M. Agrawal, A. Yadav, N. Carlsson, D. Eager, and A. Mahanti. 2011. Characterizing web-based video sharing workloads. ACM Transactions on the Web 5, 2 (2011), 8:1--8:27.
+A. Nazir, S. Raza, and C. N. Chuah. 2008. Unveiling Facebook: A measurement study of social network based applications. In Proc. of the 8th ACM SIGCOMM Conf. on Internet Measurement (IMC’08). ACM, 43--56.
+C. Olston and M. Najork. 2010. Web crawling. Journal of Foundations and Trends in Information Retrieval 4, 3 (2010), 175--246.
+R. Ottoni, J. P. Pesce, D. Las Casas, G. Franciscani Jr., W. Meira Jr., P. Kumaraguru, and V. Almeida. 2013. Ladies first: Analyzing gender roles and behaviors in Pinterest. In Proc. of the 7th Int. AAAI Conf. on Weblogs and Social Media (ICWSM’13). 457--465.
+S. Pacheco-Sanchez, G. Casale, B. Scotney, S. McClean, G. Parr, and S. Dawson. 2011. Markovian workload characterization for QoS prediction in the cloud. In Proc. of the 2011 IEEE Int. Conf. on Cloud Computing (CLOUD’11). IEEE, 147--154.
+J. Patel, V. Jindal, I. L. Yen, F. Bastani, J. Xu, and P. Garraghan. 2015. Workload estimation for improving resource management decisions in the cloud. In Proc. of the 12th Int. Symp. on Autonomous Decentralized Systems (ISADS’15). IEEE, 25--32.
+A. Patro, S. Rayanchu, M. Griepentrog, Y. Ma, and S. Banerjee. 2013. Capturing mobile experience in the wild: A tale of two apps. In Proc. of the 9th ACM Conf. on Emerging Networking Experiments and Technologies (CoNEXT’13). ACM, 199--210.
+K. Pelechrinis and T. Lappas. 2014. Mining emerging user-centered network structures in location-based social networks. In Proc. of the 6th Int. Workshop on Network Science for Communication Networks (NetSciCom’14). 771--776.
+T. Petsas, A. Papadogiannakis, M. Polychronakis, E. P. Markatos, and T. Karagiannis. 2013. Rise of the planet of the apps: A systematic study of the mobile app ecosystem. In Proc. of the 13th ACM SIGCOMM Conf. on Internet Measurement (IMC’13). ACM, 277--290.
+J. E. Pitkow. 1999. Summary of WWW characterizations. World Wide Web 2, 1--2 (1999), 3--13.
+D. Preoţiuc-Pietro and T. Cohn. 2013. Mining user behaviours: A study of check-in patterns in location based social networks. In Proc. of the ACM Web Science Conf. (WebSci’13). ACM, 306--315.
+M. B. Priestley. 1981. Spectral Analysis and Time Series. Academic Press.
+K. Radinsky and P. N. Bennett. 2013. Predicting content change on the web. In Proc. of the 6th ACM Int. Conf. on Web Search and Data Mining (WSDM’13). ACM, 415--424.
+C. Reiss, A. Tumanov, G. R. Ganger, R. H. Katz, and M. A. Kozuch. 2012. Heterogeneity and dynamicity of clouds at scale: Google trace analysis. In Proc. of the 3rd ACM Symposium on Cloud Computing (SoCC’12). ACM, 7:1--7:13.
+C. Reiss, J. Wilkes, and J. L. Hellerstein. 2011. Google cluster-usage traces: format + schema. Revised 3/10/2012, http://code.google.com/p/googleclusterdata/wiki/TraceVersion2. (2011).
+F. Schneider, A. Feldmann, B. Krishnamurthy, and W. Willinger. 2009. Understanding online social network usage from a network perspective. In Proc. of the 9th ACM SIGCOMM Conf. on Internet Measurement (IMC’09). ACM, 35--48.
+C. Shin, J.-H. Hong, and A. K. Dey. 2012. Understanding and prediction of mobile application usage for smart phones. In Proc. of the 14th ACM Int. Conf. on Ubiquitous Computing (UbiComp’12). ACM, 173--182.
+S. Siersdorfer, S. Chelaru, J. S. Pedro, I. S. Altingovde, and W. Nejdl. 2014. Analyzing and mining comments and comment ratings on the social web. ACM Transactions on the Web 8, 3 (2014), 17:1--17:39.
+T. Silva, J. M. Almeida, and D. Guedes. 2011. Live streaming of user generated videos: Workload characterization and content delivery architectures. Computer Networks 55, 18 (2011), 4055--4068.
+T. H. Silva, P. O. S. Vaz de Melo, J. M. Almeida, J. Salles, and A. A. F. Loureiro. 2013. A picture of Instagram is worth more than a thousand words: Workload characterization and application. In Proc. of the Int. Conf. on Distributed Computing in Sensor Systems (DCoSS’13). IEEE, 123--132.
+I. Solis Moreno, P. Garraghan, P. Townend, and J. Xu. 2014. Analysis, modeling and simulation of workload patterns in a large-scale utility cloud. IEEE Transactions on Cloud Computing 2, 2 (2014), 130--142.
+A. Stassopoulou and M. D. Dikaiakos. 2009. Web robot detection: A probabilistic reasoning approach. Computer Networks 53, 3 (2009), 265--278.
+P.-N. Tan and V. Kumar. 2002. Discovery of web robot sessions based on their navigational patterns. Data Mining and Knowledge Discovery 6, 1 (2002), 9--35.
+A. L. Traud, E. D. Kelsic, P. J. Mucha, and M. A. Porter. 2011. Comparing community structure to characteristics in online collegiate social networks. SIAM Review 53, 3 (2011), 526--543.
+K. S. Trivedi. 2002. Probability and Statistics with Reliability, Queuing and Computer Science Applications (2 ed.). Wiley.
+J. W. van Dam and M. van de Velden. 2015. Online profiling and clustering of Facebook users. Decision Support Systems 70 (2015), 60--72.
+R. van Zwol. 2007. Flickr: Who is looking? In Proc. of the IEEE/ACM Int. Conf. on Web Intelligence (WI’07). IEEE, 184--190.
+M. Vasconcelos, S. Ricci, J. Almeida, F. Benevenuto, and V. Almeida. 2012. Tips, dones and todos: Uncovering user profiles in Foursquare. In Proc. of the 5th ACM Int. Conf. on Web Search and Data Mining (WSDM’12). ACM, 653--662.
+E. Veloso, V. Almeida, W. Meira, A. Bestavros, and S. Jin. 2006. A hierarchical characterization of a live streaming media workload. IEEE/ACM Transactions on Networking 14, 1 (2006), 133--146.
+B. Viswanath, A. Mislove, M. Cha, and K. P. Gummadi. 2009. On the evolution of user interaction in Facebook. In Proc. of the 2nd Workshop on Online Social Networks (WOSN’09). ACM, 37--42.
+M. Wattenhofer, R. Wattenhofer, and Z. Zhu. 2012. The YouTube social network. In Proc. of the 6th Int. AAAI Conf. on Weblogs and Social Media (ICWSM’12). 354--361.
+D. B. West. 2001. Introduction to Graph Theory (2nd ed.). Prentice Hall.
+A. Williams, M. Arlitt, C. Williamson, and K. Barker. 2005. Web workload characterization: Ten years later. In Web Content Delivery, X. Tang, J. Xu, and S. T. Chanson (Eds.). Web Information Systems Engineering and Internet Technologies Book Series, Vol. 2. Springer, 3--21.
+C. Wilson, A. Sala, K. P. N. Puttaswamy, and B. Y. Zhao. 2012. Beyond social graphs: User interactions in online social networks and their implications. ACM Transactions on the Web 6, 4 (2012), 17:1--17:31.
+R. Wolski and J. Brevik. 2014. Using parametric models to represent private cloud workloads. IEEE Transactions on Services Computing 7, 4 (2014), 714--725.
+T. Wood, L. Cherkasova, K. Ozonat, and P. Shenoy. 2008. Profiling and modeling resource usage of virtualized applications. In Proc. of the 9th ACM/IFIP/USENIX Int. Conf. on Middleware (Middleware’08). Springer, 366--387.
+Q. Xu, J. Erman, A. Gerber, Z. Mao, J. Pang, and S. Venkataraman. 2011. Identifying diverse usage behaviors of smartphone apps. In Proc. of the 11th ACM SIGCOMM Conf. on Internet Measurement (IMC’11). ACM, 329--344.
+Q. Yan, L. Wu, and L. Zheng. 2013. Social network based microblog user behavior analysis. Physica A: Statistical Mechanics and its Applications 392, 7 (2013), 1712--1723.
+T. Yan, D. Chu, D. Ganesan, A. Kansal, and J. Liu. 2012. Fast app launching for mobile devices using predictive user context. In Proc. of the 10th Int. Conf. on Mobile Systems, Applications, and Services (MobiSys’12). ACM, 113--126.
+J. Yang, Y. Qiao, X. Zhang, H. He, F. Liu, and G. Cheng. 2015. Characterizing user behavior in mobile Internet. IEEE Transactions on Emerging Topics in Computing 3, 1 (2015), 95--106.
+J. Yin, X. Lu, H. Chen, X. Zhao, and N. N. Xiong. 2014. System resource utilization analysis and prediction for cloud based applications under bursty workloads. Information Sciences 279 (2014), 338--357.
+J. Yin, X. Lu, X. Zhao, H. Chen, and X. Liu. 2015. BURSE: A bursty and self-similar workload generator for cloud computing. IEEE Transactions on Parallel and Distributed Systems 26, 3 (2015), 668--680.
+H. Yu, D. Zheng, B. Y. Zhao, and W. Zheng. 2006. Understanding user behavior in large-scale video-on-demand systems. In Proc. of the 1st ACM SIGOPS/EuroSys European Conf. on Computer Systems (EuroSys’06). ACM, 333--344.
+Y. Zheng. 2011. Location-based social networks: Users. In Computing with Spatial Trajectories, Y. Zheng and X. Zhou (Eds.). Springer, 243--276.
+M. Zink, K. Suh, Y. Gu, and J. Kurose. 2009. Characteristics of YouTube network traffic at a campus network - Measurements, models, and implications. Computer Networks 53, 4 (2009), 501--514.

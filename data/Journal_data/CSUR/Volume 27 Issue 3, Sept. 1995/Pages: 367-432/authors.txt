@@ -1,0 +1,4 @@
+vicki_h_allan author_page.cfm?id=81100217125&CFID=762602201&CFTOKEN=73574314
+reese_b_jones author_page.cfm?id=81332507279&CFID=762602201&CFTOKEN=73574314
+randall_m_lee author_page.cfm?id=81542236756&CFID=762602201&CFTOKEN=73574314
+stephen_j_allan author_page.cfm?id=81100217106&CFID=762602201&CFTOKEN=73574314

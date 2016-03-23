@@ -1,0 +1,3 @@
+Samuel Kamin , Eric Golin, Report of a workshop on future directions in programming languages and compilers, ACM SIGPLAN Notices, v.30 n.7, p.9-28, July 1995[doi>10.1145/208639.208640]
+KAMIN, S. 1996. Standard ML as a meta-programming language (September, 1996). http://www-sal.cs.uiuc.edu/~kamin/pubs.html/ml-meta.ps
+Standard ML of New Jersey User's Guide (February 1993).

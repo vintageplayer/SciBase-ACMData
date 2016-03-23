@@ -1,0 +1,18 @@
+D. Archieri and E. Moggi. A denotational model for complexity. In2nd Italian Workshop on Functional Programming. Department of Informatics, Pisa, Italy, 1996.
+Joseph L. Bates , Robert L. Constable, Proofs as programs, ACM Transactions on Programming Languages and Systems (TOPLAS), v.7 n.1, p.113-136, Jan. 1985[doi>10.1145/2363.2528]
+R. S. Boyer and J. S. Moore. A Computational Logic. Academic Press, New York, 1979.
+R. M. Burstall , John Darlington, A Transformation System for Developing Recursive Programs, Journal of the ACM (JACM), v.24 n.1, p.44-67, Jan. 1977[doi>10.1145/321992.321996]
+D. C. Cooper. The equivalence of certain computations. Computer Journal, 9:45{52, 1966.
+M. S. Feather, A survey and classification of some program transformation approaches and techniques, The IFIP TC2/WG 2.1 Working Conference on Program specification and transformation, p.165-195, June 1987, Bad To:9Ailz, Germany
+John E. Hopcroft , Jeffrey D. Ullman, Introduction To Automata Theory, Languages, And Computation, Addison-Wesley Longman Publishing Co., Inc., Boston, MA, 1990
+Neil D. Jones , Carsten K. Gomard , Peter Sestoft, Partial evaluation and automatic program generation, Prentice-Hall, Inc., Upper Saddle River, NJ, 1993
+Z. Manna and R. Waldinger. Fundamentals of deductive program synthesis. In F. L. Bauer, editor, Logic, Algebra, and Computation, pages 41{107. Springer-Verlag, 1991.
+E. Moggi. Notes on metalanguages and applications. Technical report, DISI, Genova University, Genova (Italy), 1994.
+R. Paige, Symbolic finite differencing, part I (invited lecture), Proceedings of the third European symposium on programming on ESOP '90, p.36-56, May 1990, Copenhagen, Denmark
+Helmut A. Partsch, Specification and transformation of programs: a formal approach to software development, Springer-Verlag New York, Inc., New York, NY, 1990
+A. Pettorossi and M. Proietti. Transformation of logic programs: Foundations and techniques. Journal of Logic Programming, 19,20:261{320, 1994.
+V. N. Redko. On de~ning relations for the algebra of regular events. Ukrain. Mat. Zh., 16:120{126, 1964. (in Russian).
+David Sands, Total correctness by local improvement in the transformation of functional programs, ACM Transactions on Programming Languages and Systems (TOPLAS), v.18 n.2, p.175-234, March 1996[doi>10.1145/227699.227716]
+H. Tamaki and T. Sato. Unfold/fold transformation of logic programs. In S.- ~ A. T.arnlund, editor, Proceedings of the Second International Conference onLogic Programming, Uppsala, Sweden, pages 127{138. Uppsala University, 1984.
+Jeffrey Scott Vitter , Philippe Flajolet, Average-case analysis of algorithms and data structures, Handbook of theoretical computer science (vol. A): algorithms and complexity, MIT Press, Cambridge, MA, 1991
+S. A. Walker , H. R. Strong, Characterizations of flowchartable recursions short version, Proceedings of the fourth annual ACM symposium on Theory of computing, p.18-34, May 01-03, 1972, Denver, Colorado, USA[doi>10.1145/800152.804893]

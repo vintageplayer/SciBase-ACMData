@@ -1,0 +1,1 @@
+Carla Griggio , Germán Leiva , Guillermo Polito , Gisela Decuzzi , Nicolás Passerini, A programming environment supporting a prototype-based introduction to OOP, Proceedings of the International Workshop on Smalltalk Technologies, p.1-5, August 23-23, 2011, Edinburgh, United Kingdom

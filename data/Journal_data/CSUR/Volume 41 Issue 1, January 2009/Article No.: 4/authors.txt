@@ -1,0 +1,3 @@
+richard_b_borie author_page.cfm?id=81100076061&CFID=762305028&CFTOKEN=98283229
+r_gary_parker author_page.cfm?id=81100169801&CFID=762305028&CFTOKEN=98283229
+craig_a_tovey author_page.cfm?id=81100261803&CFID=762305028&CFTOKEN=98283229

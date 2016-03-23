@@ -1,0 +1,2 @@
+james_c_michener author_page.cfm?id=81100509207&CFID=592451026&CFTOKEN=87393351
+james_d_foley author_page.cfm?id=81100302796&CFID=592451026&CFTOKEN=87393351

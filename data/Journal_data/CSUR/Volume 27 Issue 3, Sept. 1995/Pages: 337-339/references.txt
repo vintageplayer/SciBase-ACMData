@@ -1,0 +1,24 @@
+Subir Bhattacharya, Experimenting with revisits in game tree search, Proceedings of the 14th international joint conference on Artificial intelligence, p.243-249, August 20-25, 1995, Montreal, Quebec, Canada
+P. P. Chakrabarti , S. Ghose , A. Acharya , S. C. de Sarkar, Heuristic search in restricted memory (research note), Artificial Intelligence, v.41 n.2, p.197-222, Dec. 1989[doi>10.1016/0004-3702(89)90010-6]
+Rina Dechter , Judea Pearl, Generalized best-first search strategies and the optimality of A*, Journal of the ACM (JACM), v.32 n.3, p.505-536, July 1985[doi>10.1145/3828.3830]
+DIJKSTRA, E.W. 1959. A note on two problems in connexion with graphs. Numer. Math. 1, 269-'71.
+John F. Dillenburg , Peter C. Nelson, Perimeter search, Artificial Intelligence, v.65 n.1, p.165-178, Jan. 1994[doi>10.1016/0004-3702(94)90040-X]
+EVETT, M., HENDLER, J., MAHANTI, A., AND NAU, D. 1990 PRAY: A memory-limited heuristic search procedure for the connection machine. In Third Symposium on the Frontiers of Massively Parallel Computattons, 145 149.
+Subrata Ghosh , Ambuj Mahanti , Dana S. Nau, ITS: an efficient limited-memory heuristic tree search algorithm, Proceedings of the twelfth national conference on Artificial intelligence (vol. 2), p.1353-1358, October 1994, Seattle, Washington, USA
+HART, P. E., NILSSON, N. J., AND RAPHAEL, B. 1968. A formal basis for the heuristic determination of minimum cost paths. IEEE Trans. Syst. Sci. Cybern. 4, 2, 100-107.
+Hermann Kaindl , Gerhard Kainz , Angelika Leeb , Harald Smetana, How to use limited memory in heuristic search, Proceedings of the 14th international joint conference on Artificial intelligence, p.236-242, August 20-25, 1995, Montreal, Quebec, Canada
+Richard E. Korf, Depth-first iterative-deepening: an optimal admissible tree search, Artificial Intelligence, v.27 n.1, p.97-109, Sept. 1985[doi>10.1016/0004-3702(85)90084-0]
+Richard E. Korf, Linear-space best-first search, Artificial Intelligence, v.62 n.1, p.41-78, July 1993[doi>10.1016/0004-3702(93)90045-D]
+Richard E. Korf , David Maxwell Chickering, Best-first minimax search, Artificial Intelligence, v.84 n.1-2, p.299-337, July 1996[doi>10.1016/0004-3702(95)00096-8]
+Giovanni Manzini, BIDA: an improved perimeter search algorithm, Artificial Intelligence, v.75 n.2, p.347-360, June 1995[doi>10.1016/0004-3702(95)00017-9]
+PATRICK, B. G., ALMULLA, M., AND NEWBORN, M. M. 1992. An upper bound on the complexity of iterative-deepening-A*. Ann. Math. Artif. Intell. 5, 265-278.
+PLAAT, A., SCHAEFFER, J., PIJLS, W., AND DEBRUIN, A. 1995. Best-first minimax search in practice. In Proceedings of the Fourteenth International Joint Conference on Artificial Intelligence IJCAI-95 (Montreal, Canada, Aug.) (to appear).
+RAO, V. N., KUMAR, V., AND KORF, R. E. 1991. Depth-first vs. best-first search. In Proceedtngs of the National Conference on Artificial Intelligence, AAAI-91 (Anaheim, CA, July), 434-440.
+Alexander Reinefeld , Peter Ridinger, Time-efficient state space search, Artificial Intelligence, v.71 n.2, p.397-408, Dec. 1994[doi>10.1016/0004-3702(94)90049-3]
+Stuart Russell, Efficient memory-bounded search methods, Proceedings of the 10th European conference on Artificial intelligence, p.1-5, August 1992, Vienna, Austria
+U. K. Sarkar , P. P. Chakrabarti , S. Ghose , S. C. De Sarkar, Reducing reexpansions in iterative-deepening search by controlling cutoff bounds, Artificial Intelligence, v.50 n.2, p.207-221, July 1991[doi>10.1016/0004-3702(91)90100-X]
+SEN, A. K. AND BAGCHI, A. 1989. Fast recursive formulations for best-first search that allow controlled use of memory. In Proceedtngs of the Eleventh International Joint Conference on Artificial Intelligence, IJCAI-89 (Detroit, MI, Aug.), 297-302.
+SLATE, D. J. AND ATKIN, L. R. 1977. CHESS 4.5--The Northwestern University chess program. In Chess Skill in Man and Machine, P. W. Frey, Ed., Springer-Verlag, New York, 82-118.
+STICKEL, M. E. AND TYSON, W. M. 1985. An analysis of consecutively bounded depth-first search with applications in automated deduction. In Proceedings of the International Joint Conference on Artificial Intelligence, IJCAI-85 (Los Angeles, CA, Aug.) 1073 1075.
+WAH, B. W. AND SHANC, Y. 1995. A comparison of a class of IDA* search algorithms, Int. J. Artif. Intell. Tools (to appear).
+Weixiong Zhang , Richard E. Korf, Performance of linear-space search algorithms, Artificial Intelligence, v.79 n.2, p.241-292, Dec. 1995[doi>10.1016/0004-3702(94)00047-6]

@@ -1,0 +1,11 @@
+Samson Abramsky, Computational interpretations of linear logic, Theoretical Computer Science, v.111 n.1-2, p.3-57, April 12, 1993[doi>10.1016/0304-3975(93)90181-R]
+Jean-Yves Girard, Linear logic, Theoretical Computer Science, v.50 n.1, p.1-102, Jan. 30, 1987[doi>10.1016/0304-3975(87)90045-4]
+Y. Lafont, The linear abstract machine, Theoretical Computer Science, v.59 n.1-2, p.157-180, July 1988[doi>10.1016/0304-3975(88)90100-4]
+Robin Milner , Mads Tofte, Commentary on standard ML, MIT Press, Cambridge, MA, 1991
+Robin Milner , Mads Tofte , Robert Harper, The definition of Standard ML, MIT Press, Cambridge, MA, 1990
+O'Hearn, P. W., Power, A. J., Takeyama, M., and Tennent, R. D. 1995. Syntactic control of interference revisited. In S. Brookes, M. Main, A. Melton, and M. Mislove Eds., Mathematical Foundations of Programming Semantics, Eleventh Annual Conference, Volume 1 of Electronic Notes in Theoretical Computer Science (Tulane University, New Orleans, Louisiana, March 29{April 1 1995). Elsevier Science (http://www.elsevier.nl).
+John C. Reynolds, Syntactic control of interference, Proceedings of the 5th ACM SIGACT-SIGPLAN symposium on Principles of programming languages, p.39-46, January 23-25, 1978, Tucson, Arizona[doi>10.1145/512760.512766]
+Reynolds, J. C. 1981. The essence of Algol. In J. W. de Bakker and J. C. van Vliet Eds., Algorithmic Languages (Amsterdam, 1981), pp. 345{372. North-Holland.
+John C. Reynolds, Syntactic Control of Inference, Part 2, Proceedings of the 16th International Colloquium on Automata, Languages and Programming, p.704-722, July 11-15, 1989
+Reynolds, J. C. 1996. Design of the programming language Forsythe. Report CMU{ CS{96{146 (June), Carnegie Mellon University.
+Mads Tofte , Jean-Pierre Talpin, Implementation of the typed call-by-value λ-calculus using a stack of regions, Proceedings of the 21st ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.188-201, January 16-19, 1994, Portland, Oregon, USA[doi>10.1145/174675.177855]

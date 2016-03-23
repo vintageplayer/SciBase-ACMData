@@ -1,0 +1,3 @@
+Fuyu Liu , Hongli Geng , Yan-Qing Zhang, Interactive Fuzzy Interval Reasoning for smart Web shopping, Applied Soft Computing, v.5 n.4, p.433-439, July, 2005
+A. Ali Eldin , J. van den Berg , R. Wagenaar, A fuzzy reasoning scheme for context sharing decision making, Proceedings of the 6th international conference on Electronic commerce, October 25-27, 2004, Delft, The Netherlands
+Faith-Michael E. Uzoka , Joseph Osuji , Okure Obot, Clinical decision support system (DSS) in the diagnosis of malaria: A case comparison of two soft computing methodologies, Expert Systems with Applications: An International Journal, v.38 n.3, p.1537-1553, March, 2011

@@ -1,0 +1,1 @@
+Borzoo Bonakdarpour , Sebastian Fischmeister, Runtime monitoring of time-sensitive systems, Proceedings of the Second international conference on Runtime verification, September 27-30, 2011, San Francisco, CA

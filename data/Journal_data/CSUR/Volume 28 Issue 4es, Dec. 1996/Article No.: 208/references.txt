@@ -1,0 +1,7 @@
+Alpern, B., Carter, L., Feig, E., and Selker, T., 1994. The Uniform Memory Hierarchy Model of Computation, Algorithmica, 12:2/3, August and September 1994, pages 72-109.
+Thomas H. Cormen , Melissa Hirschl, Early Experiences in Evaluating the Parallel Disk Model with the ViC* Implementation, Dartmouth College, Hanover, NH, 1996
+David Culler , Richard Karp , David Patterson , Abhijit Sahay , Klaus Erik Schauser , Eunice Santos , Ramesh Subramonian , Thorsten von Eicken, LogP: towards a realistic model of parallel computation, Proceedings of the fourth ACM SIGPLAN symposium on Principles and practice of parallel programming, p.1-12, May 19-22, 1993, San Diego, California, United States[doi>10.1145/155332.155333]
+Zhiyong Li , John H. Reif, Computational models and program synthesis for parallel out-of-core computation, 1996
+Leslie G. Valiant, A bridging model for parallel computation, Communications of the ACM, v.33 n.8, p.103-111, Aug. 1990[doi>10.1145/79173.79181]
+Vitter, J. S., and Shriver, E. A. M., 1994. Algorithms for Parallel Memory I: Two-level Memories, Algorithmica, 12:2/3, August and September 1994, pages 110-147.
+Vitter, J. S., and Shriver, E. A. M., 1994. Algorithms for Parallel Memory II: Hierarchical Multilevel Memories, Algorithmica, 12:2/3, August and September 1994, pages 148-169.

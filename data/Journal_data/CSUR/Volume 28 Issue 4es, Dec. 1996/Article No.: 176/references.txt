@@ -1,0 +1,14 @@
+Jean-Pierre Banâtre , Ciarán Bryce , Daniel Le Métayer, Compile-Time Detection of Information Flow in Sequential Programs, Proceedings of the Third European Symposium on Research in Computer Security, p.55-73, November 07-09, 1994
+Borenstein, N., Email with a Mind of its Own: The Safe-Tcl Language for Enabled Mail, Available at ftp://ics.uci.edu/mrose/safe-tcl/safe-tcl.tar.Z, 1994.
+Luca Cardelli, A language with distributed scope, Proceedings of the 22nd ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.286-297, January 23-25, 1995, San Francisco, California, USA[doi>10.1145/199448.199516]
+Henry Cejtin , Suresh Jagannathan , Richard Kelsey, Higher-order distributed objects, ACM Transactions on Programming Languages and Systems (TOPLAS), v.17 n.5, p.704-739, Sept. 1995[doi>10.1145/213978.213986]
+David Flanagan, Java In A Nutshell, 5th Edition, O'Reilly Media, Inc., 2005
+Goguen, J. and Meseguer, J., Security Policies and Security Models, Proc. 1982 IEEE Symposium on Research in Security and Privacy, pp. 11-20, 1982.
+David Halls , John Bates , Jean Bacon, Flexible distributed programming using mobile code, Proceedings of the 7th workshop on ACM SIGOPS European workshop: Systems support for worldwide applications, September 09-11, 1996, Connemara, Ireland[doi>10.1145/504450.504490]
+McCullough, D., Speci~cations for Multi-level Security and a Hook-Up Property, Proc. 1987 IEEE Symposium on Research in Security and Privacy, pp. 161-166, 1987.
+John McLean, The Specification and Modeling of Computer Security, Computer, v.23 n.1, p.9-16, January 1990[doi>10.1109/2.48795]
+McLean, J., Security Models and Information Flow, Proc. 1990 IEEE Symposium on Research in Security and Privacy, pp. 180-187, 1990.
+John McLean, A General Theory of Composition for Trace Sets Closed under Selective Interleaving Functions, Proceedings of the 1994 IEEE Symposium on Security and Privacy, p.79, May 16-18, 1994
+James W. Stamos , David K. Gifford, Remote evaluation, ACM Transactions on Programming Languages and Systems (TOPLAS), v.12 n.4, p.537-564, Oct. 1990[doi>10.1145/88616.88631]
+Dennis Volpano , Cynthia Irvine , Geoffrey Smith, A sound type system for secure flow analysis, Journal of Computer Security, v.4 n.2-3, p.167-187, Jan. 1996
+White, J., Telescript Technology: The Foundation for the Electronic Marketplace, Technical Report, General Magic, Inc., 1994.

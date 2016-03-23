@@ -1,0 +1,4 @@
+david_landskov author_page.cfm?id=81100277327&CFID=592449524&CFTOKEN=72570683
+scott_davidson author_page.cfm?id=81100098268&CFID=592449524&CFTOKEN=72570683
+bruce_shriver author_page.cfm?id=81100631854&CFID=592449524&CFTOKEN=72570683
+patrick_w_mallett author_page.cfm?id=81100530380&CFID=592449524&CFTOKEN=72570683

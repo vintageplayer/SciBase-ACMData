@@ -1,0 +1,10 @@
+Abowd, Gregory, and Bowen, Jonathan, User Interface Languages: A Survey of Existing Methods, Technical Report PRG-TR-5-89, Programming Research Group, Oxford University, October 1989.
+Alan Dix , Janet Finlay , Gregory Abowd , Russell Beale, Human-computer interaction, Prentice-Hall, Inc., Upper Saddle River, NJ, 1997
+James D. Foley , Andries van Dam , Steven K. Feiner , John F. Hughes, Computer graphics: principles and practice (2nd ed.), Addison-Wesley Longman Publishing Co., Inc., Boston, MA, 1990
+Mark Green, A survey of three dialogue models, ACM Transactions on Graphics (TOG), v.5 n.3, p.244-275, July 1986[doi>10.1145/24054.24057]
+H. Rex Hartson , Deborah Hix, Human-computer interface development: concepts and systems for its management, ACM Computing Surveys (CSUR), v.21 n.1, p.5-92, March 1989[doi>10.1145/62029.62031]
+Deborah Hix , H. Rex Hartson, Developing user interfaces: ensuring usability through product & process, John Wiley & Sons, Inc., New York, NY, 1993
+Brad A. Myers , Mary Beth Rosson, Survey on user interface programming, Proceedings of the SIGCHI Conference on Human Factors in Computing Systems, p.195-202, May 03-07, 1992, Monterey, California, USA[doi>10.1145/142750.142789]
+Moore, Melody. RA Survey of Representations for Recovering User Interface Specifications for ReengineeringS, Technical Report, College of Computing, Georgia Institute of Technology, Atlanta GA 30332-0280, June 1996.
+Roger S. Pressman, Software engineering (3rd ed.): a practitioner's approach, McGraw-Hill, Inc., New York, NY, 1992
+Rugaber, Spencer, and Clayton, Richard. RThe Representation Problem in Reverse EngineeringS, Proceedings of the Working Conference on Reverse Engineering, May 21-23 1993, Baltimore, MD. IEEE Computer Society Press, 1993.

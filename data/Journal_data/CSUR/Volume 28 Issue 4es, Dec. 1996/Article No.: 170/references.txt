@@ -1,0 +1,26 @@
+A. Andersson, Sublogarithmic searching without multiplications, Proceedings of the 36th Annual Symposium on Foundations of Computer Science, p.655, October 23-25, 1995
+Borras, P., Clement, D., Despeyroux, T., Incerpi, J., Kahn, G., Lang, B., and Pascual, V. 1987. Centaur: the system. Rapports de Recherche 777, INRIA.
+Brodal, G. and Okasaki, C. 1996. Optimal purely functional priority queues. Journal of Functional Programming 6, 6 (Dec.).
+Cai, J., Facon, P., Henglein, F., Paige, R., and Schonberg, E. 1991. Type transformation and data structure choice. In B. Moeller Ed., Constructing Programs From Speci~cations, pp. 126{164. Amsterdam: North-Holland.
+Jiazhen Cai , Robert Paige, Using multiset discrimination to solve language processing problems without hashing, Theoretical Computer Science, v.145 n.1-2, p.189-228, July 10, 1995[doi>10.1016/0304-3975(94)00183-J]
+Jiazhen Cai , Robert Paige, Towards increased productivity of algorithm implementation, Proceedings of the 1st ACM SIGSOFT symposium on Foundations of software engineering, p.71-78, December 08-10, 1993, Los Angeles, California, USA[doi>10.1145/256428.167067]
+John Cocke , Ken Kennedy, An algorithm for reduction of operator strength, Communications of the ACM, v.20 n.11, p.850-856, Nov. 1977[doi>10.1145/359863.359888]
+Patrick Cousot , Radhia Cousot, Abstract interpretation: a unified lattice model for static analysis of programs by construction or approximation of fixpoints, Proceedings of the 4th ACM SIGACT-SIGPLAN symposium on Principles of programming languages, p.238-252, January 17-19, 1977, Los Angeles, California[doi>10.1145/512950.512973]
+J R Driscoll , N Sarnak , D D Sleator , R E Tarjan, Making data structures persistent, Proceedings of the eighteenth annual ACM symposium on Theory of computing, p.109-121, May 28-30, 1986, Berkeley, California, USA[doi>10.1145/12130.12142]
+Jeanne Ferrante , Karl J. Ottenstein, A program form based on data dependency in predicate regions, Proceedings of the 10th ACM SIGACT-SIGPLAN symposium on Principles of programming languages, p.217-236, January 24-26, 1983, Austin, Texas[doi>10.1145/567067.567089]
+Amelia C. Fong , Jeffrey D. Ullman, Induction variables in very high level languages, Proceedings of the 3rd ACM SIGACT-SIGPLAN symposium on Principles on programming languages, p.104-112, January 19-21, 1976, Atlanta, Georgia[doi>10.1145/800168.811544]
+Fredman, M. and Willard, D. 1994. Surpassing the information theoretic barrier with fusion trees. J. Comput. Sys. Sci. 48, 533{551.
+Deepak Goyal , Robert Paige, The formal reconstruction and speedup of the linear time fragment of Willard's relational calculus subset, Proceedings of the IFIP TC 2 WG 2.1 international workshop on Algorithmic languages and calculi, p.382-414, January 1997, Alsace, France
+Jeuring, J. 1994. The derivation of on-line algorithms, with an application to ~nding palindromes. Algorithmica 11, 2 (Feb.), 146{184.
+Neil D. Jones , Carsten K. Gomard , Peter Sestoft, Partial evaluation and automatic program generation, Prentice-Hall, Inc., Upper Saddle River, NJ, 1993
+Keller, J. and Paige, R. 1995. Program derivation with veri~ed transformations { a case study. CPAM 48, 9-10, 1053{1113.
+Koenig, S. and Paige, R. 1981. A transformational framework for the automatic control of derived data. In Proc. 7th Intl. Conf. on VLDB (Sep 1981), pp. 306{318.
+Paige, R. 1986. Programming with invariants. J IEEE Software 3, 1 (Jan), 56{69.
+Paige, R. 1989. Real-time simulation of a set machine on a ram. In N. Janicki and W. Koczkodaj Eds., Computing and Information, Volume II, pp. 69{73. Toronto: Canadian Scholars' Press.
+Robert Paige , Shaye Koenig, Finite Differencing of Computable Expressions, ACM Transactions on Programming Languages and Systems (TOPLAS), v.4 n.3, p.402-454, July 1982[doi>10.1145/357172.357177]
+Paige, R., Reif, J., and Wachter, R. Eds. 1993. Parallel Algorithm Derivation and Program Transformation. Kluwer.
+Paige, R., Tarjan, R., and Bonic, R. 1985. A linear time solution to the single function coarsest partition problem. Theoretical Computer Science 40, 1 (Sep.), 67{84.
+Pepper, P. and Wirsing, M. 1994. Korso: A methodology for the development of correct software. Technical Report 93-36 (Nov.), TU Berlin.
+Thomas W. Reps , Tim Teitelbaum, The synthesizer generator: a system for constructing language-based editors, Springer-Verlag New York, Inc., New York, NY, 1989
+Snyder, K. 1990. The SETL2 programming language. Technical Report 490, Courant Insititute, New York University.
+Watson, B. 1993. A taxonomy of ~nite automata minimization algorithms. Computing Science Note 93/44 (Dec.), Eindhoven University ofTechnology, Department of Mathematics and Computing Science, Eindhoven, The Netherlands.

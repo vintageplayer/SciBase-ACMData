@@ -1,0 +1,2 @@
+george_a_anderson author_page.cfm?id=81100101198&CFID=762611046&CFTOKEN=29351811
+e_douglas_jensen author_page.cfm?id=81336490205&CFID=762611046&CFTOKEN=29351811

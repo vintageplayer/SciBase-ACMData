@@ -1,0 +1,1 @@
+From transience to persistence in object-oriented programming: architectures and patterns

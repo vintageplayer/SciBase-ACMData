@@ -1,0 +1,1 @@
+Matías Toro , Éric Tanter, Customizable gradual polymorphic effects for Scala, ACM SIGPLAN Notices, v.50 n.10, October 2015

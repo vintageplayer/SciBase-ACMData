@@ -1,0 +1,4 @@
+yago_diez author_page.cfm?id=81384593347&CFID=592130354&CFTOKEN=57452932
+ferran_roure author_page.cfm?id=99658691864&CFID=592130354&CFTOKEN=57452932
+xavier_llado author_page.cfm?id=81381591751&CFID=592130354&CFTOKEN=57452932
+joaquim_salvi author_page.cfm?id=81100170472&CFID=592130354&CFTOKEN=57452932

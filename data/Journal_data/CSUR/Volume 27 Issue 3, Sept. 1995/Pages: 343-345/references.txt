@@ -1,0 +1,10 @@
+BAADER, F. AND HOLLUNDER, B. 1995. Embedding defaults into terminological knowledge representation formalisms. J. Autom. Reasoning 14, 149 180.
+BARAL, C. AND GELFOND, M. 1994. Logic programming and knowledge representation. J. Logic Program. 19, 20, 73 148.
+CHEN, W., SWrFT, T., AND WARREN, D. 1995. Efficient top-down computation of queries under the well-founded semantics. J. Logic Program 24, 161-199.
+Dov M. Gabbay , C. J. Hogger , J. A. Robinson, Handbook of logic in artificial intelligence and logic programming (vol. 1), Oxford University Press, Inc., New York, NY, 1993
+Vladimir Lifschitz, Nested abnormality theories, Artificial Intelligence, v.74 n.2, p.351-365, April 1995[doi>10.1016/0004-3702(95)98594-E]
+McCARTHY, J. 1959. Programs with common sense. In Proceedings of the Ted&ngton Conference on the Mechanization of Thought Processes, Her Majesty's Stationery Office, London, 75 91.
+MCCARTHY, J. 1980 Circumscription a form of non-monotonic reasoning. Artif. Intell. 13, 27-39, 171 172.
+MCDERMOTT, D. AND DOYLE, J. 1980. Nonmonotonic logic I. Art~f. Intell. 13, 41-72.
+RmTER, R. 1980. A logic default reasoning. Arlif. Intell. 13, 81-132.
+SUBRAMANIAN, S. 1995. Mechanical verification of strategies. J. Autom. Reasoning 15, 69-93.

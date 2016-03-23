@@ -1,0 +1,3 @@
+richard_staehli author_page.cfm?id=81100467513&CFID=762601303&CFTOKEN=10904804
+jonathan_walpole author_page.cfm?id=81410594844&CFID=762601303&CFTOKEN=10904804
+david_maier author_page.cfm?id=81100590819&CFID=762601303&CFTOKEN=10904804

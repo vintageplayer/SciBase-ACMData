@@ -1,0 +1,2 @@
+nabil_r_adam author_page.cfm?id=81100597393&CFID=592445106&CFTOKEN=27506902
+john_c_worthmann author_page.cfm?id=81100285709&CFID=592445106&CFTOKEN=27506902

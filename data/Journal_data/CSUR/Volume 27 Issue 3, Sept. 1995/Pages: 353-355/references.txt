@@ -1,0 +1,6 @@
+Luca Console , Luigi Portinale , Daniele Theseider Dupré, Using Compiled Knowledge to Guide and Focus Abductive Diagnosis, IEEE Transactions on Knowledge and Data Engineering, v.8 n.5, p.690-706, October 1996[doi>10.1109/69.542024]
+CONSOLE, L., THESEIDER DUPRg, D. AND TORASSO, P 1991. On the relationsh~p between abductmn and deduction. J. Logzc Comput. 1, 5, 661-690
+Luca Console , Pietro Torasso, A spectrum of logical definitions of model-based diagnosis, Computational Intelligence, v.7 n.3, p.133-141, Aug. 1991[doi>10.1111/j.1467-8640.1991.tb00388.x]
+Thomas Eiter , Georg Gottlob, The complexity of logic-based abduction, Journal of the ACM (JACM), v.42 n.1, p.3-42, Jan. 1995[doi>10.1145/200836.200838]
+David Poole, Probabilistic Horn abduction and Bayesian networks, Artificial Intelligence, v.64 n.1, p.81-129, Nov. 1993[doi>10.1016/0004-3702(93)90061-F]
+SELMAN, B. AND LEVESQUE, H. 1990. Abductive and default reasoning: A computational core. In Proceedtngs AAA190, (Boston, MA) 343 348.

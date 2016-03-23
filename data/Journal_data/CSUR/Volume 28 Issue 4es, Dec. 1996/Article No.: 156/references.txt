@@ -1,0 +1,5 @@
+Erich Gamma , Richard Helm , Ralph Johnson , John Vlissides, Design patterns: elements of reusable object-oriented software, Addison-Wesley Longman Publishing Co., Inc., Boston, MA, 1995
+Rachid Guerraoui, Strategic directions in object-oriented programming, ACM Computing Surveys (CSUR), v.28 n.4, p.691-700, Dec. 1996[doi>10.1145/242223.242275]
+G. Kiczales, Aspect-oriented programming, ACM Computing Surveys (CSUR), v.28 n.4es, Dec. 1996[doi>10.1145/242224.242420]
+Karl J. Lieberherr, Adaptive Object-Oriented Software: The Demeter Method with Propagation Patterns, PWS Publishing Co., Boston, MA, 1995
+Cristina Videira Lopes , Karl J. Lieberherr, Abstracting Process-to-Function Relations in Concurrency Object-Oriented Applications, Proceedings of the 8th European Conference on Object-Oriented Programming, p.81-99, July 04-08, 1994

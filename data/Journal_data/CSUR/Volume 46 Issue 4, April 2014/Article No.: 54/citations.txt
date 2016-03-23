@@ -1,0 +1,1 @@
+Zhiwei Li , Warren He , Devdatta Akhawe , Dawn Song, The emperor's new password manager: security analysis of web-based password managers, Proceedings of the 23rd USENIX conference on Security Symposium, p.465-479, August 20-22, 2014, San Diego, CA

@@ -1,0 +1,3 @@
+clemence_magnien author_page.cfm?id=81100396964&CFID=592137386&CFTOKEN=47436163
+matthieu_latapy author_page.cfm?id=81100094483&CFID=592137386&CFTOKEN=47436163
+jean-loup_guillaume author_page.cfm?id=81100219797&CFID=592137386&CFTOKEN=47436163

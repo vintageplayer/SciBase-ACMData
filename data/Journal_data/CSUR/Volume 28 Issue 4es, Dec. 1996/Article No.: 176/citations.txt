@@ -1,0 +1,2 @@
+Alfonso Fuggetta , Gian Pietro Picco , Giovanni Vigna, Understanding Code Mobility, IEEE Transactions on Software Engineering, v.24 n.5, p.342-361, May 1998
+Gruia-Catalin Roman , Gian Pietro Picco , Amy L. Murphy, Software engineering for mobility: a roadmap, Proceedings of the Conference on The Future of Software Engineering, p.241-258, June 04-11, 2000, Limerick, Ireland

@@ -1,0 +1,24 @@
+Samson Abramsky, Interaction categories and communicating sequential processes, A classical mind: essays in honour of C. A. R. Hoare, Prentice Hall International (UK) Ltd., Hertfordshire, UK, 1994
+Samson Abramsky , Pasquale Malacaria , Radha Jagadeesan, Full Abstraction for PCF, Proceedings of the International Conference on Theoretical Aspects of Computer Software, p.1-15, April 19-22, 1994
+Berry, G. 1995. The constructive semantics of pure Esterel. Unpublished manuscript.
+Cardelli, L. 1995. A language with distributed scope. Computing Systems 8, 1, 27{59.
+Cédric Fournet , Georges Gonthier, The reflexive CHAM and the join-calculus, Proceedings of the 23rd ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.372-385, January 21-24, 1996, St. Petersburg Beach, Florida, USA[doi>10.1145/237721.237805]
+Girard, J.-Y. 1971. Une extension de l'interpr~etation de G.odel ~ a l'analyse, et son application ~ a l'~elimination des coupures dans l'analyse et la th~eorie des types. In J. E. Fenstad Ed., Proceedings of the Second Scandinavian Logic Symposium, Volume 63 of Studies in Logic and the Foundations of Mathematics (1971), pp. 63{92. North-Holland.
+Goldstine, H. H. and von Neumann, J. 1947. Planning and coding of problems for an electronic computing instrument. Part II, Volume 1 of a report prepared for the U.S. Army Ordnance Department.
+Robert Harper , Mark Lillibridge, A type-theoretic approach to higher-order modules with sharing, Proceedings of the 21st ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.123-137, January 16-19, 1994, Portland, Oregon, USA[doi>10.1145/174675.176927]
+J. M. E. Hyland , C.-H. L. Ong, Pi-calculus, dialogue games and full abstraction PCF, Proceedings of the seventh international conference on Functional programming languages and computer architecture, p.96-107, June 26-28, 1995, La Jolla, California, USA[doi>10.1145/224164.224189]
+Jones, C. B. 1992. The search for tractable ways of reasoning about programs. Technical Report UMCS-92-4-4, University of Manchester.
+P. J. Landin, Correspondence between ALGOL 60 and Church's Lambda-notation: part I, Communications of the ACM, v.8 n.2, p.89-101, Feb. 1965[doi>10.1145/363744.363749]
+Xavier Leroy, Applicative functors and fully transparent higher-order modules, Proceedings of the 22nd ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.142-153, January 23-25, 1995, San Francisco, California, USA[doi>10.1145/199448.199476]
+Milner, R. 1996. Calculi for interaction. Acta Informatica. To appear.
+John C. Mitchell, Representation independence and data abstraction, Proceedings of the 13th ACM SIGACT-SIGPLAN symposium on Principles of programming languages, p.263-276, January 01, 1986, St. Petersburg Beach, Florida[doi>10.1145/512644.512669]
+Hanno Nickau, Hereditarily Sequential Functionals, Proceedings of the Third International Symposium on Logical Foundations of Computer Science, p.253-264, July 11-14, 1994
+O'Hearn, P. W. and Reynolds, J. C. 1995. From Algol to polymorphic linear lambdas calculus. Lectures at Isaac Newton Institute for Mathematical Sciences, Cambridge, UK.
+Peter W. O'Hearn , Jon G. Riecke, Kripke logical relations and PCF, Information and Computation, v.120 n.1, p.107-116, July 1995[doi>10.1006/inco.1995.1103]
+P. W. O'Hearn , R. D. Tennent, Parametricity and local variables, Journal of the ACM (JACM), v.42 n.3, p.658-709, May 1995[doi>10.1145/210346.210425]
+Platek, R. A. Foundations of recursion theory. PhD thesis, Stanford University, 1966.
+John C. Reynolds, Towards a theory of type structure, Programming Symposium, Proceedings Colloque sur la Programmation, p.408-423, April 09-11, 1974
+Reynolds, J. C. 1983. Types, abstraction and parametric polymorphism. InR. E. A. Mason Ed., Information Processing 83, pp. 513{523. Amsterdam: North Holland.
+Saraswat, V. A., Jagadeesan, R., and Gupta, V. 1994. Foundations of timed concurrent constraint programming. InProceedings, Ninth Annual IEEE Symposium on Logic in Computer Science (1994).
+Dana S. Scott, A type-theoretical alternative to ISWIM, CUCH, OWHY, Theoretical Computer Science, v.121 n.1-2, p.411-440, Dec. 6, 1993[doi>10.1016/0304-3975(93)90095-B]
+Sieber, K. 1992. Reasoning about sequential functions via logical relations. In Applications of Categories in Computer Science, Volume 177 of London Mathematical Society Lecture Note Series (1992). Cambridge University Press.

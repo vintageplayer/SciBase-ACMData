@@ -1,0 +1,1 @@
+Ivan Ganev , Greg Eisenhauer , Karsten Schwan, Kernel plugins: when a VM is too much, Proceedings of the 3rd conference on Virtual Machine Research And Technology Symposium, p.7-7, May 06-07, 2004, San Jose, California

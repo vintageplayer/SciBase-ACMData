@@ -1,0 +1,4 @@
+davide_falessi author_page.cfm?id=81318488506&CFID=762302717&CFTOKEN=83701996
+giovanni_cantone author_page.cfm?id=81100504325&CFID=762302717&CFTOKEN=83701996
+rick_kazman author_page.cfm?id=81100391310&CFID=762302717&CFTOKEN=83701996
+philippe_kruchten author_page.cfm?id=81414594403&CFID=762302717&CFTOKEN=83701996

@@ -1,0 +1,5 @@
+Jens Gustedt, Efficient sampling of random permutations, Journal of Discrete Algorithms, v.6 n.1, p.125-139, March, 2008
+Jens Gustedt, Towards realistic implementations of external memory algorithms using a coarse grained paradigm, Proceedings of the 2003 international conference on Computational science and its applications: PartII, May 18-21, 2003, Montreal, Canada
+Lars Arge , Michael T. Goodrich , Michael Nelson , Nodari Sitchinava, Fundamental parallel algorithms for private-cache chip multiprocessors, Proceedings of the twentieth annual symposium on Parallelism in algorithms and architectures, June 14-16, 2008, Munich, Germany
+Matthias Muller-Hannemann , Stefan Schirra, Algorithm engineering: bridging the gap between algorithm theory and practice, Springer-Verlag, Berlin, Heidelberg, 2010
+Ulrich Meyer , Peter Sanders , Jop Sibeyn, Algorithms for memory hierarchies: advanced lectures, Springer-Verlag, Berlin, Heidelberg, 2003

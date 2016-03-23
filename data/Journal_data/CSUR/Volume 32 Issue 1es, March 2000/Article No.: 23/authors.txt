@@ -1,0 +1,5 @@
+john_michaloski author_page.cfm?id=81100514255&CFID=762325144&CFTOKEN=37225065
+sushil_birla author_page.cfm?id=81100053013&CFID=762325144&CFTOKEN=37225065
+c_jerry_yen author_page.cfm?id=81332536999&CFID=762325144&CFTOKEN=37225065
+richard_igou author_page.cfm?id=81332505917&CFID=762325144&CFTOKEN=37225065
+george_weinert author_page.cfm?id=81100605316&CFID=762325144&CFTOKEN=37225065

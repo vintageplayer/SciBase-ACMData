@@ -1,0 +1,7 @@
+Patrick Cousot, Program analysis: the abstract interpretation perspective, ACM Computing Surveys (CSUR), v.28 n.4es, Dec. 1996[doi>10.1145/242224.242433]
+Patrick Cousot , Radhia Cousot, Abstract interpretation: a unified lattice model for static analysis of programs by construction or approximation of fixpoints, Proceedings of the 4th ACM SIGACT-SIGPLAN symposium on Principles of programming languages, p.238-252, January 17-19, 1977, Los Angeles, California[doi>10.1145/512950.512973]
+Edsger Wybe Dijkstra, A  Discipline of Programming, Prentice Hall PTR, Upper Saddle River, NJ, 1997
+Chris Hankin , Hanne Riis Nielson , Jens Palsberg, Strategic directions in research on programming languages, ACM Computing Surveys (CSUR), v.28 n.4, p.644-652, Dec. 1996[doi>10.1145/242223.242260]
+C.A.R. Hoare and P.E. Lauer. Consistent and Complementary Formal Theories of the Semantics of Programming Languages. Acta Informatica 3 (1974) 135-153.
+D.S. Scott. Outline of a mathematical theory of computation. Report PRG-2, Programming Research Group, Univ. of Oxford, 1971.
+D.S. Scott and C. Strachey. Toward a mathematical semantics for computer languages. Computers and Automata, Microwave Research Institute Symposia 21, 1971, pp 19-46.

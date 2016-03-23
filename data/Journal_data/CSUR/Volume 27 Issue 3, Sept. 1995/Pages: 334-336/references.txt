@@ -1,0 +1,1 @@
+A more detailed overview can be found in the article "Planning and Scheduling", coauthorised with Thomas L., Dean, to appear in the CRC Press Handbooks of Computer Service and Engineering.

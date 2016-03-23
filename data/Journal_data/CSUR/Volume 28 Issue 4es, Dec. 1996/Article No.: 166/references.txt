@@ -1,0 +1,9 @@
+A.~t-Kaci, H., Lincoln, P., and Nasr, R. 1987. Le Fun: Logic, equations, and functions. In Proc. 4th IEEE Symposium on Logic Programming (San Francisco), pp. 17{23.
+Michael Hanus, Improving Control of Logic Programs by Using Functional Logic Languages, Proceedings of the 4th International Symposium on Programming Language Implementation and Logic Programming, p.1-23, August 26-28, 1992
+Hanus, M. 1994. The integration of functions into logic programming: From theory to practice. Journal of Logic Programming 19&20, 583{628.
+Michael Hanus, A unified computation model for functional and logic programming, Proceedings of the 24th ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.80-93, January 15-17, 1997, Paris, France[doi>10.1145/263699.263710]
+Huber, M. and Varsek, I. 1987. Extended Prolog with order-sorted resolution. In Proc. 4th IEEE Symposium on Logic Programming (San Francisco), pp. 34{43.
+Nadathur, G. and Miller, D. 1988. An overview of ~ Prolog. In Proc. 5th Conference on Logic Programming & 5th Symposium on Logic Programming (Seattle), pp. 810{827. MIT Press.
+Simon L. Peyton Jones , Philip Wadler, Imperative functional programming, Proceedings of the 20th ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.71-84, March 1993, Charleston, South Carolina, United States[doi>10.1145/158511.158524]
+James R. Slagle, Automated Theorem-Proving for Theories with Simplifiers Commutativity, and Associativity, Journal of the ACM (JACM), v.21 n.4, p.622-642, Oct. 1974[doi>10.1145/321850.321859]
+Philip Wadler, How to replace failure by a list of successes, Proc. of a conference on Functional programming languages and computer architecture, p.113-128, January 1985, Nancy, France

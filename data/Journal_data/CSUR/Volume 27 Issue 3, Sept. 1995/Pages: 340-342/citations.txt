@@ -1,0 +1,16 @@
+Wee-Chong Oon , Andrew Lim, Multi-player game approach to solving multi-entity problems, Eighteenth national conference on Artificial intelligence, p.961-962, July 28-August 01, 2002, Edmonton, Alberta, Canada
+Huaiqing Wang , John Mylopoulos , Stephen Liao, Intelligent agents and financial risk monitoring systems, Communications of the ACM, v.45 n.3, p.83-88, March 2002
+Shrey Modi , M. K. Tiwari , Yingzi Lin , W. J. Zhang, On the architecture of a human-centered CAD agent system, Computer-Aided Design, v.43 n.2, p.170-179, February, 2011
+Maria Vargas-Vera , Miklos Nagy, Architecture of DSSim: A Multi-Agent Ontology Mapping System, International Journal of Knowledge Society Research, v.6 n.2, p.65-82, April 2015
+Lamar Gardere , R. Raymond Lang, An application of backward reasoning to narrative intelligence, Journal of Computing Sciences in Colleges, v.15 n.3, p.50-57, March 2000
+Leon J. Osterweil , Lori A. Clarke, Frameworks for Reasoning about Agent Based Systems, Revised Papers from the International Workshop on Infrastructure for Multi-Agent Systems: Infrastructure for Agents, Multi-Agent Systems, and Scalable Multi-Agent Systems, p.64-71, June 03-07, 2000
+David De Roure , Samhaa El-Beltagy , Steven Blackburn , Wendy Hall, A multiagent system for content based navigation of music, Proceedings of the seventh ACM international conference on Multimedia (Part 2), p.63-66, October 30-November 05, 1999, Orlando, Florida, USA
+Irene Sygkouna , Miltiades E. Anagnostou, Speeding-up information retrieval with the employment of a multi-agent system, International Journal of Wireless and Mobile Computing, v.4 n.3, p.210-217, July 2010
+Nazaraf Shah , Rahat Iqbal , Anne James , Kashif Iqbal, Exception representation and management in open multi-agent systems, Information Sciences: an International Journal, v.179 n.15, p.2555-2561, July, 2009
+SANDIP SEN, Evolution and learning in multiagent systems, International Journal of Human-Computer Studies, v.48 n.1, p.1-7, Jan., 1998
+THOMAS HAYNES , SANDIP SEN, Learning cases to resolve conflicts and improve group behavior, International Journal of Human-Computer Studies, v.48 n.1, p.31-49, Jan., 1998
+Jaime Campos, Survey paper: Development in the application of ICT in condition monitoring and maintenance, Computers in Industry, v.60 n.1, p.1-20, January, 2009
+Valentin Cristea, A Collaborative Environment for High Performance Computing, Proceedings of the NATO Advanced Research Workshop on Advanced Environments, Tools, and Applications for Cluster Computing-Revised Papers, p.47-59, September 01-06, 2001
+Jun Ota, Multi-agent robot systems as distributed autonomous systems, Advanced Engineering Informatics, v.20 n.1, p.59-70, January, 2006
+Peter Stone , Manuela Veloso, Multiagent Systems: A Survey from a Machine Learning Perspective, Autonomous Robots, v.8 n.3, p.345-383, June 2000
+Serena H. Chen , Anthony J. Jakeman , John P. Norton, Artificial Intelligence techniques: An introduction to their use for modelling environmental systems, Mathematics and Computers in Simulation, v.78 n.2-3, p.379-400, July, 2008
