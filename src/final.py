@@ -38,7 +38,7 @@ baseurl='http://dl.acm.org/'
 author_map = {}
 y = 0
  # ENTER THE URL FROM JOURNAL LIST
-url = ''
+url = 'http://dl.acm.org/pub_series.cfm?id=J778&_cf_containerId=pubs&_cf_nodebug=true&_cf_nocache=true&_cf_clientid=A4CD5C7467A0092AB36D2384B391AB15&_cf_rc=1'
 soup = get_soup(url)
 
 # CHANGE THE PATH TO '../data/Journal_data/<SELECETED JOURNAL NAME>/Volumes'
@@ -56,7 +56,7 @@ fl.close()
 anfl = open(adir+'/AuthorNames.txt','a')
 posts = soup.find_all("a")
 
-for post in posts[5::]:
+for post in posts[0::]:
     if post.get_text() != 'Issue-in-Progress' :
         print('post index : ' + str(posts.index(post)))
         ndir = Dir+'/'+str(post.get_text())
