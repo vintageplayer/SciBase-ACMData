@@ -5,3 +5,4 @@
 5) TOPLAS - 'http://dl.acm.org/pub_series.cfm?id=J783&_cf_containerId=pubs&_cf_nodebug=true&_cf_nocache=true&_cf_clientid=A4CD5C7467A0092AB36D2384B391AB15&_cf_rc=1'
 6) TON - 'http://dl.acm.org/pub_series.cfm?id=J771&_cf_containerId=pubs&_cf_nodebug=true&_cf_nocache=true&_cf_clientid=A4CD5C7467A0092AB36D2384B391AB15&_cf_rc=1'
 7) TOSEM - 'http://dl.acm.org/pub_series.cfm?id=J790&_cf_containerId=pubs&_cf_nodebug=true&_cf_nocache=true&_cf_clientid=A4CD5C7467A0092AB36D2384B391AB15&_cf_rc=1'
+8) TODS - 'http://dl.acm.org/pub_series.cfm?id=J777&_cf_containerId=pubs&_cf_nodebug=true&_cf_nocache=true&_cf_clientid=A4CD5C7467A0092AB36D2384B391AB15&_cf_rc=1'
