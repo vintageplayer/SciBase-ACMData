@@ -56,9 +56,9 @@ fl.close()
 anfl = open(adir+'/AuthorNames.txt','a')
 posts = soup.find_all("a")
 
-for post in posts:#[::]:
+for post in posts[5::]:
     if post.get_text() != 'Issue-in-Progress' :
-        print(posts.index(post))
+        print('post index : ' + str(posts.index(post)))
         ndir = Dir+'/'+str(post.get_text())
         ckdir(ndir)
         link = post["href"]
@@ -74,7 +74,7 @@ for post in posts:#[::]:
         z = y
         i = 0
         while i < ((index - z)/6):
-            while articles[i*6+z].find("a") == None :
+            while articles[i*6+z].find("a") == None or 'citation.cfm?id' not in str(articles[i*6+z].find("a")["href"]):
                 z = z + 1
             article=articles[i*6+z].find("a")["href"]
             furl = baseurl + article +"&preflayout=flat"
@@ -135,7 +135,7 @@ for post in posts:#[::]:
                     for stat in stats:
                         ff.write(stat.get_text() + '\n')
                     ff.close()
-                aumfl = open(adir+'/AuthorURLMap2.txt','w')
+                aumfl = open(adir+'/AuthorURLMap.txt','w')
                 aumfl.write(str(author_map))
                 aumfl.close()
             except Exception:
