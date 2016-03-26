@@ -58,6 +58,7 @@ posts = soup.find_all("a")
 
 for post in posts:#[::]:
     if post.get_text() != 'Issue-in-Progress' :
+        print(posts.index(post))
         ndir = Dir+'/'+str(post.get_text())
         ckdir(ndir)
         link = post["href"]
