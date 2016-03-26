@@ -1,4 +1,0 @@
-jim_woodcock author_page.cfm?id=81333491841&CFID=762304545&CFTOKEN=80380538
-peter_gorm_larsen author_page.cfm?id=81100221737&CFID=762304545&CFTOKEN=80380538
-juan_bicarregui author_page.cfm?id=81100549342&CFID=762304545&CFTOKEN=80380538
-john_fitzgerald author_page.cfm?id=81100271482&CFID=762304545&CFTOKEN=80380538

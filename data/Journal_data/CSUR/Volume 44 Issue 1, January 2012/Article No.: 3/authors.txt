@@ -1,3 +1,0 @@
-hanne_riis_nielson author_page.cfm?id=81100316576&CFID=762302598&CFTOKEN=34829899
-flemming_nielson author_page.cfm?id=81100316685&CFID=762302598&CFTOKEN=34829899
-henrik_pilegaard author_page.cfm?id=81100469410&CFID=762302598&CFTOKEN=34829899

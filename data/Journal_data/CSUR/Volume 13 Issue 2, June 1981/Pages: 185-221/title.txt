@@ -1,1 +1,0 @@
-Concurrency Control in Distributed Database Systems

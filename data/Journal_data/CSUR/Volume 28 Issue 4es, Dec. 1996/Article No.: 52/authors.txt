@@ -1,2 +1,0 @@
-rocco_de_nicola author_page.cfm?id=81100455534&CFID=592210092&CFTOKEN=73302323
-scott_a_smolka author_page.cfm?id=81100533015&CFID=592210092&CFTOKEN=73302323

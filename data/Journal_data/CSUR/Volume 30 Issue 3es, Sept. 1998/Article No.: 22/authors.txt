@@ -1,3 +1,0 @@
-matthew_dwyer author_page.cfm?id=81100013564&CFID=762328969&CFTOKEN=97127576
-john_hatcliff author_page.cfm?id=81100281021&CFID=762328969&CFTOKEN=97127576
-muhammad_nanda author_page.cfm?id=81100183506&CFID=762328969&CFTOKEN=97127576

@@ -1,2 +1,0 @@
-garth_a_gibson author_page.cfm?id=81339501408&CFID=762374608&CFTOKEN=58718484
-john_wilkes author_page.cfm?id=81330500570&CFID=762374608&CFTOKEN=58718484

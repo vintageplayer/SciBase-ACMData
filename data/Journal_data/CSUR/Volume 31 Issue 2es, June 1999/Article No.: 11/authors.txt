@@ -1,5 +1,0 @@
-james_h_morris author_page.cfm?id=81332516966&CFID=762328132&CFTOKEN=54492142
-christine_m_neuwirth author_page.cfm?id=81100177196&CFID=762328132&CFTOKEN=54492142
-susan_harkness_regli author_page.cfm?id=81100181007&CFID=762328132&CFTOKEN=54492142
-ravinder_chandhok author_page.cfm?id=81100499471&CFID=762328132&CFTOKEN=54492142
-geoffrey_c_wenger author_page.cfm?id=81332534895&CFID=762328132&CFTOKEN=54492142

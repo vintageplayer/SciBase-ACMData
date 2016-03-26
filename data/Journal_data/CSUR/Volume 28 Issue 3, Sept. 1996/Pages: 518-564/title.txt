@@ -1,1 +1,0 @@
-Area and performance tradeoffs in floating-point divide and square-root implementations

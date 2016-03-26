@@ -1,3 +1,0 @@
-david_f_bacon author_page.cfm?id=81100628167&CFID=762603794&CFTOKEN=90524075
-susan_l_graham author_page.cfm?id=81452606376&CFID=762603794&CFTOKEN=90524075
-oliver_j_sharp author_page.cfm?id=81100266702&CFID=762603794&CFTOKEN=90524075

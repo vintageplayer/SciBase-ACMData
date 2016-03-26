@@ -1,4 +1,0 @@
-Kamini (Simi) Bajaj , Josef Pieprzyk, A case study of user-level spam filtering, Proceedings of the Twelfth Australasian Information Security Conference, p.67-75, January 20-23, 2014, Auckland, New Zealand
-Guozhu Meng , Yang Liu , Jie Zhang , Alexander Pokluda , Raouf Boutaba, Collaborative Security: A Survey and Taxonomy, ACM Computing Surveys (CSUR), v.48 n.1, p.1-42, August 2015
-Mark Klein , Ana Cristina Bicharra Garcia, High-speed idea filtering with the bag of lemons, Decision Support Systems, v.78 n.C, p.39-50, October 2015
-Godwin Caruana , Maozhen Li , Yang Liu, An ontology enhanced parallel SVM for scalable spam filter training, Neurocomputing, 108, p.45-57, May, 2013

@@ -1,4 +1,0 @@
-banda_ramadan author_page.cfm?id=99658653781&CFID=762472123&CFTOKEN=19249226
-peter_christen author_page.cfm?id=81100259455&CFID=762472123&CFTOKEN=19249226
-huizhi_liang author_page.cfm?id=81438593067&CFID=762472123&CFTOKEN=19249226
-ross_w_gayler author_page.cfm?id=81331492896&CFID=762472123&CFTOKEN=19249226

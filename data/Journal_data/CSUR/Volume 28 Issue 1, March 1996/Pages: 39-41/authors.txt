@@ -1,2 +1,0 @@
-maxime_crochemore author_page.cfm?id=81100599799&CFID=592438275&CFTOKEN=44450878
-thierry_lecroq author_page.cfm?id=81100495303&CFID=592438275&CFTOKEN=44450878

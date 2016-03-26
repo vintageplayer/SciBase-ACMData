@@ -1,3 +1,0 @@
-Jorgen Lindskov Knudsen , Boris Magnusson , Mats Lofgren , Ole L. Madsen, Object Oriented Software Development Environments: The Mjolner Approach, Prentice-Hall, Inc., Upper Saddle River, NJ, 1994
-Bertrand Meyer, An object-oriented environment: principles and application, Prentice-Hall, Inc., Upper Saddle River, NJ, 1994
-Ken Arnold , James Gosling, The Java programming language (2nd ed.), ACM Press/Addison-Wesley Publishing Co., New York, NY, 1998

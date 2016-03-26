@@ -1,1 +1,0 @@
-The Quadtree and Related Hierarchical Data Structures

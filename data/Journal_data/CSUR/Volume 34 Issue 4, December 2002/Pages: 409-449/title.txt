@@ -1,1 +1,0 @@
-On type systems for object-oriented database programming languages

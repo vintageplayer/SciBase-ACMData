@@ -1,5 +1,0 @@
-giovani_gracioli author_page.cfm?id=81387595910&CFID=762296583&CFTOKEN=17668686
-ahmed_alhammad author_page.cfm?id=88159062557&CFID=762296583&CFTOKEN=17668686
-renato_mancuso author_page.cfm?id=82259075857&CFID=762296583&CFTOKEN=17668686
-antonio_augusto_frohlich author_page.cfm?id=81100162361&CFID=762296583&CFTOKEN=17668686
-rodolfo_pellizzoni author_page.cfm?id=81100274727&CFID=762296583&CFTOKEN=17668686

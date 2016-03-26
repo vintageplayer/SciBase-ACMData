@@ -1,3 +1,0 @@
-h_noltemeier author_page.cfm?id=81100542698&CFID=592167517&CFTOKEN=45136073
-h-c_wirth author_page.cfm?id=81100261310&CFID=592167517&CFTOKEN=45136073
-s_o_krumke author_page.cfm?id=81100225349&CFID=592167517&CFTOKEN=45136073

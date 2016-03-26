@@ -1,1 +1,0 @@
-A tutorial on human activity recognition using body-worn inertial sensors

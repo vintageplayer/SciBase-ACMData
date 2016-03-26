@@ -1,3 +1,0 @@
-andreas_bulling author_page.cfm?id=81372593219&CFID=592132500&CFTOKEN=60470299
-ulf_blanke author_page.cfm?id=81436603027&CFID=592132500&CFTOKEN=60470299
-bernt_schiele author_page.cfm?id=81100189880&CFID=592132500&CFTOKEN=60470299

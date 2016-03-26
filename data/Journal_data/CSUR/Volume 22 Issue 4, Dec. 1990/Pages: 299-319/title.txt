@@ -1,1 +1,0 @@
-Implementing fault-tolerant services using the state machine approach: a tutorial

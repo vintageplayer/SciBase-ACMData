@@ -1,1 +1,0 @@
-On the relationship between formal semantics and static analysis

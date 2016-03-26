@@ -1,5 +1,0 @@
-william_g_griswold author_page.cfm?id=81100428731&CFID=592210092&CFTOKEN=73302323
-richard_wolski author_page.cfm?id=81100570052&CFID=592210092&CFTOKEN=73302323
-scott_b_baden author_page.cfm?id=81100152550&CFID=592210092&CFTOKEN=73302323
-stephen_j_fink author_page.cfm?id=81100118324&CFID=592210092&CFTOKEN=73302323
-scott_r_kohn author_page.cfm?id=81100314046&CFID=592210092&CFTOKEN=73302323

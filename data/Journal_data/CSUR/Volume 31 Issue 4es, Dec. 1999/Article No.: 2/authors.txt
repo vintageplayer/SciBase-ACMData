@@ -1,3 +1,0 @@
-uffe_k_wiil author_page.cfm?id=81100607357&CFID=762326515&CFTOKEN=45412527
-peter_j_nurnberg author_page.cfm?id=81100239947&CFID=762326515&CFTOKEN=45412527
-john_j_leggett author_page.cfm?id=81100452769&CFID=762326515&CFTOKEN=45412527

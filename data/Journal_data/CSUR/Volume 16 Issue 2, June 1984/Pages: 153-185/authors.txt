@@ -1,3 +1,0 @@
-herve_gallaire author_page.cfm?id=81100008368&CFID=762607235&CFTOKEN=58890303
-jack_minker author_page.cfm?id=81100284549&CFID=762607235&CFTOKEN=58890303
-jean-marie_nicolas author_page.cfm?id=81100294478&CFID=762607235&CFTOKEN=58890303

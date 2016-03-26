@@ -1,4 +1,0 @@
-Naren Ramakrishnan , Chris Bailey-Kellogg, Sampling Strategies for Mining in Data-Scarce Domains, Computing in Science and Engineering, v.4 n.4, p.31-43, July 2002
-Chris Bailey-Kellogg , Feng Zhao, Influence-based model decomposition for reasoning about spatially distributed physical systems, Artificial Intelligence, v.130 n.2, p.125-166, 08/01/2001
-Chris Bailey-Kellogg , Feng Zhao, Qualitative spatial reasoning: extracting and reasoning with spatial aggregates, AI Magazine, v.24 n.4, p.47-60, January 2004
-Azriel Rosenfeld, Image Analysis and Computer Vision, Computer Vision and Image Understanding, v.63 n.3, p.568-612, May 1996

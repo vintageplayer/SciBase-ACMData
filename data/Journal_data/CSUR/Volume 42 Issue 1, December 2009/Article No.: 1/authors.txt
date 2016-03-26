@@ -1,3 +1,0 @@
-kevin_hoffman author_page.cfm?id=99658760481&CFID=592138408&CFTOKEN=12159463
-david_zage author_page.cfm?id=81340494040&CFID=592138408&CFTOKEN=12159463
-cristina_nita-rotaru author_page.cfm?id=81100166867&CFID=592138408&CFTOKEN=12159463

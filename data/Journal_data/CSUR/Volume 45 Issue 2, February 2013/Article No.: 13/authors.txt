@@ -1,2 +1,0 @@
-simone_faro author_page.cfm?id=81436596747&CFID=762301413&CFTOKEN=70623710
-thierry_lecroq author_page.cfm?id=81100495303&CFID=762301413&CFTOKEN=70623710

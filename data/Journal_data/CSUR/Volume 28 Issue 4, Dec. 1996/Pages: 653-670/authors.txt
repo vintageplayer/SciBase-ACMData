@@ -1,2 +1,0 @@
-jon_doyle author_page.cfm?id=81408597893&CFID=592220171&CFTOKEN=65263385
-thomas_dean author_page.cfm?id=81332495761&CFID=592220171&CFTOKEN=65263385

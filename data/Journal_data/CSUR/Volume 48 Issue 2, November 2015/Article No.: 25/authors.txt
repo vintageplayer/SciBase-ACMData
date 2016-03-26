@@ -1,3 +1,0 @@
-robert_ryan_mccune author_page.cfm?id=81444606734&CFID=762296583&CFTOKEN=17668686
-tim_weninger author_page.cfm?id=99658972101&CFID=762296583&CFTOKEN=17668686
-greg_madey author_page.cfm?id=81100650823&CFID=762296583&CFTOKEN=17668686

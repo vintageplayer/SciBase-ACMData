@@ -1,1 +1,0 @@
-The Logical Record Access Approach to Database Design

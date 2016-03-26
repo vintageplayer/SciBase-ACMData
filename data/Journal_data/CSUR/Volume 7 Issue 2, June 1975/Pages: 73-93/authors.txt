@@ -1,2 +1,0 @@
-john_w_boyse author_page.cfm?id=81332490998&CFID=762611297&CFTOKEN=24982763
-david_r_warn author_page.cfm?id=81540381056&CFID=762611297&CFTOKEN=24982763

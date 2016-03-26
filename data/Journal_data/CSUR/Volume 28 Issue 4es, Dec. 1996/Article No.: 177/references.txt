@@ -1,6 +1,0 @@
-Martin Alt , Florian Martin, Generation of Efficient Interprocedural Analyzers with PAG, Proceedings of the Second International Symposium on Static Analysis, p.33-50, September 25-27, 1995
-Uwe Aßmann, How to Uniformly Specify Program Analysis and Transformation with Graph Rewrite Systems, Proceedings of the 6th International Conference on Compiler Construction, p.121-135, April 24-26, 1996
-Flemming Nielson, Semantics-Directed Program Analysis: A Tool-Maker's Perspective, Proceedings of the Third International Symposium on Static Analysis, p.2-21, September 24-26, 1996
-Steven W. K. Tjiang , John L. Hennessy, Sharlit—a tool for building optimizers, ACM SIGPLAN Notices, v.27 n.7, p.82-93, July 1992[doi>10.1145/143103.143120]
-G. A. Venkatesh , Charles N. Fischer, SPARE: A Development Environment for Program Analysis Algorithms, IEEE Transactions on Software Engineering, v.18 n.4, p.304-318, April 1992[doi>10.1109/32.129219]
-Kwangkeun Yi , Williams Ludwell Harrison, III, Automatic generation and management of interprocedural program analyses, Proceedings of the 20th ACM SIGPLAN-SIGACT symposium on Principles of programming languages, p.246-259, March 1993, Charleston, South Carolina, United States[doi>10.1145/158511.158642]

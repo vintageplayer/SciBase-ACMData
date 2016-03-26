@@ -1,3 +1,0 @@
-alper_yilmaz author_page.cfm?id=81100369904&CFID=762305962&CFTOKEN=64073320
-omar_javed author_page.cfm?id=81100250458&CFID=762305962&CFTOKEN=64073320
-mubarak_shah author_page.cfm?id=81100651565&CFID=762305962&CFTOKEN=64073320

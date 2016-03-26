@@ -1,1 +1,0 @@
-A Survey of Indexing Techniques for Sparse Matrices

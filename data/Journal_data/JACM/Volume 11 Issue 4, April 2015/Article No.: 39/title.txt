@@ -1,1 +1,0 @@
-Special Issue on Emerging Many-Core Systems for Exascale Computing

@@ -1,3 +1,0 @@
-roger_c_schank author_page.cfm?id=81100361774&CFID=762601303&CFTOKEN=10904804
-michael_korcuska author_page.cfm?id=81100137488&CFID=762601303&CFTOKEN=10904804
-menachem_jona author_page.cfm?id=81100028983&CFID=762601303&CFTOKEN=10904804

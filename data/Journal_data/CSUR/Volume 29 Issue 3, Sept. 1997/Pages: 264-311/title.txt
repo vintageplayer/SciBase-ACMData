@@ -1,1 +1,0 @@
-Machine interpretation of CAD data for manufacturing applications

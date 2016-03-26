@@ -1,4 +1,0 @@
-felix_siegle author_page.cfm?id=99658675143&CFID=592131028&CFTOKEN=53911345
-tanya_vladimirova author_page.cfm?id=84458702357&CFID=592131028&CFTOKEN=53911345
-jrgen_ilstad author_page.cfm?id=99658685982&CFID=592131028&CFTOKEN=53911345
-omar_emam author_page.cfm?id=99658677265&CFID=592131028&CFTOKEN=53911345

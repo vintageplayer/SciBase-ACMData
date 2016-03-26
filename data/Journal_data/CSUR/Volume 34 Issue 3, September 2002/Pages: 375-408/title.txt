@@ -1,1 +1,0 @@
-A survey of rollback-recovery protocols in message-passing systems

@@ -1,2 +1,0 @@
-violeta_medina author_page.cfm?id=81482643818&CFID=592132500&CFTOKEN=60470299
-juan_manuel_garcia author_page.cfm?id=81482646993&CFID=592132500&CFTOKEN=60470299

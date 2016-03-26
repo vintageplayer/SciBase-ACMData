@@ -1,1 +1,0 @@
-Discrete wavelet transform-based time series analysis and mining

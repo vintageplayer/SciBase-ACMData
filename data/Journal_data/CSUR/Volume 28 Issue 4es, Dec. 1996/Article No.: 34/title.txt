@@ -1,1 +1,0 @@
-Multiscalar as a new architecture paradigm

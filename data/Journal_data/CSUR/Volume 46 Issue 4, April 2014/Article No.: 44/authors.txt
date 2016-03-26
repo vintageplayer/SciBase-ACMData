@@ -1,5 +1,0 @@
-joao_gama author_page.cfm?id=81100028845&CFID=592132248&CFTOKEN=18591322
-indre_zliobaite author_page.cfm?id=81388602162&CFID=592132248&CFTOKEN=18591322
-albert_bifet author_page.cfm?id=81367594869&CFID=592132248&CFTOKEN=18591322
-mykola_pechenizkiy author_page.cfm?id=81100136358&CFID=592132248&CFTOKEN=18591322
-abdelhamid_bouchachia author_page.cfm?id=81324488023&CFID=592132248&CFTOKEN=18591322

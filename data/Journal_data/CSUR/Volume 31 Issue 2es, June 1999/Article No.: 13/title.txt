@@ -1,1 +1,0 @@
-Consistency management for distributed collaboration

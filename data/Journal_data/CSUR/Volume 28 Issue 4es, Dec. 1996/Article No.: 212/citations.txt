@@ -1,2 +1,0 @@
-Dilip Nijagal Simha , Maohua Lu , Tzi-cker Chiueh, An update-aware storage system for low-locality update-intensive workloads, ACM SIGARCH Computer Architecture News, v.40 n.1, March 2012
-Foto N. Afrati, On approximation algorithms for data mining applications, Efficient Approximation and Online Algorithms: recent Progress on Classical Combinatorial Optimization Problems and New Applications, Springer-Verlag, Berlin, Heidelberg, 2005

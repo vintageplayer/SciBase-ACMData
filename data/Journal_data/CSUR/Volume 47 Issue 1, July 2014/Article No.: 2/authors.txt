@@ -1,2 +1,0 @@
-thomas_winkler author_page.cfm?id=81384595447&CFID=592131909&CFTOKEN=62286934
-bernhard_rinner author_page.cfm?id=81100473390&CFID=592131909&CFTOKEN=62286934

@@ -1,1 +1,0 @@
-Developing algorithms and software for geometric path planning problems

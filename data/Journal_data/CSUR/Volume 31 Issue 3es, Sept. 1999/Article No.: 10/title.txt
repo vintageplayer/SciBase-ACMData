@@ -1,1 +1,0 @@
-Algebraic methods for specification and formal development of programs

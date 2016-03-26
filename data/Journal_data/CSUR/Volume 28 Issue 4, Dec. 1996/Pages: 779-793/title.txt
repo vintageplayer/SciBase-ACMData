@@ -1,1 +1,0 @@
-Strategic directions in storage I/O issues in large-scale computing

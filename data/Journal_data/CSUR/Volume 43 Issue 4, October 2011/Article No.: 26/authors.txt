@@ -1,4 +1,0 @@
-anderson_rocha author_page.cfm?id=81310490428&CFID=762302717&CFTOKEN=83701996
-walter_scheirer author_page.cfm?id=81453640546&CFID=762302717&CFTOKEN=83701996
-terrance_boult author_page.cfm?id=81100441482&CFID=762302717&CFTOKEN=83701996
-siome_goldenstein author_page.cfm?id=81100603104&CFID=762302717&CFTOKEN=83701996

@@ -1,1 +1,0 @@
-Graph-Based Label Propagation in Digital Media: A Review

@@ -1,1 +1,0 @@
-Thermal-Aware Scheduling in Green Data Centers

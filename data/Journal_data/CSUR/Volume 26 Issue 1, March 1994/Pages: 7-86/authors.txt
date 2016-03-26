@@ -1,3 +1,0 @@
-rajiv_gupta author_page.cfm?id=81100027751&CFID=762604095&CFTOKEN=28005937
-scott_a_smolka author_page.cfm?id=81100533015&CFID=762604095&CFTOKEN=28005937
-shaji_bhaskar author_page.cfm?id=81100278847&CFID=762604095&CFTOKEN=28005937

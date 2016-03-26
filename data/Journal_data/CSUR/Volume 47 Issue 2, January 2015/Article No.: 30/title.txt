@@ -1,1 +1,0 @@
-A Survey on Green-Energy-Aware Power Management for Datacenters

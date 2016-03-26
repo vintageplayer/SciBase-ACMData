@@ -1,2 +1,0 @@
-gorel_hedin author_page.cfm?id=81100270533&CFID=762325144&CFTOKEN=37225065
-jrgen_lindskov_knudsen author_page.cfm?id=81100413303&CFID=762325144&CFTOKEN=37225065

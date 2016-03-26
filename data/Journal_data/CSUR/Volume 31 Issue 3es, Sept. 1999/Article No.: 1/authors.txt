@@ -1,4 +1,0 @@
-p_degano author_page.cfm?id=81100538681&CFID=592167517&CFTOKEN=45136073
-r_gorrieri author_page.cfm?id=81100299679&CFID=592167517&CFTOKEN=45136073
-a_marchetti-spaccamela author_page.cfm?id=81100597580&CFID=592167517&CFTOKEN=45136073
-p_wegner author_page.cfm?id=81342515326&CFID=592167517&CFTOKEN=45136073

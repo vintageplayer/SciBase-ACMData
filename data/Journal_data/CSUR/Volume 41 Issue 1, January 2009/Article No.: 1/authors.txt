@@ -1,2 +1,0 @@
-jens_bleiholder author_page.cfm?id=81100606205&CFID=762305028&CFTOKEN=98283229
-felix_naumann author_page.cfm?id=81100447576&CFID=762305028&CFTOKEN=98283229

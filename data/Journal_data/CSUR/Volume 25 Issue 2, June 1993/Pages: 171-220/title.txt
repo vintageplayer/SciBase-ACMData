@@ -1,1 +1,0 @@
-The consensus problem in fault-tolerant computing

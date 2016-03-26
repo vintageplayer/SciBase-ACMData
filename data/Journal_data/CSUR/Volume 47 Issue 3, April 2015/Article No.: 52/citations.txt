@@ -1,1 +1,0 @@
-Min-Ling Zhang , Yu-Kun Li , Xu-Ying Liu, Towards class-imbalance aware multi-label learning, Proceedings of the 24th International Conference on Artificial Intelligence, p.4041-4047, July 25-31, 2015, Buenos Aires, Argentina

@@ -1,7 +1,0 @@
-Erich Gamma , Richard Helm , Ralph Johnson , John Vlissides, Design patterns: elements of reusable object-oriented software, Addison-Wesley Longman Publishing Co., Inc., Boston, MA, 1995
-James O. Coplien , Douglas C. Schmidt, Pattern languages of program design, ACM Press/Addison-Wesley Publishing Co., New York, NY, 1995
-John M. Vlissides , James O. Coplien , Norman L. Kerth, Pattern languages of program design 2, Addison-Wesley Longman Publishing Co., Inc., Boston, MA, 1996
-Frank Buschmann , Regine Meunier , Hans Rohnert , Peter Sommerlad , Michael Stal, Pattern-oriented software architecture: a system of patterns, John Wiley & Sons, Inc., New York, NY, 1996
-Douglas C. Schmidt , Mohamed Fayad , Ralph E. Johnson, Software patterns, Communications of the ACM, v.39 n.10, p.37-39, Oct. 1996[doi>10.1145/236156.236164]
-Douglas C. Schmidt, Using design patterns to develop reusable object-oriented communication software, Communications of the ACM, v.38 n.10, p.65-74, Oct. 1995[doi>10.1145/226239.226255]
-Kent Beck , Ron Crocker , Gerard Meszaros , John Vlissides , James O. Coplien , Lutz Dominick , Frances Paulisch, Industrial experience with design patterns, Proceedings of the 18th international conference on Software engineering, p.103-114, March 25-29, 1996, Berlin, Germany

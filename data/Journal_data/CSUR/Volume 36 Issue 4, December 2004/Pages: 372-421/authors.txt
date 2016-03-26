@@ -1,3 +1,0 @@
-xavier_defago author_page.cfm?id=81100578487&CFID=592142030&CFTOKEN=40516296
-andre_schiper author_page.cfm?id=81100234296&CFID=592142030&CFTOKEN=40516296
-peter_urban author_page.cfm?id=81100171877&CFID=592142030&CFTOKEN=40516296

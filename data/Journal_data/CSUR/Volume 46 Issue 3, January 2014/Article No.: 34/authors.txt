@@ -1,3 +1,0 @@
-carlo_a_furia author_page.cfm?id=81328488153&CFID=592132500&CFTOKEN=60470299
-bertrand_meyer author_page.cfm?id=81550555056&CFID=592132500&CFTOKEN=60470299
-sergey_velder author_page.cfm?id=87259425057&CFID=592132500&CFTOKEN=60470299

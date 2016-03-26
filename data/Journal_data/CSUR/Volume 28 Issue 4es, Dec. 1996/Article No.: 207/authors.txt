@@ -1,2 +1,0 @@
-alok_choudhary author_page.cfm?id=81100655296&CFID=762374608&CFTOKEN=58718484
-david_kotz author_page.cfm?id=81100283749&CFID=762374608&CFTOKEN=58718484

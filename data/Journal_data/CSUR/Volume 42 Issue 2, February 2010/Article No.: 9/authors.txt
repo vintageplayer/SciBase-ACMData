@@ -1,2 +1,0 @@
-jaume_abella author_page.cfm?id=81100172085&CFID=592138261&CFTOKEN=24923252
-xavier_vera author_page.cfm?id=81100219880&CFID=592138261&CFTOKEN=24923252

@@ -1,4 +1,0 @@
-carlo_a_furia author_page.cfm?id=81328488153&CFID=592138261&CFTOKEN=24923252
-dino_mandrioli author_page.cfm?id=81100528875&CFID=592138261&CFTOKEN=24923252
-angelo_morzenti author_page.cfm?id=81100421245&CFID=592138261&CFTOKEN=24923252
-matteo_rossi author_page.cfm?id=81100497439&CFID=592138261&CFTOKEN=24923252

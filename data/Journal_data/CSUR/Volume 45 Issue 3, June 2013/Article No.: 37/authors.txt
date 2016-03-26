@@ -1,3 +1,0 @@
-xavier_grehant author_page.cfm?id=81440617444&CFID=762301090&CFTOKEN=82357598
-isabelle_demeure author_page.cfm?id=81100573937&CFID=762301090&CFTOKEN=82357598
-sverre_jarp author_page.cfm?id=81100397299&CFID=762301090&CFTOKEN=82357598

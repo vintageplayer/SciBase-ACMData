@@ -1,1 +1,0 @@
-Interest management for distributed virtual environments: A survey

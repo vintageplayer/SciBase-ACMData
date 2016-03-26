@@ -1,8 +1,0 @@
-kyu_ho_park author_page.cfm?id=81351598076&CFID=762617119&CFTOKEN=93464933
-woomin_hwang author_page.cfm?id=81474690405&CFID=762617119&CFTOKEN=93464933
-hyunchul_seok author_page.cfm?id=81330498064&CFID=762617119&CFTOKEN=93464933
-chulmin_kim author_page.cfm?id=81556959056&CFID=762617119&CFTOKEN=93464933
-dong-jae_shin author_page.cfm?id=81498655609&CFID=762617119&CFTOKEN=93464933
-dong_jin_kim author_page.cfm?id=99658734652&CFID=762617119&CFTOKEN=93464933
-min_kyu_maeng author_page.cfm?id=87358820657&CFID=762617119&CFTOKEN=93464933
-seong_min_kim author_page.cfm?id=81550861656&CFID=762617119&CFTOKEN=93464933

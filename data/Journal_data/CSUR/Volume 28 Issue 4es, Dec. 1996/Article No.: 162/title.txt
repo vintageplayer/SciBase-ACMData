@@ -1,1 +1,0 @@
-Using design patterns to guide the development of reusable object-oriented software

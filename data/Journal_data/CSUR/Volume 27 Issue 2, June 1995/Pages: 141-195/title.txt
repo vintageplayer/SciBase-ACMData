@@ -1,1 +1,0 @@
-Object orientation in multidatabase systems

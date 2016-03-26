@@ -1,2 +1,0 @@
-caitlin_kelleher author_page.cfm?id=81100607695&CFID=762306523&CFTOKEN=30054843
-randy_pausch author_page.cfm?id=81100493478&CFID=762306523&CFTOKEN=30054843

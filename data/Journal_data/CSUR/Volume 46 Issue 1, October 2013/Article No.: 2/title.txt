@@ -1,1 +1,0 @@
-Keeping the vehicle on the road: A survey on on-road lane detection systems

@@ -1,4 +1,0 @@
-samuel_bayer author_page.cfm?id=81100091674&CFID=762328132&CFTOKEN=54492142
-laurie_e_damianos author_page.cfm?id=81100380186&CFID=762328132&CFTOKEN=54492142
-robyn_kozierok author_page.cfm?id=81100199738&CFID=762328132&CFTOKEN=54492142
-james_mokwa author_page.cfm?id=81100177091&CFID=762328132&CFTOKEN=54492142

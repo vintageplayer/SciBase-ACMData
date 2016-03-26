@@ -1,1 +1,0 @@
-An MINLP Model for Scheduling and Placement of Quantum Circuits with a Heuristic Solution Approach

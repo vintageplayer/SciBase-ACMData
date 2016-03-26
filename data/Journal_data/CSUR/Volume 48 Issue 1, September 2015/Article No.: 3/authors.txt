@@ -1,4 +1,0 @@
-stefan_mitsch author_page.cfm?id=81502784645&CFID=762296955&CFTOKEN=46870589
-andre_platzer author_page.cfm?id=81330496505&CFID=762296955&CFTOKEN=46870589
-werner_retschitzegger author_page.cfm?id=81100073871&CFID=762296955&CFTOKEN=46870589
-wieland_schwinger author_page.cfm?id=81100393327&CFID=762296955&CFTOKEN=46870589

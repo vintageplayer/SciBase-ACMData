@@ -1,1 +1,0 @@
-Domain-driven framework layering in large systems

@@ -1,2 +1,0 @@
-robert_wojcik author_page.cfm?id=81442594239&CFID=762302598&CFTOKEN=34829899
-andrzej_jajszczyk author_page.cfm?id=81100584969&CFID=762302598&CFTOKEN=34829899

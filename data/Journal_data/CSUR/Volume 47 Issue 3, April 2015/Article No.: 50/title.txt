@@ -1,1 +1,0 @@
-Pattern-Based Survey and Categorization of Network Covert Channel Techniques

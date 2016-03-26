@@ -1,1 +1,0 @@
-DISCIPLE: a framework for multimodal collaboration in heterogeneous environments

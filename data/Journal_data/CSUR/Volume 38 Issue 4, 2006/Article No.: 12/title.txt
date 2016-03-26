@@ -1,1 +1,0 @@
-Propositional Satisfiability and Constraint Programming: A comparative survey

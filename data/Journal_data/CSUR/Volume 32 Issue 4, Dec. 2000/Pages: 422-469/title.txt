@@ -1,1 +1,0 @@
-The state of the art in distributed query processing

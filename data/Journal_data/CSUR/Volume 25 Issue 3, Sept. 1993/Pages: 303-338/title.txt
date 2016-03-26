@@ -1,1 +1,0 @@
-Cache coherence in large-scale shared-memory multiprocessors: issues and comparisons

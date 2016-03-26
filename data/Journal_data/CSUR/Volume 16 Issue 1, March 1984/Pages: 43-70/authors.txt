@@ -1,3 +1,0 @@
-james_f_kurose author_page.cfm?id=81100333434&CFID=592447248&CFTOKEN=51708277
-mischa_schwartz author_page.cfm?id=81100404136&CFID=592447248&CFTOKEN=51708277
-yechiam_yemini author_page.cfm?id=81409593491&CFID=592447248&CFTOKEN=51708277

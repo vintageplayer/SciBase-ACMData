@@ -1,5 +1,0 @@
-aleksandar_milenkoski author_page.cfm?id=81498659299&CFID=762296955&CFTOKEN=46870589
-marco_vieira author_page.cfm?id=81100436099&CFID=762296955&CFTOKEN=46870589
-samuel_kounev author_page.cfm?id=81315490151&CFID=762296955&CFTOKEN=46870589
-alberto_avritzer author_page.cfm?id=81100213702&CFID=762296955&CFTOKEN=46870589
-bryan_d_payne author_page.cfm?id=81335496071&CFID=762296955&CFTOKEN=46870589

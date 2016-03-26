@@ -1,1 +1,0 @@
-Static scheduling algorithms for allocating directed task graphs to multiprocessors

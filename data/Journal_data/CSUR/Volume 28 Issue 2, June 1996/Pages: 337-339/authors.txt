@@ -1,2 +1,0 @@
-suresh_jagannathan author_page.cfm?id=81100208907&CFID=592220943&CFTOKEN=10144708
-andrew_wright author_page.cfm?id=81100660256&CFID=592220943&CFTOKEN=10144708

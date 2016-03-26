@@ -1,1 +1,0 @@
-Object-based and image-based object representations

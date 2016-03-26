@@ -1,2 +1,0 @@
-Edward A. Lee , Yuhong Xiong, System-Level Types for Component-Based Design, Proceedings of the First International Workshop on Embedded Software, p.237-253, October 08-10, 2001
-Yuhong Xiong , Edward A. Lee, An Extensible Type System for Component-Based Design, Proceedings of the 6th International Conference on Tools and Algorithms for Construction and Analysis of Systems: Held as Part of the European Joint Conferences on the Theory and Practice of Software, ETAPS 2000, p.20-37, March 25-April 02, 2000

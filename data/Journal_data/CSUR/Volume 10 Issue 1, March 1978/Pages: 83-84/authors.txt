@@ -1,2 +1,0 @@
-lester_lipsky author_page.cfm?id=81100015729&CFID=592451698&CFTOKEN=59889035
-james_d_church author_page.cfm?id=81100503451&CFID=592451698&CFTOKEN=59889035

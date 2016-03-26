@@ -1,1 +1,0 @@
-On built-in test reuse in object-oriented framework design

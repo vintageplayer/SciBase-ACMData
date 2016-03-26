@@ -1,2 +1,0 @@
-nicholas_carriero author_page.cfm?id=81410596030&CFID=762606084&CFTOKEN=64999356
-david_gelernter author_page.cfm?id=81100544609&CFID=762606084&CFTOKEN=64999356

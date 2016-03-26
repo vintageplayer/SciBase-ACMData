@@ -1,3 +1,0 @@
-boris_danev author_page.cfm?id=81314488282&CFID=762301697&CFTOKEN=56250323
-davide_zanetti author_page.cfm?id=81100353586&CFID=762301697&CFTOKEN=56250323
-srdjan_capkun author_page.cfm?id=81100396056&CFID=762301697&CFTOKEN=56250323

@@ -1,2 +1,0 @@
-wei_zang author_page.cfm?id=81464653085&CFID=762301090&CFTOKEN=82357598
-ann_gordon-ross author_page.cfm?id=81100495966&CFID=762301090&CFTOKEN=82357598

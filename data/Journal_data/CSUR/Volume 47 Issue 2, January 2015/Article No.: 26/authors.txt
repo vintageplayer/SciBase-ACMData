@@ -1,2 +1,0 @@
-geoffray_bonnin author_page.cfm?id=81392617791&CFID=592131028&CFTOKEN=53911345
-dietmar_jannach author_page.cfm?id=81100081930&CFID=592131028&CFTOKEN=53911345

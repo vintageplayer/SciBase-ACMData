@@ -1,1 +1,0 @@
-Planar Geometric Projections and Viewing Transformations

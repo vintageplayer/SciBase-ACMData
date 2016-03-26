@@ -1,1 +1,0 @@
-End-to-end QoS guarantees in networked multimedia systems

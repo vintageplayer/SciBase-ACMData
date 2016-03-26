@@ -1,2 +1,0 @@
-thomas_h_cormen author_page.cfm?id=81452617279&CFID=762374608&CFTOKEN=58718484
-michael_t_goodrich author_page.cfm?id=81452611465&CFID=762374608&CFTOKEN=58718484

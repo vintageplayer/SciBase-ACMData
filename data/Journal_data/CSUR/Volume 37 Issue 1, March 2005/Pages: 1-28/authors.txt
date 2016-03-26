@@ -1,2 +1,0 @@
-rajendra_bose author_page.cfm?id=81100338023&CFID=762306601&CFTOKEN=64153789
-james_frew author_page.cfm?id=81341490317&CFID=762306601&CFTOKEN=64153789

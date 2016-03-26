@@ -1,2 +1,0 @@
-h_hellerman author_page.cfm?id=81537847256&CFID=762612941&CFTOKEN=68888773
-h_j_smith author_page.cfm?id=81546470556&CFID=762612941&CFTOKEN=68888773

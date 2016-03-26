@@ -1,2 +1,0 @@
-daniel_a_reed author_page.cfm?id=81100321949&CFID=762328132&CFTOKEN=54492142
-simon_m_kaplan author_page.cfm?id=81100156044&CFID=762328132&CFTOKEN=54492142

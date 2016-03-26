@@ -1,3 +1,0 @@
-philip_c_treleaven author_page.cfm?id=81100128871&CFID=592448460&CFTOKEN=48181314
-david_r_brownbridge author_page.cfm?id=81100182828&CFID=592448460&CFTOKEN=48181314
-richard_p_hopkins author_page.cfm?id=81100348470&CFID=592448460&CFTOKEN=48181314

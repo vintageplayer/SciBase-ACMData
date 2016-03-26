@@ -1,3 +1,0 @@
-Siau-Cheng Khoo , Kun Shi, Output-constraint specialization, Proceedings of the ASIAN symposium on Partial evaluation and semantics-based program manipulation, p.106-116, September 12-14, 2002, Aizu, Japan
-Siau-Cheng Khoo , Kun Shi, Program Adaptation via Output-Constraint Specialization, Higher-Order and Symbolic Computation, v.17 n.1-2, p.93-128, March-June 2004
-Renaud Marlet , Scott Thibault , Charles Consel, Efficient Implementations of Software Architectures via Partial Evaluation, Automated Software Engineering, v.6 n.4, p.411-440, October 1999

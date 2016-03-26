@@ -1,1 +1,0 @@
-Evolution of Attacks, Threat Models, and Solutions for Virtualized Systems

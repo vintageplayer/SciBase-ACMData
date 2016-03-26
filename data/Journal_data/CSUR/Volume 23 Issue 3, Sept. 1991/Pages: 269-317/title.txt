@@ -1,1 +1,0 @@
-Concurrency control in advanced database applications

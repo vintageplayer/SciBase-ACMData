@@ -1,1 +1,0 @@
-REDELF: An Energy-Efficient Deadlock-Free Routing for 3D NoCs with Partial Vertical Connections

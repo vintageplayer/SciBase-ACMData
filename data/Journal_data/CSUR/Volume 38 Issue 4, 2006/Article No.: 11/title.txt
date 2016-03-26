@@ -1,1 +1,0 @@
-Realization of natural language interfaces using lazy functional programming

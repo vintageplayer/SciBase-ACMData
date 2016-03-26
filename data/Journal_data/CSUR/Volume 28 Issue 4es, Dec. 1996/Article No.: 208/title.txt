@@ -1,1 +1,0 @@
-A bridging model for parallel computation, communication, and I/O

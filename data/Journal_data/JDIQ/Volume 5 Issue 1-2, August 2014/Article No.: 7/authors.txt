@@ -1,2 +1,0 @@
-paul_glowalla author_page.cfm?id=87258955657&CFID=592312543&CFTOKEN=60949954
-ali_sunyaev author_page.cfm?id=81361599300&CFID=592312543&CFTOKEN=60949954

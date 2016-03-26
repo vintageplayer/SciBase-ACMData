@@ -1,1 +1,0 @@
-Control strategies for two-player games

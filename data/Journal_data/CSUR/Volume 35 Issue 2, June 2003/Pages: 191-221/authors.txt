@@ -1,2 +1,0 @@
-sandeep_purao author_page.cfm?id=81100548743&CFID=592142867&CFTOKEN=28864721
-vijay_vaishnavi author_page.cfm?id=81100538659&CFID=592142867&CFTOKEN=28864721

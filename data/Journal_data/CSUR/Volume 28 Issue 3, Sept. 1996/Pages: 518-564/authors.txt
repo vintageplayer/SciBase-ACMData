@@ -1,2 +1,0 @@
-peter_soderquist author_page.cfm?id=81100069641&CFID=592220820&CFTOKEN=24928152
-miriam_leeser author_page.cfm?id=81100439544&CFID=592220820&CFTOKEN=24928152

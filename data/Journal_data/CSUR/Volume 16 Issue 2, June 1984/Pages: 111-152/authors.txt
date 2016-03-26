@@ -1,2 +1,0 @@
-matthias_jarke author_page.cfm?id=81100499431&CFID=762607235&CFTOKEN=58890303
-jurgen_koch author_page.cfm?id=81100301661&CFID=762607235&CFTOKEN=58890303

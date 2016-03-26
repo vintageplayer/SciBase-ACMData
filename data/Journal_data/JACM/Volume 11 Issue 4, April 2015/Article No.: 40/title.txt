@@ -1,1 +1,0 @@
-Architecture and Implementation of Dynamic Parallelism, Voltage and Frequency Scaling (PVFS) on CGRAs

@@ -1,2 +1,0 @@
-bin_li author_page.cfm?id=87259349857&CFID=592132500&CFTOKEN=60470299
-steven_c_h_hoi author_page.cfm?id=81501646172&CFID=592132500&CFTOKEN=60470299

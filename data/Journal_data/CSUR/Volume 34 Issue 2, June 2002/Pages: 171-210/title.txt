@@ -1,1 +1,0 @@
-Reconfigurable computing: a survey of systems and software

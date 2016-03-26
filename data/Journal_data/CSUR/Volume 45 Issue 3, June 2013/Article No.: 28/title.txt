@@ -1,1 +1,0 @@
-Recovery within long-running transactions

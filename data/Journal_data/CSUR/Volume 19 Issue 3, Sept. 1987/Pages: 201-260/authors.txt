@@ -1,2 +1,0 @@
-richard_hull author_page.cfm?id=81100351909&CFID=592445828&CFTOKEN=28869064
-roger_king author_page.cfm?id=81452610630&CFID=592445828&CFTOKEN=28869064

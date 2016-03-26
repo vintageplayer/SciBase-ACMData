@@ -1,3 +1,0 @@
-olivier_danvy author_page.cfm?id=81100394275&CFID=592220943&CFTOKEN=10144708
-nevin_hentze author_page.cfm?id=81546723856&CFID=592220943&CFTOKEN=10144708
-karoline_malmkjr author_page.cfm?id=81100194472&CFID=592220943&CFTOKEN=10144708

@@ -1,1 +1,0 @@
-Synthesis and optimization of reversible circuits—a survey

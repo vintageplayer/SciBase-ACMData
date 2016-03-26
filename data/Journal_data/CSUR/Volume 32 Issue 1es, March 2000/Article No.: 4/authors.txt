@@ -1,2 +1,0 @@
-mohamed_e_fayad author_page.cfm?id=81339498936&CFID=762325144&CFTOKEN=37225065
-david_s_hamu author_page.cfm?id=81100571730&CFID=762325144&CFTOKEN=37225065

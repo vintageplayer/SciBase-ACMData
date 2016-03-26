@@ -1,7 +1,0 @@
-A. Aho, D. Johnson, R. Karp, R. Kosaraju, C. McGeoch, C. Papadimitriou, and P. Pevzner, Theory of Computing: Goals and Directions, manuscript, 1996.
-W. Barr, B. Golden, J. Kelly, M. Resende, and W. Stewart, Designing and Reporting on Computational Experiments with Heuristic Methods, J. Heuristics, vol. 1, no. 1, 1995, pages 9-32.
-M. Fellows, Computer science in the elementary schools, Mathematicians and Education Reform Workshop, Seattle, 1991. Published as: Mathematicians and Education Reform, 1990-1991, N. Fisher, H. Keynes and P. Wagreich, eds., Conference Board of the Mathematical Sciences, Issues in Mathematics Education 3, 1993, 143--163.
-O. Goldreich and A. Wigderson, Theory of Computing: A Scientific Perspective, manuscript, 1996.
-D. Johnson, How to do Experiments, manuscript, 1996.
-C. McGeoch, Towards an Experimental Method for Algorithm Simulation, INFORMS J. Computing, vol. 8, no. 1, 1996, pages 1-15.
-Ian Parberry, A guide for new referees in theoretical computer science, Information and Computation, v.112 n.1, p.96-116, July 1994[doi>10.1006/inco.1994.1053]

@@ -1,1 +1,0 @@
-An open framework for reliable distributed computing

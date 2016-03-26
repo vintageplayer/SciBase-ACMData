@@ -1,6 +1,0 @@
-Leo Joskowicz , Elisha P. Sacks, Computational kinematics, Artificial Intelligence, v.51 n.1-3, p.381-416, Oct. 1991[doi>10.1016/0004-3702(91)90115-Z]
-Elisha P. Sacks, Automatic analysis of one-parameter planar ordinary differential equations by intelligent numeric simulation, Artificial Intelligence, v.48 n.1, p.27-56, Feb. 1991[doi>10.1016/0004-3702(91)90079-Y]
-Kenneth Yip, Reasoning about fluid motion I: finding structures, Proceedings of the 14th international joint conference on Artificial intelligence, p.1782-1788, August 20-25, 1995, Montreal, Quebec, Canada
-Ym, K. 1991. KAM: A System for Intelhgently Guiding Numerical Experimentatmn by Computer. MIT Press, Cambridge, MA.
-YIP, K. AND ZHAO, F. 1995. Spatial aggregation: Theory and application to qualitative physics. In Proceedings of Symposium on Abstraction, Reformulation, and Approximation (Ville d'EstereL Quebec, Canada).
-Feng Zhao, Extracting and representing qualitative behaviors of complex systems in phase space, Artificial Intelligence, v.69 n.1-2, p.51-92, Sept. 1994[doi>10.1016/0004-3702(94)90078-7]

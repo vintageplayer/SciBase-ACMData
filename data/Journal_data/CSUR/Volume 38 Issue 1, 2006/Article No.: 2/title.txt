@@ -1,1 +1,0 @@
-Graph mining: Laws, generators, and algorithms

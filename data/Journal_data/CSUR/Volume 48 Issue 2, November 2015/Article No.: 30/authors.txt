@@ -1,5 +1,0 @@
-roy_shilkrot author_page.cfm?id=81486654331&CFID=762296583&CFTOKEN=17668686
-jochen_huber author_page.cfm?id=81435602593&CFID=762296583&CFTOKEN=17668686
-jurgen_steimle author_page.cfm?id=81384613099&CFID=762296583&CFTOKEN=17668686
-suranga_nanayakkara author_page.cfm?id=81416609140&CFID=762296583&CFTOKEN=17668686
-pattie_maes author_page.cfm?id=81100086306&CFID=762296583&CFTOKEN=17668686

@@ -1,1 +1,0 @@
-Approaches to fault-tolerant and transactional mobile agent execution---an algorithmic view

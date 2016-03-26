@@ -1,4 +1,0 @@
-francis_kubala author_page.cfm?id=81100129645&CFID=762328132&CFTOKEN=54492142
-sean_colbath author_page.cfm?id=81100096807&CFID=762328132&CFTOKEN=54492142
-daben_liu author_page.cfm?id=81100526609&CFID=762328132&CFTOKEN=54492142
-john_makhoul author_page.cfm?id=81100574045&CFID=762328132&CFTOKEN=54492142

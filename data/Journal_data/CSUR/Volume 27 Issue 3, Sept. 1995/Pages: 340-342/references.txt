@@ -1,6 +1,0 @@
-Alan H. Bond , Les Gasser, Distributed Artificial Intelligence, Morgan Kaufmann Publishers Inc., San Francisco, CA, 1988
-M. Huhns, Distributed Artificial Intelligence (Vol. 2), Morgan Kaufmann Publishers Inc., San Francisco, CA, 1989
-M. Huhns, Distributed Artificial Intelligence (Vol. 2), Morgan Kaufmann Publishers Inc., San Francisco, CA, 1989
-IEEE Trans. Syst. Man. Cvbern. 1991 Special Issue on Dzstrzbuted AI, C-21, 6 (Nov/Dec).
-G. M. P. O'Hare , N. R. Jennings, Foundations of distributed artificial intelligence, John Wiley & Sons, Inc., New York, NY, 1996
-1995. Proceedings of the FLrst Internatwnal Conference on Mult~agent Systems (San Francisco, June), AAAI Press

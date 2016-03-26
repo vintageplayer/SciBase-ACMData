@@ -1,7 +1,0 @@
-craig_thompson author_page.cfm?id=81100437266&CFID=762328132&CFTOKEN=54492142
-paul_pazandak author_page.cfm?id=81100095005&CFID=762328132&CFTOKEN=54492142
-venu_vasudevan author_page.cfm?id=81538763356&CFID=762328132&CFTOKEN=54492142
-frank_manola author_page.cfm?id=81100408042&CFID=762328132&CFTOKEN=54492142
-mark_palmer author_page.cfm?id=81100162176&CFID=762328132&CFTOKEN=54492142
-gil_hansen author_page.cfm?id=81100463742&CFID=762328132&CFTOKEN=54492142
-tom_bannon author_page.cfm?id=81100465768&CFID=762328132&CFTOKEN=54492142

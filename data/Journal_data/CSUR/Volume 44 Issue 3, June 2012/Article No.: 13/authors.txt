@@ -1,3 +1,0 @@
-joonho_kong author_page.cfm?id=81444602799&CFID=762302236&CFTOKEN=57928265
-sung_woo_chung author_page.cfm?id=81319490078&CFID=762302236&CFTOKEN=57928265
-kevin_skadron author_page.cfm?id=81100290998&CFID=762302236&CFTOKEN=57928265

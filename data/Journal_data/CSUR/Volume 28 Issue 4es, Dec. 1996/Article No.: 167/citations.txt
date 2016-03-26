@@ -1,2 +1,0 @@
-Agostino Cortesi , Francesco Logozzo, Abstract interpretation-based verification of non-functional requirements, Proceedings of the 7th international conference on Coordination Models and Languages, p.49-62, April 20-23, 2005, Namur, Belgium
-David Binkley, Source Code Analysis: A Road Map, 2007 Future of Software Engineering, p.104-119, May 23-25, 2007

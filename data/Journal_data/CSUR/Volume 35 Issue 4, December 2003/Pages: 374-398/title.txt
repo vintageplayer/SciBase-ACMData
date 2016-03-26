@@ -1,1 +1,0 @@
-A survey of Web cache replacement strategies

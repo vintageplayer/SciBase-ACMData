@@ -1,4 +1,0 @@
-joao_mendes-moreira author_page.cfm?id=81442616557&CFID=762301697&CFTOKEN=56250323
-carlos_soares author_page.cfm?id=81100162872&CFID=762301697&CFTOKEN=56250323
-alipio_mario_jorge author_page.cfm?id=81100206487&CFID=762301697&CFTOKEN=56250323
-jorge_freire_de_sousa author_page.cfm?id=81418594226&CFID=762301697&CFTOKEN=56250323

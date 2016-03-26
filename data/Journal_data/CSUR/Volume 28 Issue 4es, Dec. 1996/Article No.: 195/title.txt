@@ -1,1 +1,0 @@
-Research in programming languages for composability, safety, and performance

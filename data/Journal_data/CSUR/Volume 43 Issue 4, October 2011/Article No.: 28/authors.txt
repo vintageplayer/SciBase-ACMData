@@ -1,6 +1,0 @@
-manuel_wimmer author_page.cfm?id=81317490231&CFID=762302717&CFTOKEN=83701996
-andrea_schauerhuber author_page.cfm?id=81317489346&CFID=762302717&CFTOKEN=83701996
-gerti_kappel author_page.cfm?id=81100135805&CFID=762302717&CFTOKEN=83701996
-werner_retschitzegger author_page.cfm?id=81100073871&CFID=762302717&CFTOKEN=83701996
-wieland_schwinger author_page.cfm?id=81100393327&CFID=762302717&CFTOKEN=83701996
-elizabeth_kapsammer author_page.cfm?id=81100275977&CFID=762302717&CFTOKEN=83701996

@@ -1,1 +1,0 @@
-A survey of adaptive services to cope with dynamics in wireless self-organizing networks

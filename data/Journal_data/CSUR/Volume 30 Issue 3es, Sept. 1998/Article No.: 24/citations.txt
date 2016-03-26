@@ -1,1 +1,0 @@
-Claus Brabrand , Michael I. Schwartzbach, Growing languages with metamorphic syntax macros, ACM SIGPLAN Notices, v.37 n.3, p.31-40, March 2002

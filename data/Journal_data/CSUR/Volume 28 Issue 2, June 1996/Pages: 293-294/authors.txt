@@ -1,2 +1,0 @@
-chris_hankin author_page.cfm?id=81100305946&CFID=592220943&CFTOKEN=10144708
-hanne_riis_nielson author_page.cfm?id=81100316576&CFID=592220943&CFTOKEN=10144708

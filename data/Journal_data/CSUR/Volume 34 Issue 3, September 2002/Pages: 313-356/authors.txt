@@ -1,3 +1,0 @@
-josep_diaz author_page.cfm?id=81408600890&CFID=592143520&CFTOKEN=20335772
-jordi_petit author_page.cfm?id=81100324949&CFID=592143520&CFTOKEN=20335772
-maria_serna author_page.cfm?id=81100196123&CFID=592143520&CFTOKEN=20335772

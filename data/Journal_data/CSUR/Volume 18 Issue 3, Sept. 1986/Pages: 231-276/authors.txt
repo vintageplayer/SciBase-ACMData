@@ -1,3 +1,0 @@
-ali_mili author_page.cfm?id=81100523908&CFID=762606594&CFTOKEN=14237470
-jules_desharnais author_page.cfm?id=81100274593&CFID=762606594&CFTOKEN=14237470
-jean_raynomd_gagne author_page.cfm?id=81100227061&CFID=762606594&CFTOKEN=14237470

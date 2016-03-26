@@ -1,3 +1,0 @@
-chris_baillie author_page.cfm?id=81503652190&CFID=592312381&CFTOKEN=11342423
-peter_edwards author_page.cfm?id=81100595583&CFID=592312381&CFTOKEN=11342423
-edoardo_pignotti author_page.cfm?id=81319499501&CFID=592312381&CFTOKEN=11342423

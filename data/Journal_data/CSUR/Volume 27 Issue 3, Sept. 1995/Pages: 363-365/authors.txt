@@ -1,3 +1,0 @@
-kenneth_yip author_page.cfm?id=81100065288&CFID=762602201&CFTOKEN=73574314
-feng_zhao author_page.cfm?id=81452603515&CFID=762602201&CFTOKEN=73574314
-elisha_sacks author_page.cfm?id=81100632127&CFID=762602201&CFTOKEN=73574314

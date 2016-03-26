@@ -1,1 +1,0 @@
-Models for mobile computing agents

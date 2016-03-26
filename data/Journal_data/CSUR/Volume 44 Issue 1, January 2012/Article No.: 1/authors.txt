@@ -1,2 +1,0 @@
-claudio_carpineto author_page.cfm?id=81100165299&CFID=762302598&CFTOKEN=34829899
-giovanni_romano author_page.cfm?id=81100602499&CFID=762302598&CFTOKEN=34829899

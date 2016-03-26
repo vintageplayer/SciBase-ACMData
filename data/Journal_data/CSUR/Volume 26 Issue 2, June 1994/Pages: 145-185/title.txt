@@ -1,1 +1,0 @@
-RAID: high-performance, reliable secondary storage

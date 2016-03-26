@@ -1,4 +1,0 @@
-howard_d_wactlar author_page.cfm?id=81100586988&CFID=762328132&CFTOKEN=54492142
-michael_g_christel author_page.cfm?id=81100563773&CFID=762328132&CFTOKEN=54492142
-alexander_g_hauptmann author_page.cfm?id=81100535010&CFID=762328132&CFTOKEN=54492142
-yihong_gong author_page.cfm?id=81100009870&CFID=762328132&CFTOKEN=54492142

@@ -1,2 +1,0 @@
-Andy Gimblett , Harold Thimbleby, Applying theorem discovery to automatically find and check usability heuristics, Proceedings of the 5th ACM SIGCHI symposium on Engineering interactive computing systems, June 24-27, 2013, London, United Kingdom
-Patrick Cousot , Radhia Cousot, Abstract interpretation: past, present and future, Proceedings of the Joint Meeting of the Twenty-Third EACSL Annual Conference on Computer Science Logic (CSL) and the Twenty-Ninth Annual ACM/IEEE Symposium on Logic in Computer Science (LICS), July 14-18, 2014, Vienna, Austria

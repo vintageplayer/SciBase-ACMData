@@ -1,5 +1,0 @@
-andrew_newell author_page.cfm?id=81435593793&CFID=592131028&CFTOKEN=53911345
-hongyi_yao author_page.cfm?id=99658636364&CFID=592131028&CFTOKEN=53911345
-alex_ryker author_page.cfm?id=99658636252&CFID=592131028&CFTOKEN=53911345
-tracey_ho author_page.cfm?id=81440592453&CFID=592131028&CFTOKEN=53911345
-cristina_nita-rotaru author_page.cfm?id=81100166867&CFID=592131028&CFTOKEN=53911345

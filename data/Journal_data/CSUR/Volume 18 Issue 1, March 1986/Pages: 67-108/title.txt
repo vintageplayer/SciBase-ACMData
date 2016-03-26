@@ -1,1 +1,0 @@
-Model-based recognition in robot vision

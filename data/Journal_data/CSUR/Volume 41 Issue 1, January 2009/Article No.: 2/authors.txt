@@ -1,3 +1,0 @@
-andy_cockburn author_page.cfm?id=81100607754&CFID=762305028&CFTOKEN=98283229
-amy_karlson author_page.cfm?id=81100168208&CFID=762305028&CFTOKEN=98283229
-benjamin_b_bederson author_page.cfm?id=81100083927&CFID=762305028&CFTOKEN=98283229

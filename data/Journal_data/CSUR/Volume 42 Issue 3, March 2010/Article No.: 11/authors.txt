@@ -1,2 +1,0 @@
-yildiray_kabak author_page.cfm?id=81100364723&CFID=592138158&CFTOKEN=34768687
-asuman_dogac author_page.cfm?id=81100573888&CFID=592138158&CFTOKEN=34768687

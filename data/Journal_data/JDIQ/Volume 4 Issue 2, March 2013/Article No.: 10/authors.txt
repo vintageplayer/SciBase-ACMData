@@ -1,4 +1,0 @@
-yinle_zhou author_page.cfm?id=81464651399&CFID=592312838&CFTOKEN=12138101
-eric_nelson author_page.cfm?id=81496662771&CFID=592312838&CFTOKEN=12138101
-fumiko_kobayashi author_page.cfm?id=81555699656&CFID=592312838&CFTOKEN=12138101
-john_r_talburt author_page.cfm?id=81100193409&CFID=592312838&CFTOKEN=12138101

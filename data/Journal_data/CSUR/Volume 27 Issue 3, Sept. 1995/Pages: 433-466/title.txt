@@ -1,1 +1,0 @@
-The computation of optical flow

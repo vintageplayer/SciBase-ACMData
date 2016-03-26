@@ -1,1 +1,0 @@
-A Practical Approach to Selecting Record Access Paths

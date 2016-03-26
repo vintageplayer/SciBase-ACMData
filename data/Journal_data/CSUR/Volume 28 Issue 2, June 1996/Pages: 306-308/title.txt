@@ -1,1 +1,0 @@
-Integration of functional and logic programming

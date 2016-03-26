@@ -1,1 +1,0 @@
-Conception, evolution, and application of functional programming languages

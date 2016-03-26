@@ -1,5 +1,0 @@
-william_a_wulf author_page.cfm?id=81332536633&CFID=592447527&CFTOKEN=74745380
-joe_newcomer author_page.cfm?id=81100173053&CFID=592447527&CFTOKEN=74745380
-bruce_leverett author_page.cfm?id=81100359163&CFID=592447527&CFTOKEN=74745380
-rick_cattell author_page.cfm?id=81452607494&CFID=592447527&CFTOKEN=74745380
-paul_knueven author_page.cfm?id=81100274495&CFID=592447527&CFTOKEN=74745380

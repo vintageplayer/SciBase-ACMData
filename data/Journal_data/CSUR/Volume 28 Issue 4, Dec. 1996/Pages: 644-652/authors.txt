@@ -1,3 +1,0 @@
-chris_hankin author_page.cfm?id=81100305946&CFID=592220171&CFTOKEN=65263385
-hanne_riis_nielson author_page.cfm?id=81100316576&CFID=592220171&CFTOKEN=65263385
-jens_palsberg author_page.cfm?id=81100375570&CFID=592220171&CFTOKEN=65263385

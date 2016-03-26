@@ -1,1 +1,0 @@
-Modeling, Profiling, and Debugging the Energy Consumption of Mobile Devices

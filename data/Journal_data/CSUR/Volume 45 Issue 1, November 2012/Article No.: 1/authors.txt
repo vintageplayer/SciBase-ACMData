@@ -1,5 +1,0 @@
-dong_zhou author_page.cfm?id=81548026080&CFID=762301697&CFTOKEN=56250323
-mark_truran author_page.cfm?id=81336493553&CFID=762301697&CFTOKEN=56250323
-tim_brailsford author_page.cfm?id=81100059966&CFID=762301697&CFTOKEN=56250323
-vincent_wade author_page.cfm?id=81100412983&CFID=762301697&CFTOKEN=56250323
-helen_ashman author_page.cfm?id=81100486617&CFID=762301697&CFTOKEN=56250323

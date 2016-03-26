@@ -1,5 +1,0 @@
-thomas_thum author_page.cfm?id=81442609950&CFID=592131909&CFTOKEN=62286934
-sven_apel author_page.cfm?id=81310488878&CFID=592131909&CFTOKEN=62286934
-christian_kastner author_page.cfm?id=81331495728&CFID=592131909&CFTOKEN=62286934
-ina_schaefer author_page.cfm?id=81317500056&CFID=592131909&CFTOKEN=62286934
-gunter_saake author_page.cfm?id=81548036376&CFID=592131909&CFTOKEN=62286934

@@ -1,2 +1,0 @@
-peter_wegner author_page.cfm?id=81332534685&CFID=762328832&CFTOKEN=30781430
-marvin_israel author_page.cfm?id=81342498525&CFID=762328832&CFTOKEN=30781430

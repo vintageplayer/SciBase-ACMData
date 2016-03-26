@@ -1,7 +1,0 @@
-sergio_damas author_page.cfm?id=81310481564&CFID=762302717&CFTOKEN=83701996
-oscar_cordon author_page.cfm?id=81100612931&CFID=762302717&CFTOKEN=83701996
-oscar_ibanez author_page.cfm?id=81384599210&CFID=762302717&CFTOKEN=83701996
-jose_santamaria author_page.cfm?id=81350570760&CFID=762302717&CFTOKEN=83701996
-inmaculada_aleman author_page.cfm?id=81339487952&CFID=762302717&CFTOKEN=83701996
-miguel_botella author_page.cfm?id=81339491050&CFID=762302717&CFTOKEN=83701996
-fernando_navarro author_page.cfm?id=81418595615&CFID=762302717&CFTOKEN=83701996

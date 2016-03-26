@@ -1,1 +1,0 @@
-Mathematical formalisms for performance evaluation of networks-on-chip

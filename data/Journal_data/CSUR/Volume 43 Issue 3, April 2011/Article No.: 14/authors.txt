@@ -1,4 +1,0 @@
-patricia_beatty author_page.cfm?id=81331488516&CFID=592137386&CFTOKEN=47436163
-ian_reay author_page.cfm?id=81331502180&CFID=592137386&CFTOKEN=47436163
-scott_dick author_page.cfm?id=81331491599&CFID=592137386&CFTOKEN=47436163
-james_miller author_page.cfm?id=81337491675&CFID=592137386&CFTOKEN=47436163

@@ -1,3 +1,0 @@
-simon_j_puglisi author_page.cfm?id=81100272116&CFID=762305768&CFTOKEN=95042859
-w_f_smyth author_page.cfm?id=81338490986&CFID=762305768&CFTOKEN=95042859
-andrew_h_turpin author_page.cfm?id=81100229960&CFID=762305768&CFTOKEN=95042859

@@ -1,2 +1,0 @@
-philip_bernstein author_page.cfm?id=81100134982&CFID=592448275&CFTOKEN=13188409
-nathan_goodman author_page.cfm?id=81100004727&CFID=592448275&CFTOKEN=13188409

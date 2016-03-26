@@ -1,1 +1,0 @@
-Symmetry in temporal logic model checking

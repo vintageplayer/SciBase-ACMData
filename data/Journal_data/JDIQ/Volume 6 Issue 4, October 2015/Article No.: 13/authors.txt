@@ -1,4 +1,0 @@
-alberto_bartoli author_page.cfm?id=81100017632&CFID=762472123&CFTOKEN=19249226
-andrea_de_lorenzo author_page.cfm?id=99658755173&CFID=762472123&CFTOKEN=19249226
-eric_medvet author_page.cfm?id=81320492985&CFID=762472123&CFTOKEN=19249226
-fabiano_tarlao author_page.cfm?id=99658615458&CFID=762472123&CFTOKEN=19249226

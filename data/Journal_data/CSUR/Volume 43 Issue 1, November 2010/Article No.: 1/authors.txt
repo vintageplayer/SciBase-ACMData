@@ -1,3 +1,0 @@
-mario_cannataro author_page.cfm?id=81100557284&CFID=592137878&CFTOKEN=48842369
-pietro_h_guzzi author_page.cfm?id=81100029618&CFID=592137878&CFTOKEN=48842369
-pierangelo_veltri author_page.cfm?id=81100343862&CFID=592137878&CFTOKEN=48842369

@@ -1,4 +1,0 @@
-carl_e_landwehr author_page.cfm?id=81100246123&CFID=762603886&CFTOKEN=20177127
-alan_r_bull author_page.cfm?id=81100520647&CFID=762603886&CFTOKEN=20177127
-john_p_mcdermott author_page.cfm?id=81341493705&CFID=762603886&CFTOKEN=20177127
-william_s_choi author_page.cfm?id=81100479149&CFID=762603886&CFTOKEN=20177127

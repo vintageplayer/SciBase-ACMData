@@ -1,7 +1,0 @@
-steven_brown author_page.cfm?id=81100013003&CFID=592313184&CFTOKEN=68155840
-trent_s_rosenbloom author_page.cfm?id=81502802442&CFID=592313184&CFTOKEN=68155840
-shawn_p_hardenbrook author_page.cfm?id=81502805061&CFID=592313184&CFTOKEN=68155840
-terry_clark author_page.cfm?id=81502769705&CFID=592313184&CFTOKEN=68155840
-elliot_fielstein author_page.cfm?id=81502802505&CFID=592313184&CFTOKEN=68155840
-peter_elkin author_page.cfm?id=81100572351&CFID=592313184&CFTOKEN=68155840
-ted_speroff author_page.cfm?id=81502808580&CFID=592313184&CFTOKEN=68155840

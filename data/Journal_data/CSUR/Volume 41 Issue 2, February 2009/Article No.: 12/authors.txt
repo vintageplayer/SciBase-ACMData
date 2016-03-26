@@ -1,2 +1,0 @@
-xiaoguang_qi author_page.cfm?id=81316489714&CFID=762304864&CFTOKEN=72281661
-brian_d_davison author_page.cfm?id=81100056175&CFID=762304864&CFTOKEN=72281661

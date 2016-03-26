@@ -1,4 +1,0 @@
-steffen_wendzel author_page.cfm?id=81493654878&CFID=592130354&CFTOKEN=57452932
-sebastian_zander author_page.cfm?id=81100615569&CFID=592130354&CFTOKEN=57452932
-bernhard_fechner author_page.cfm?id=81444593438&CFID=592130354&CFTOKEN=57452932
-christian_herdin author_page.cfm?id=81487653567&CFID=592130354&CFTOKEN=57452932

@@ -1,3 +1,0 @@
-simona_bernardi author_page.cfm?id=81100461253&CFID=762301697&CFTOKEN=56250323
-jose_merseguer author_page.cfm?id=81100438901&CFID=762301697&CFTOKEN=56250323
-dorina_c_petriu author_page.cfm?id=81350570297&CFID=762301697&CFTOKEN=56250323

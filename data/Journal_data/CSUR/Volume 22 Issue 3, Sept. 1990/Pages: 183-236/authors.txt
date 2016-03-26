@@ -1,2 +1,0 @@
-amit_p_sheth author_page.cfm?id=81100632019&CFID=592444878&CFTOKEN=60714710
-james_a_larson author_page.cfm?id=81100470765&CFID=592444878&CFTOKEN=60714710

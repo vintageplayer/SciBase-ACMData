@@ -1,2 +1,0 @@
-justin_zobel author_page.cfm?id=81100029320&CFID=762306220&CFTOKEN=50812431
-alistair_moffat author_page.cfm?id=81100200925&CFID=762306220&CFTOKEN=50812431

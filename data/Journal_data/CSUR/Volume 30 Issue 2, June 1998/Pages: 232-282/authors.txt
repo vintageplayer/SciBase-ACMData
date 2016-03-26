@@ -1,2 +1,0 @@
-reidar_conradi author_page.cfm?id=81100209387&CFID=762329364&CFTOKEN=33678300
-bernhard_westfechtel author_page.cfm?id=81100147027&CFID=762329364&CFTOKEN=33678300

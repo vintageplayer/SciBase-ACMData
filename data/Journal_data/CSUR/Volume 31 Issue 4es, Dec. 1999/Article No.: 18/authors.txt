@@ -1,3 +1,0 @@
-jonathan_furner author_page.cfm?id=81332499822&CFID=762326515&CFTOKEN=45412527
-david_ellis author_page.cfm?id=81100164851&CFID=762326515&CFTOKEN=45412527
-peter_willett author_page.cfm?id=81332535479&CFID=762326515&CFTOKEN=45412527

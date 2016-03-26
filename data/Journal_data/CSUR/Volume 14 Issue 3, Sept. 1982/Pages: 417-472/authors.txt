@@ -1,3 +1,0 @@
-richard_furuta author_page.cfm?id=81100039520&CFID=762607930&CFTOKEN=17604891
-jeffrey_scofield author_page.cfm?id=81100481760&CFID=762607930&CFTOKEN=17604891
-alan_shaw author_page.cfm?id=81100396876&CFID=762607930&CFTOKEN=17604891

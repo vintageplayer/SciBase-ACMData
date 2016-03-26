@@ -1,2 +1,0 @@
-james_stanier author_page.cfm?id=81461657443&CFID=762301090&CFTOKEN=82357598
-des_watson author_page.cfm?id=81100376217&CFID=762301090&CFTOKEN=82357598

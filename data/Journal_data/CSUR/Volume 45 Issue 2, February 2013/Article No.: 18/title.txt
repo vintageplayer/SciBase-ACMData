@@ -1,1 +1,0 @@
-Bidirectional associative memories: Different approaches

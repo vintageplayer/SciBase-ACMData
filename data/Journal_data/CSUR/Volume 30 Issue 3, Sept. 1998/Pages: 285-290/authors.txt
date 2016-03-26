@@ -1,3 +1,0 @@
-olivier_danvy author_page.cfm?id=81100394275&CFID=762328832&CFTOKEN=30781430
-robert_gluck author_page.cfm?id=81408592875&CFID=762328832&CFTOKEN=30781430
-peter_thiemann author_page.cfm?id=81100458917&CFID=762328832&CFTOKEN=30781430

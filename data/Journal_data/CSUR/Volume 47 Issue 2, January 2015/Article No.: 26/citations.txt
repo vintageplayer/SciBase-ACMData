@@ -1,2 +1,0 @@
-Dietmar Jannach , Lukas Lerche , Iman Kamehkhosh, Beyond "Hitting the Hits": Generating Coherent Music Playlist Continuations with the Right Tracks, Proceedings of the 9th ACM Conference on Recommender Systems, September 16-20, 2015, Vienna, Austria
-Andreu Vall, Listener-Inspired Automated Music Playlist Generation, Proceedings of the 9th ACM Conference on Recommender Systems, September 16-20, 2015, Vienna, Austria

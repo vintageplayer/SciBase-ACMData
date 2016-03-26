@@ -1,1 +1,0 @@
-Logics for concurrency: structure versus automata

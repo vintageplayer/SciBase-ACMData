@@ -1,1 +1,0 @@
-The MITRE Multi-Modal Logger: its use in evaluation of collaborative systems

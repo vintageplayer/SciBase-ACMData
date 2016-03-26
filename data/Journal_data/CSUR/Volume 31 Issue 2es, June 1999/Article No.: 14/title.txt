@@ -1,1 +1,0 @@
-Intermediary Architecture: interposing middleware object services between Web client and server

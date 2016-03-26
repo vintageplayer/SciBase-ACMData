@@ -1,8 +1,0 @@
-laurie_damianos author_page.cfm?id=81100380186&CFID=762328132&CFTOKEN=54492142
-lynette_hirschman author_page.cfm?id=81100511080&CFID=762328132&CFTOKEN=54492142
-robyn_kozierok author_page.cfm?id=81100199738&CFID=762328132&CFTOKEN=54492142
-jeffrey_kurtz author_page.cfm?id=81100608663&CFID=762328132&CFTOKEN=54492142
-andrew_greenberg author_page.cfm?id=81100196535&CFID=762328132&CFTOKEN=54492142
-kimberley_walls author_page.cfm?id=81100129882&CFID=762328132&CFTOKEN=54492142
-sharon_laskowski author_page.cfm?id=81100505889&CFID=762328132&CFTOKEN=54492142
-jean_scholtz author_page.cfm?id=81100426546&CFID=762328132&CFTOKEN=54492142

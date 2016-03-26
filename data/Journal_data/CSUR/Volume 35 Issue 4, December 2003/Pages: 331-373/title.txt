@@ -1,1 +1,0 @@
-An analysis of XML database solutions for the management of MPEG-7 media descriptions

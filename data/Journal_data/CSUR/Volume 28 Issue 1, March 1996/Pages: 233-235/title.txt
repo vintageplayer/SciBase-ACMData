@@ -1,1 +1,0 @@
-Distributed and multiprocessor scheduling

@@ -1,3 +1,0 @@
-aron_laszka author_page.cfm?id=81501685438&CFID=592131028&CFTOKEN=53911345
-mark_felegyhazi author_page.cfm?id=81100633585&CFID=592131028&CFTOKEN=53911345
-levente_buttyan author_page.cfm?id=81100602417&CFID=592131028&CFTOKEN=53911345

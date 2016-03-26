@@ -1,3 +1,0 @@
-luca_cittadini author_page.cfm?id=81413607511&CFID=762301949&CFTOKEN=84081375
-giuseppe_di_battista author_page.cfm?id=81548005179&CFID=762301949&CFTOKEN=84081375
-massimo_rimondini author_page.cfm?id=81317499336&CFID=762301949&CFTOKEN=84081375

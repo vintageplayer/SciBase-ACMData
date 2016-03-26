@@ -1,1 +1,0 @@
-Supporting chronic disease care quality: Design and implementation of a health service and its integration with electronic health records

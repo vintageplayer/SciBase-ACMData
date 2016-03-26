@@ -1,3 +1,0 @@
-matthew_edwards author_page.cfm?id=99658663238&CFID=762296955&CFTOKEN=46870589
-awais_rashid author_page.cfm?id=99658673426&CFID=762296955&CFTOKEN=46870589
-paul_rayson author_page.cfm?id=81100002108&CFID=762296955&CFTOKEN=46870589

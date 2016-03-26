@@ -1,3 +1,0 @@
-ming_ki_chong author_page.cfm?id=81442599627&CFID=592131909&CFTOKEN=62286934
-rene_mayrhofer author_page.cfm?id=81330494985&CFID=592131909&CFTOKEN=62286934
-hans_gellersen author_page.cfm?id=81452616827&CFID=592131909&CFTOKEN=62286934

@@ -1,3 +1,0 @@
-john_narayan author_page.cfm?id=99658635186&CFID=762296089&CFTOKEN=77948951
-sandeep_k_shukla author_page.cfm?id=99658772099&CFID=762296089&CFTOKEN=77948951
-t_charles_clancy author_page.cfm?id=81336488261&CFID=762296089&CFTOKEN=77948951

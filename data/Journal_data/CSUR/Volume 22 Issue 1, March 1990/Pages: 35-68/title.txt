@@ -1,1 +1,0 @@
-Resourceful systems for fault tolerance, reliability, and safety

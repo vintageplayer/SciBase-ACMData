@@ -1,5 +1,0 @@
-Avrim Blum , Ronald L. Rivest, Training a 3-node neural network in NP-complete, Advances in neural information processing systems 1, Morgan Kaufmann Publishers Inc., San Francisco, CA, 1989
-Michael Kearns , Yishay Mansour , Andrew Y. Ng , Dana Ron, An experimental and theoretical comparison of model selection methods, Proceedings of the eighth annual conference on Computational learning theory, p.21-30, July 05-08, 1995, Santa Cruz, California, USA[doi>10.1145/225298.225301]
-J. R. Quinlan , R. M. Cameron-Jones, Oversearching and layered search in empirical learning, Proceedings of the 14th international joint conference on Artificial intelligence, p.1019-1024, August 20-25, 1995, Montreal, Quebec, Canada
-J. R. Quinlan , R. L. Rivest, Inferring decision trees using the minimum description length principle, Information and Computation, v.80 n.3, p.227-248, Mar. 1989[doi>10.1016/0890-5401(89)90010-2]
-WEIGEND, A. 1994. On overfitting and the effective number of hidden units. In Proceedings of the 19.93 Connectionist Models, Summer Schoo{, P. Smolensky, D. S. Touretzky, J. L. Elman, and A S. Weigend, Eds., Lawrence Erlbaum Associates, Hillsdale, NJ, 335-342.

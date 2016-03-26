@@ -1,2 +1,0 @@
-daniela_rus author_page.cfm?id=81100620553&CFID=762601303&CFTOKEN=10904804
-devika_subramanian author_page.cfm?id=81100277334&CFID=762601303&CFTOKEN=10904804

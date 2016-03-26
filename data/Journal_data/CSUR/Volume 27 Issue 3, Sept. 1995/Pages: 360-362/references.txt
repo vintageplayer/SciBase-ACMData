@@ -1,6 +1,0 @@
-DOYLE, J. 1992. Rationahty and its roles in reasoning. Corr~put. {ntell 8, 378 409.
-HANKS, S, RUSSELL, S., AND WELLMAN, M. PEds. 1994. Working Notes of the AAAI Spring Symposium on Deczs~on-Theorettc Planning AAAI Press.
-NEWELL, A. 1982 The knowledge level. Arttf. Intell. 18, 87-127
-Jeffrey S. Rosenschein , Gilad Zlotkin, Rules of encounter: designing conventions for automated negotiation among computers, MIT Press, Cambridge, MA, 1994
-Stuart J. Russell , Peter Norvig, Artificial intelligence: a modern approach, Prentice-Hall, Inc., Upper Saddle River, NJ, 1995
-WELLMAN, M. P. 1993. A market-oriented programming environment and its apphcation to distributed mulUcommodity flow problems. J. Arttf. lntell, l~es. 1, 1-23

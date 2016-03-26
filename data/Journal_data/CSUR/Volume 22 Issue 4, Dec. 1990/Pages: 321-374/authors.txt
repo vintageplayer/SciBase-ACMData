@@ -1,2 +1,0 @@
-eliezer_levy author_page.cfm?id=81341493237&CFID=592444786&CFTOKEN=80832311
-abraham_silberschatz author_page.cfm?id=81410592733&CFID=592444786&CFTOKEN=80832311

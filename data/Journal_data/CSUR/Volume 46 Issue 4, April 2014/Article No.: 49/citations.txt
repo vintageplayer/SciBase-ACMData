@@ -1,1 +1,0 @@
-Héctor Pérez , J. Javier Gutiérrez, Modeling the QoS parameters of DDS for event-driven real-time applications, Journal of Systems and Software, v.104 n.C, p.126-140, June 2015

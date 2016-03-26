@@ -1,1 +1,0 @@
-Corrigenda: “Concepts and notations for concurrent programs”

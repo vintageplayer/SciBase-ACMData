@@ -1,2 +1,0 @@
-stefan_podlipnig author_page.cfm?id=81100350753&CFID=592142514&CFTOKEN=62590946
-laszlo_boszormenyi author_page.cfm?id=81100646381&CFID=592142514&CFTOKEN=62590946

@@ -1,4 +1,0 @@
-swaminathan_sivasubramanian author_page.cfm?id=81100092193&CFID=592142173&CFTOKEN=31484105
-michal_szymaniak author_page.cfm?id=81100017953&CFID=592142173&CFTOKEN=31484105
-guillaume_pierre author_page.cfm?id=81100105037&CFID=592142173&CFTOKEN=31484105
-maarten_van_steen author_page.cfm?id=81100608871&CFID=592142173&CFTOKEN=31484105

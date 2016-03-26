@@ -1,2 +1,0 @@
-MCCARTHY, J. 1977. Epistemological problems of artificial intelligence. In Proceedings of the Fifth International Joint Conference on Araficial Intelhgence, Cambridge, MA, 1038-1044.
-McCARTHY, J. ~D HAYES, P. J. 1969. Some philosophical problems from the standpoint of artificial intelligence. In Machine Intelltgcnce 4, B. Meltzer and D. Mitchie, Eds. American Elsevier, New York, 463-502.

@@ -1,2 +1,0 @@
-aaron_ceglar author_page.cfm?id=81100113821&CFID=762306220&CFTOKEN=50812431
-john_f_roddick author_page.cfm?id=81100131970&CFID=762306220&CFTOKEN=50812431

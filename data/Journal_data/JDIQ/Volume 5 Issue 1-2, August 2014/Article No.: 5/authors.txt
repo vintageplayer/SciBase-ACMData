@@ -1,5 +1,0 @@
-tobias_vogel author_page.cfm?id=81388600162&CFID=592312543&CFTOKEN=60949954
-arvid_heise author_page.cfm?id=81464676236&CFID=592312543&CFTOKEN=60949954
-uwe_draisbach author_page.cfm?id=81503679557&CFID=592312543&CFTOKEN=60949954
-dustin_lange author_page.cfm?id=81472650565&CFID=592312543&CFTOKEN=60949954
-felix_naumann author_page.cfm?id=81100447576&CFID=592312543&CFTOKEN=60949954

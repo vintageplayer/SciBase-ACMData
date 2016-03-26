@@ -1,5 +1,0 @@
-serge_abiteboul author_page.cfm?id=81100200659&CFID=592438275&CFTOKEN=44450878
-gabriel_m_kuper author_page.cfm?id=81339511124&CFID=592438275&CFTOKEN=44450878
-harry_g_mairson author_page.cfm?id=81100061196&CFID=592438275&CFTOKEN=44450878
-alexander_a_shvartsman author_page.cfm?id=81100297871&CFID=592438275&CFTOKEN=44450878
-moshe_y_vardi author_page.cfm?id=81100371692&CFID=592438275&CFTOKEN=44450878

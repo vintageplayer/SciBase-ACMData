@@ -1,2 +1,0 @@
-dirk_ahlers author_page.cfm?id=81350606233&CFID=762472123&CFTOKEN=19249226
-john_krogstie author_page.cfm?id=81100075171&CFID=762472123&CFTOKEN=19249226

@@ -1,3 +1,0 @@
-sufyan_ababneh author_page.cfm?id=81436592957&CFID=762476694&CFTOKEN=39168236
-rashid_ansari author_page.cfm?id=81100305485&CFID=762476694&CFTOKEN=39168236
-ashfaq_khokhar author_page.cfm?id=81100219998&CFID=762476694&CFTOKEN=39168236

@@ -1,4 +1,0 @@
-m_ranganathan author_page.cfm?id=81332522549&CFID=762328132&CFTOKEN=54492142
-laurent_andrey author_page.cfm?id=81100141081&CFID=762328132&CFTOKEN=54492142
-virginie_schaal author_page.cfm?id=81100472848&CFID=762328132&CFTOKEN=54492142
-jean-philippe_favreau author_page.cfm?id=81100534331&CFID=762328132&CFTOKEN=54492142

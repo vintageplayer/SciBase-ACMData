@@ -1,1 +1,0 @@
-Programmable Spike-Timing-Dependent Plasticity Learning Circuits in Neuromorphic VLSI Architectures

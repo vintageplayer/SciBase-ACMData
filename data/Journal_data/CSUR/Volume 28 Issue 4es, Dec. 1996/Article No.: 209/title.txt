@@ -1,1 +1,0 @@
-Self-managing network-attached storage

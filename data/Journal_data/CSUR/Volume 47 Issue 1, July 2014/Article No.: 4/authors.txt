@@ -1,2 +1,0 @@
-catherine_howard author_page.cfm?id=81342497851&CFID=592131909&CFTOKEN=62286934
-markus_stumptner author_page.cfm?id=81100584916&CFID=592131909&CFTOKEN=62286934

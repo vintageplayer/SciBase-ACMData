@@ -1,1 +1,0 @@
-Distributed, object-based programming systems

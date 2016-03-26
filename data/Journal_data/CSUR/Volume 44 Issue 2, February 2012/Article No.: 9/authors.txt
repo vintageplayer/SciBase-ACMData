@@ -1,2 +1,0 @@
-godwin_caruana author_page.cfm?id=81498659271&CFID=762302497&CFTOKEN=83269122
-maozhen_li author_page.cfm?id=81100477737&CFID=762302497&CFTOKEN=83269122

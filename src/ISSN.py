@@ -51,7 +51,7 @@ for post in posts[2:3:]:
         print(newurl)
 """
 link = posts[4]["href"]
-newurl = baseurl + link + '&preflayout=flat'
+newurl = baseurl + link  #+ '&preflayout=flat'
 newsoup = get_soup(newurl)
 table = newsoup.find('table', {'style':'margin-top: 10px'})
 issn = table.find_all('td')

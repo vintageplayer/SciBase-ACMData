@@ -1,2 +1,0 @@
-ranjit_jhala author_page.cfm?id=81100198278&CFID=762304545&CFTOKEN=80380538
-rupak_majumdar author_page.cfm?id=81100319213&CFID=762304545&CFTOKEN=80380538

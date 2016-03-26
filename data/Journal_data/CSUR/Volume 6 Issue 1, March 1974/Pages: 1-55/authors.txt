@@ -1,3 +1,0 @@
-ivan_e_sutherland author_page.cfm?id=81100265287&CFID=762611804&CFTOKEN=58883080
-robert_f_sproull author_page.cfm?id=81100302488&CFID=762611804&CFTOKEN=58883080
-robert_a_schumacker author_page.cfm?id=81413593288&CFID=762611804&CFTOKEN=58883080

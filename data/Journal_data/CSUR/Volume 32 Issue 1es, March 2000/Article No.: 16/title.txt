@@ -1,1 +1,0 @@
-Framework description using concern-specific design patterns composition

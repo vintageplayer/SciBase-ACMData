@@ -1,2 +1,0 @@
-Ole Lehrmann Madsen, Open issues in object-oriented programming—a Scandinavian perspective, Software—Practice & Experience, v.25 n.S4, p.3-43, Dec. 1995[doi>10.1002/spe.4380251303]
-Jørgen Lindskov Knudsen , Ole Lehrmann Madsen, Using object-orientation as a common basis for system development education, ACM SIGPLAN Notices, v.31 n.12, p.52-62, Dec. 1996[doi>10.1145/242604.242618]

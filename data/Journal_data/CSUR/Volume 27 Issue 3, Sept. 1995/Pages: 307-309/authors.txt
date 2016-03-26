@@ -1,3 +1,0 @@
-yiannis_aloimonos author_page.cfm?id=81100029842&CFID=762602201&CFTOKEN=73574314
-c_fermuller author_page.cfm?id=81100087402&CFID=762602201&CFTOKEN=73574314
-a_rosenfeld author_page.cfm?id=81100227038&CFID=762602201&CFTOKEN=73574314

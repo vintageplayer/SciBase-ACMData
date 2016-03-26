@@ -1,1 +1,0 @@
-Navigating between objects. Lessons from an object-oriented framework perspective

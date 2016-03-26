@@ -1,8 +1,0 @@
-Keith S. Decker , Victor R. Lesser, Environment centered analysis and design of coordination mechanisms, University of Massachusetts Amherst, 1995
-George Montague Ferguson, Knowledge representation and reasoning for mixed-initiative planning, University of Rochester, Rochester, NY, 1995
-Co,noN, T 1994 The pleadings game an AI model of procedural jusime Univ of Darmstadt, Ph.D thesis.
-GUINN, C 1995 Meta-dialogue behaviors. Duke Univ, Ph D. tbems
-NORTH, D. 1994 Economm performance through time. Am Econ Reu. 84
-PRUITT, D 1981. NegotzatzoT~ Behaulor, Academic Press
-RAWLS, J. 1971. A Theory of dustme, Harvard University Press, Cambridge, MA.
-SCHAUER, F. 1991. Plc~vmg by The Rules, Oxford Umversity Press, New York.

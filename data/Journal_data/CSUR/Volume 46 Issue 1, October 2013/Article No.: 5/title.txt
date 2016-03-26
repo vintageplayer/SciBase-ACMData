@@ -1,1 +1,0 @@
-A uniform definition of stochastic process calculi

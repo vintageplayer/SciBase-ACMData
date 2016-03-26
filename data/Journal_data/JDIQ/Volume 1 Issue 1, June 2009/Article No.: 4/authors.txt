@@ -1,3 +1,0 @@
-kristin_weber author_page.cfm?id=81435604784&CFID=762477029&CFTOKEN=47894121
-boris_otto author_page.cfm?id=81418597725&CFID=762477029&CFTOKEN=47894121
-hubert_osterle author_page.cfm?id=81100209049&CFID=762477029&CFTOKEN=47894121

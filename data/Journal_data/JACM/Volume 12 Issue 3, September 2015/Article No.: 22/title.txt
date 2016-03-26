@@ -1,1 +1,0 @@
-ProWATCh: A Proactive Cross-Layer Workload-Aware Temperature Management Framework for Low-Power Chip Multi-Processors

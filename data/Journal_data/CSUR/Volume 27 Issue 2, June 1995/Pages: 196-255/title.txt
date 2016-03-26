@@ -1,1 +1,0 @@
-Attribute grammar paradigms—a high-level methodology in language implementation

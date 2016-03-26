@@ -1,1 +1,0 @@
-SCKVdd: A Scalable Clock-Controlled Self-Stabilized Voltage Technique for Low Power CMOS Digital Circuits

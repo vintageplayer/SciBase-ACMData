@@ -1,3 +1,0 @@
-michael_leuschel author_page.cfm?id=81100310572&CFID=762328969&CFTOKEN=97127576
-b_martens author_page.cfm?id=81100097574&CFID=762328969&CFTOKEN=97127576
-d_de_schreye author_page.cfm?id=81100185564&CFID=762328969&CFTOKEN=97127576

@@ -1,1 +1,0 @@
-An open system framework for component-based CNC machines

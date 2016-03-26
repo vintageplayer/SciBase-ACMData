@@ -1,2 +1,0 @@
-james_e_carey author_page.cfm?id=81100227659&CFID=762325144&CFTOKEN=37225065
-brent_a_carlson author_page.cfm?id=81100379331&CFID=762325144&CFTOKEN=37225065

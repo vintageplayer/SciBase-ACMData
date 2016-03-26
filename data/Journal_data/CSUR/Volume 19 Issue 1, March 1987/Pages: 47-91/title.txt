@@ -1,1 +1,0 @@
-An analysis of geometric modeling in database systems

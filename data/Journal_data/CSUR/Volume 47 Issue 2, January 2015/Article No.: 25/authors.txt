@@ -1,3 +1,0 @@
-francesco_calabrese author_page.cfm?id=81310487997&CFID=592131028&CFTOKEN=53911345
-laura_ferrari author_page.cfm?id=81487645692&CFID=592131028&CFTOKEN=53911345
-vincent_d_blondel author_page.cfm?id=81100165602&CFID=592131028&CFTOKEN=53911345

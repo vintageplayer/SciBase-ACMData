@@ -1,2 +1,0 @@
-dezhao_song author_page.cfm?id=81472648963&CFID=592312838&CFTOKEN=12138101
-jeff_heflin author_page.cfm?id=81100579321&CFID=592312838&CFTOKEN=12138101

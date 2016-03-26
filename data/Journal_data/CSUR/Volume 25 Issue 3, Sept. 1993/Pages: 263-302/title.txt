@@ -1,1 +1,0 @@
-Models of machines and computation for mapping in multicomputers

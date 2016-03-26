@@ -1,1 +1,0 @@
-Binary-code obfuscations in prevalent packer tools

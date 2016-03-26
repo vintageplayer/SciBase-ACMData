@@ -1,5 +1,0 @@
-stefan_miltchev author_page.cfm?id=81100122651&CFID=762305242&CFTOKEN=33377777
-jonathan_m_smith author_page.cfm?id=81407594028&CFID=762305242&CFTOKEN=33377777
-vassilis_prevelakis author_page.cfm?id=81100044647&CFID=762305242&CFTOKEN=33377777
-angelos_keromytis author_page.cfm?id=81100083417&CFID=762305242&CFTOKEN=33377777
-sotiris_ioannidis author_page.cfm?id=81100425340&CFID=762305242&CFTOKEN=33377777

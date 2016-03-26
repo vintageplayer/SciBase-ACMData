@@ -1,1 +1,0 @@
-Partial evaluation for program comprehension

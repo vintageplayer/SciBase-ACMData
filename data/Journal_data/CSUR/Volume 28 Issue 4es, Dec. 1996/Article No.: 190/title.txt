@@ -1,1 +1,0 @@
-Software engineering and programming language considerations for ubiquitous computing

@@ -1,3 +1,0 @@
-andrzej_kamisinski author_page.cfm?id=99658717870&CFID=762297342&CFTOKEN=62606901
-piotr_choda author_page.cfm?id=81555408456&CFID=762297342&CFTOKEN=62606901
-andrzej_jajszczyk author_page.cfm?id=81100584969&CFID=762297342&CFTOKEN=62606901

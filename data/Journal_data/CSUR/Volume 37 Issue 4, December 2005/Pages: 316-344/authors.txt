@@ -1,3 +1,0 @@
-marjan_mernik author_page.cfm?id=81339517006&CFID=762306404&CFTOKEN=42505641
-jan_heering author_page.cfm?id=81100555810&CFID=762306404&CFTOKEN=42505641
-anthony_m_sloane author_page.cfm?id=81100442083&CFID=762306404&CFTOKEN=42505641
