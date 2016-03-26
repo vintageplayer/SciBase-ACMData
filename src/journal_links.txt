@@ -1,8 +1,7 @@
-CSUR - http://dl.acm.org/pub_series.cfm?id=J204&_cf_containerId=pubs&_cf_nodebug=true&_cf_nocache=true&_cf_clientid=C37F87628DE0E7610F1187FC299D1CA1&_cf_rc=1
--JACM - http://dl.acm.org/pub_series.cfm?id=J401&_cf_containerId=pubs&_cf_nodebug=true&_cf_nocache=true&_cf_clientid=C37F87628DE0E7610F1187FC299D1CA1&_cf_rc=1
--JDIQ - http://dl.acm.org/pub_series.cfm?id=J1191&_cf_containerId=pubs&_cf_nodebug=true&_cf_nocache=true&_cf_clientid=C37F87628DE0E7610F1187FC299D1CA1&_cf_rc=1
--JEA - http://dl.acm.org/pub_series.cfm?id=J430&_cf_containerId=pubs&_cf_nodebug=true&_cf_nocache=true&_cf_clientid=C37F87628DE0E7610F1187FC299D1CA1&_cf_rc=1
--JETC - http://dl.acm.org/pub_series.cfm?id=J967&_cf_containerId=pubs&_cf_nodebug=true&_cf_nocache=true&_cf_clientid=C37F87628DE0E7610F1187FC299D1CA1&_cf_rc=1
--JOCCH - http://dl.acm.org/pub_series.cfm?id=J1157&_cf_containerId=pubs&_cf_nodebug=true&_cf_nocache=true&_cf_clientid=C37F87628DE0E7610F1187FC299D1CA1&_cf_rc=1
--TAAS - http://dl.acm.org/pub_series.cfm?id=J1010&_cf_containerId=pubs&_cf_nodebug=true&_cf_nocache=true&_cf_clientid=C37F87628DE0E7610F1187FC299D1CA1&_cf_rc=1
--TACCESS - http://dl.acm.org/pub_series.cfm?id=J1156&_cf_containerId=pubs&_cf_nodebug=true&_cf_nocache=true&_cf_clientid=C37F87628DE0E7610F1187FC299D1CA1&_cf_rc=1
+1) TOCHI - 'http://dl.acm.org/pub_series.cfm?id=J756&_cf_containerId=pubs&_cf_nodebug=true&_cf_nocache=true&_cf_clientid=A4CD5C7467A0092AB36D2384B391AB15&_cf_rc=1'
+2) TOCS - 'http://dl.acm.org/pub_series.cfm?id=J774&_cf_containerId=pubs&_cf_nodebug=true&_cf_nocache=true&_cf_clientid=A4CD5C7467A0092AB36D2384B391AB15&_cf_rc=1'
+3) TOG - 'http://dl.acm.org/pub_series.cfm?id=J778&_cf_containerId=pubs&_cf_nodebug=true&_cf_nocache=true&_cf_clientid=A4CD5C7467A0092AB36D2384B391AB15&_cf_rc=1'
+4) TOIS - 'http://dl.acm.org/pub_series.cfm?id=J779&_cf_containerId=pubs&_cf_nodebug=true&_cf_nocache=true&_cf_clientid=A4CD5C7467A0092AB36D2384B391AB15&_cf_rc=1'
+5) TOPLAS - 'http://dl.acm.org/pub_series.cfm?id=J783&_cf_containerId=pubs&_cf_nodebug=true&_cf_nocache=true&_cf_clientid=A4CD5C7467A0092AB36D2384B391AB15&_cf_rc=1'
+6) TON - 'http://dl.acm.org/pub_series.cfm?id=J771&_cf_containerId=pubs&_cf_nodebug=true&_cf_nocache=true&_cf_clientid=A4CD5C7467A0092AB36D2384B391AB15&_cf_rc=1'
+7) TOSEM - 'http://dl.acm.org/pub_series.cfm?id=J790&_cf_containerId=pubs&_cf_nodebug=true&_cf_nocache=true&_cf_clientid=A4CD5C7467A0092AB36D2384B391AB15&_cf_rc=1'
