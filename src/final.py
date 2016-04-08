@@ -146,7 +146,7 @@ for post in posts[0::]:
                 info = fsoup.find('table',{'style':'margin-top: 10px; border-collapse:collapse; padding:2px;'},{'class':'medium-text'})
                 records = info.find_all('a')
                 for record in records[::2]:
-                    fn.write(text_to_id(record.get_text())+' '+text_to_id(records[records.index(record)+1].get_text()))
+                    fn.write(text_to_id(record.get_text())+' '+text_to_id(records[records.index(record)+1].get_text())+'\n')
             except  Exception:
                 pass
             try :
