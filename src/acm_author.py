@@ -31,5 +31,5 @@ for file in files:
 					author_dict[author['name']] = record
 					print(record)
 output_dict = {'authors' : [author for IDs,author in author_dict.items()] }
-with open('../data/acm_authordata','w') as outfile:
+with open('../data/acm_authordata.json','w') as outfile:
 	json.dump(output_dict,outfile)
