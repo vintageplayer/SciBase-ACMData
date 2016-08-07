@@ -37,7 +37,9 @@ def get_authors_list(areference):
 
 	auth_list = []
 
-	if re.search('[,]([ ][A-Z][ ]?[.])+[,0-9]',areference) != None:
+	string_len = len(areference)
+
+	if re.search('[,]([ ][A-Z][ ]?[.])+[,0-9]',areference,0,string_len-10) != None:
 		chars_removed = 0
 		initials = re.finditer('[,]([ ][A-Z][ ]?[.])+[,0-9]',areference)
 		for initial in initials:
