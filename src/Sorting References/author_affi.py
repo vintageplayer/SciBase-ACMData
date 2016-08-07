@@ -1,6 +1,7 @@
 import re
 import json
 import unicodedata
+import sys
 
 def strip_accents(text):
     try:
@@ -41,7 +42,7 @@ def get_authors_list(areference):
 		initials = re.finditer('[,]([ ][A-Z][ ]?[.])+[,0-9]',areference)
 		for initial in initials:
 			check_last = areference[chars_removed:initial.start()]
-			if 'and' in check_last:
+			if ' and' in check_last:
 				if len(check_last.split(',')) == 1:
 					auth_name = areference[initial.start()+2:initial.end()-1]+check_last.split('and')[-1]
 					auth_list.append(auth_name)
@@ -106,7 +107,7 @@ def get_values(areference):
 	auth_list =  get_authors_list(areference)
 
 	if auth_list == None:
-		return
+		return None
 
 	country = get_country(areference)
 	affiliation = get_instituion(areference)
@@ -119,9 +120,23 @@ def get_values(areference):
 final_list = []
 English_words = get_words()
 Countries = get_country_list()
-references = open('references.txt','r').read().split('\n')
-for reference in references[::]:
-	get_values(reference)
+
+journal_dict = {}
+
+with open('../../output/Journal Data/TEAC.json','r') as infile:
+	journal_dict = json.load(infile)
+
+for volume in journal_dict['TEAC']['Volumes']:
+	for issue in journal_dict['TEAC']['Volumes'][volume]:
+		for article in journal_dict['TEAC']['Volumes'][volume][issue]['articles']:
+			for reference in journal_dict['TEAC']['Volumes'][volume][issue]['articles'][article]['references'][::]:
+				get_values(reference)
+
+
+# references = open('references.txt','r').read().split('\n')
+
+# for reference in references[::]:
+# 	get_values(reference)
 
 author_dict = {"Authors":final_list}
 with open('../../output/Author Details from references/sample.json','w') as outfile:
