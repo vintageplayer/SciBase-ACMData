@@ -106,7 +106,9 @@ def get_instituion(areference):
 	return None
 
 def get_values(areference):
-	global final_list
+	# global final_list
+	global citation_data_list
+
 	auth_list =  get_authors_list(areference)
 
 	if auth_list == None:
@@ -117,25 +119,38 @@ def get_values(areference):
 
 	for author in auth_list:
 		temp = {"Name":author,"Country":country,"Affiliation":affiliation}
-		final_list.append(temp)
+		citation_data_list.append(temp)
+		# final_list.append(temp)
 
 
 final_list = []
+
 English_words = get_words()
 Countries = get_country_list()
 
 journal_dict = {}
-
-with open('../../output/Journal Data/TEAC.json','r') as infile:
+with open('../../output/Journal Data/TON.json','r') as infile:
 	journal_dict = json.load(infile)
-
-for volume in journal_dict['TEAC']['Volumes']:
-	for issue in journal_dict['TEAC']['Volumes'][volume]:
-		for article in journal_dict['TEAC']['Volumes'][volume][issue]['articles']:
-			for citation in journal_dict['TEAC']['Volumes'][volume][issue]['articles'][article]['citations'][::]:
+volume_dict = {}
+for volume in journal_dict['TON']['Volumes']:
+	issue_dict = {}
+	for issue in journal_dict['TON']['Volumes'][volume]:
+		article_dict = {}
+		for article in journal_dict['TON']['Volumes'][volume][issue]['articles']:
+			citation_data_list = []
+			for citation in journal_dict['TON']['Volumes'][volume][issue]['articles'][article]['citations'][::]:
 				get_values(citation)
+			article_dict[article] = citation_data_list
+		issue_dict[issue] =article_dict
+	volume_dict[volume] = issue_dict
 
+
+final_dict = {'Volumes':volume_dict}
 
 author_dict = {"Authors":final_list}
-with open('../../output/Author Details from references/sample.json','w') as outfile:
-	json.dump(author_dict,outfile)
+with open('../../output/Author Details from references/TON.json','w') as outfile:
+	json.dump(final_dict,outfile)
+
+# author_dict = {"Authors":final_list}
+# with open('../../output/Author Details from references/sample.json','w') as outfile:
+# 	json.dump(author_dict,outfile)
