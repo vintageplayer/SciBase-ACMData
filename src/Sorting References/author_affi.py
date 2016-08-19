@@ -38,8 +38,9 @@ def get_authors_list(areference):
 	auth_list = []
 
 	string_len = len(areference)
-
-	if re.search('[,]([ ][A-Z][ ]?[.])+[,0-9]',areference,0,string_len-10) != None:
+	pattern = re.compile('[,]([ ][A-Z][ ]?[.])+[,0-9]')
+	# if re.search('[,]([ ][A-Z][ ]?[.])+[,0-9]',areference,0,string_len-10) != None:
+	if pattern.search(areference,0,string_len-10) != None:
 		chars_removed = 0
 		initials = re.finditer('[,]([ ][A-Z][ ]?[.])+[,0-9]',areference)
 		for initial in initials:
@@ -131,14 +132,9 @@ with open('../../output/Journal Data/TEAC.json','r') as infile:
 for volume in journal_dict['TEAC']['Volumes']:
 	for issue in journal_dict['TEAC']['Volumes'][volume]:
 		for article in journal_dict['TEAC']['Volumes'][volume][issue]['articles']:
-			for reference in journal_dict['TEAC']['Volumes'][volume][issue]['articles'][article]['references'][::]:
-				get_values(reference)
+			for citation in journal_dict['TEAC']['Volumes'][volume][issue]['articles'][article]['citations'][::]:
+				get_values(citation)
 
-
-# references = open('references.txt','r').read().split('\n')
-
-# for reference in references[::]:
-# 	get_values(reference)
 
 author_dict = {"Authors":final_list}
 with open('../../output/Author Details from references/sample.json','w') as outfile:
