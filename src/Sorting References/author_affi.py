@@ -29,6 +29,15 @@ def get_country_list():
 	countries = [ text_to_id(i.split('|')[1]) for i in temp_list]
 	return countries
 
+def get_institute_list():
+	institute_list = open('../../data/InstituteCountryContinent.csv','r').read().split('\n')
+	institute_dict = {}
+	for element in institute_list:
+		temp_list = element.split('","')
+		temp_list[0] = temp_list[0].strip('"')
+		temp_list[2] = temp_list[2].strip('"')
+		institute_dict[text_to_id(temp_list[0])] = temp_list
+	return institute_dict
 
 def get_authors_list(areference):
 	temp = areference[:]
@@ -94,62 +103,94 @@ def get_country(areference):
 
 	return None
 
-def get_instituion(areference):
-	parts = re.split('[,.]',areference)
-	possible_list = ['university','institution','school','institute','college','laboratory','laboratories','technology','enginnering']
-	for word in possible_list:
-		for part in reversed(parts):
-			temp = text_to_id(part)
-			if re.search('[^A-Za-z]'+word,temp) != None:
-				part = re.sub('^[^A-Za-z]','',part)
-				return part
+def get_institution(areference):
+	global institute_dict
+	global institute_list
+
+	areference = text_to_id(areference)
+
+	for institute in institute_list:
+		if institute in areference:
+			return institute
+
 	return None
 
+	"""
+		OLD LOGIC
+	
+	# parts = re.split('[,.]',areference)
+	# possible_list = ['university','institution','school','institute','college','laboratory','laboratories','technology','enginnering']
+	# for word in possible_list:
+	# 	for part in reversed(parts):
+	# 		temp = text_to_id(part)
+	# 		if re.search('[^A-Za-z]'+word,temp) != None:
+	# 			part = re.sub('^[^A-Za-z]','',part)
+	# 			return part
+	# return None
+
+	"""
+
 def get_values(areference):
-	# global final_list
 	global citation_data_list
+	global institute_dict
 
 	auth_list =  get_authors_list(areference)
 
 	if auth_list == None:
 		return None
 
-	country = get_country(areference)
-	affiliation = get_instituion(areference)
+	affiliation = get_institution(areference)
+	if affiliation == None:
+		country = get_country(areference)
+	else:
+		country = institute_dict[affiliation][1]
+		affiliation = institute_dict[affiliation][0]
 
 	for author in auth_list:
 		temp = {"Name":author,"Country":country,"Affiliation":affiliation}
 		citation_data_list.append(temp)
-		# final_list.append(temp)
 
-
-final_list = []
 
 English_words = get_words()
 Countries = get_country_list()
 
-journal_dict = {}
-with open('../../output/Journal Data/TON.json','r') as infile:
-	journal_dict = json.load(infile)
-volume_dict = {}
-for volume in journal_dict['TON']['Volumes']:
-	issue_dict = {}
-	for issue in journal_dict['TON']['Volumes'][volume]:
-		article_dict = {}
-		for article in journal_dict['TON']['Volumes'][volume][issue]['articles']:
-			citation_data_list = []
-			for citation in journal_dict['TON']['Volumes'][volume][issue]['articles'][article]['citations'][::]:
-				get_values(citation)
-			article_dict[article] = citation_data_list
-		issue_dict[issue] =article_dict
-	volume_dict[volume] = issue_dict
+institute_dict = get_institute_list()
+institute_list = institute_dict.keys()
+
+journal_list = []
+
+with open('../../data/ACM_Journal_list.csv','r') as infile:
+	lines = infile.read().split('\n')
+for line in lines:
+	jname = line.split(',')[2]
+	journal_list.append(jname)
+
+for journal_name in journal_list:
+	journal_dict = {}
+	try:
+		with open('../../output/Journal Data/'+journal_name+'.json','r') as infile:
+			journal_dict = json.load(infile)
+	except FileNotFoundError:
+		print('File Not Found : '+journal_name)
+		continue
+	volume_dict = {}
+	for volume in journal_dict[journal_name]['Volumes']:
+		issue_dict = {}
+		for issue in journal_dict[journal_name]['Volumes'][volume]:
+			article_dict = {}
+			for article in journal_dict[journal_name]['Volumes'][volume][issue]['articles']:
+				citation_data_list = []
+				for citation in journal_dict[journal_name]['Volumes'][volume][issue]['articles'][article]['citations']:
+					get_values(citation)
+				article_dict[article] = citation_data_list
+			issue_dict[issue] =article_dict
+		volume_dict[volume] = issue_dict
 
 
-final_dict = {'Volumes':volume_dict}
+	final_dict = {'Volumes':volume_dict}
 
-author_dict = {"Authors":final_list}
-with open('../../output/Author Details from references/TON.json','w') as outfile:
-	json.dump(final_dict,outfile)
+	with open('../../output/Author Details from references/'+journal_name+'.json','w') as outfile:
+		json.dump(final_dict,outfile)
 
 # author_dict = {"Authors":final_list}
 # with open('../../output/Author Details from references/sample.json','w') as outfile:
