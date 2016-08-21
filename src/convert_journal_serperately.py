@@ -55,13 +55,21 @@ def get_volume_dict(sub,volume_dict,mdir):
 	if len(Volume)<6:
 		Volume.append(Volume[4])
 		Volume[4] = 0
-	issue_dict[str(Volume[2]+Volume[3].strip(','))] = {"issn":" ","date":{"month":Volume[4], "year":Volume[5]}, "articles":output}
+	issue_dict[str(Volume[2]+Volume[3].strip(','))] = {"date":{"month":Volume[4], "year":Volume[5]}, "articles":output}
 	volume_dict[str(Volume[0]+Volume[1])].update(issue_dict)
 	return volume_dict
-#mdir="./Output5/JDIQ"
-Jdir = "../data/Journal_data"
+
+ISSN_file = "../data/Journal_data/ISSN_MAP.csv"
+
+file = open(ISSN_file,'r').read()
+ISSN_List = file.split('\n')
+ISSN_dict = {}
+for element in ISSN_List:
+	parts = element.split(',')
+	ISSN_dict[parts[0]] = parts[1]
+
+Jdir = "../data/Journal_data/Journals"
 jlist = os.listdir(Jdir)
-#jdic = {}
 for Journal in jlist:
 	if Journal[0] != '.':
 		jdic = {}
@@ -71,23 +79,6 @@ for Journal in jlist:
 		for sub in idir:
 			if sub[0]!= '.':
 				volume_dict = get_volume_dict(sub,volume_dict,vdir)
-		jdic[Journal] = {"Volumes":volume_dict, "ISSN":""}
+		jdic[Journal] = {"Volumes":volume_dict, "ISSN":ISSN_dict[Journal]}
 		with open("../output/"+Journal+".json","w") as jfile:
 			json.dump(jdic,jfile)
-# final_dict = {'ACM':jdic}
-# with open("../output/Journal_data.json",'w') as outfile:
-# 	json.dump(final_dict,outfile)
-# dir=os.listdir(mdir)
-# volume_dict = {}
-# for  sub in dir:
-# 	volume_dict=get_volume_dict(sub,volume_dict)
-# output_dict2= volume_dict
-# mdir="./Output5/CSUR"
-# dir=os.listdir(mdir)
-# volume_dict = {}
-# for  sub in dir:
-# 	volume_dict=get_volume_dict(sub,volume_dict)	
-# output_dict1 = volume_dict
-#final_dict = {'ACM' : {'CSUR' : output_dict1, 'JDIQ' : output_dict2}}
-# with open('V1I13.json','w') as outfile:
-#     json.dump(final_dict,outfile)
