@@ -21,10 +21,21 @@ def text_to_id(text):
 
 def initialize():
     global country_list
+    global city_list
+    global city_country_dict
 
     temp_list = open("./Sorting References/all_countries.txt","r").read().split('\n')
     country_list = [ text_to_id(i.split('|')[1]) for i in temp_list]
 
+    with open('Continents_Countries.json','r') as infile:
+        temp_dict = json.load(infile)
+
+    for continent in temp_dict.keys():
+        for country in temp_dict[continent]:
+            for city in temp_dict[continent][country]['cities']:
+                city = text_to_id(city)
+                city_list.append(city)
+                city_country_dict[city] = country
 
 def get_country(astring):
     global country_list
@@ -34,19 +45,40 @@ def get_country(astring):
 
     return None
 
+def get_city_country(astring):
+    global city_list
+    global city_country_dict
+
+    temp = []
+    for city in city_list:
+        city_word  = ' '+city+' '
+        if city_word in astring:
+            temp.append(city)
+            temp.append(city_country_dict[city])
+            return temp
+
+    return None
 
 def get_values(arecord):
     author_dict = {}
     author_dict['Name'] = arecord['name']
     if arecord['affiliation']!=None:
         author_dict['university'] = arecord['affiliation']
-        author_dict['country'] = get_country(arecord['affiliation'])
+        temp = get_city_country(arecord['affiliation'])
+        if temp != None:
+            author_dict['city'] = temp[0]
+            author_dict['country'] = temp[1]
+        else:
+            author_dict['country'] = get_country(arecord['affiliation'])
+            author_dict['city'] = None
     else:
         author_dict['university'] = None
         author_dict['Country'] = None
 
     return author_dict
 
+city_list = []
+city_country_dict = {}
 country_list = []
 initialize()
 
