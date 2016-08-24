@@ -1,7 +1,6 @@
 import re
 import json
 import unicodedata
-import sys
 
 def strip_accents(text):
     try:

@@ -1,5 +1,6 @@
 import os
 import json
+import re
 #mdir="./Output5/JDIQ"
 #dir=os.listdir(mdir)
 #volume_dict={}
@@ -45,8 +46,26 @@ def get_volume_dict(sub,volume_dict,mdir):
 			fs.close()
 			fs=open((mdir+'/'+sub+'/'+article+"/abstract.txt"),"r")
 			abstract=(fs.read()).strip("\n")
-			fs.close() 
-			output[str(article)] = {"title" : title, "authors" : [{'link':link,'name':name} for link,name in zip(links,author_names)] , "Metrics": stat, "abstract" : abstract , "doi":doi , "references":references , "citations" : citations}
+			fs.close()
+			fs=open(mdir+'/'+sub+'/'+article+'/sortedinstitution.txt',"r")
+			data = fs.read().split('\n')
+			affiliation_details = []
+			for line in data:
+				if line == '':
+					break
+				author_dict = {}
+				parts = line.split(' ')
+				parts[0] = re.sub('_',' ',parts[0])
+				author_dict['name'] = parts[0]
+				print(parts)
+				try:
+					parts[1] = re.sub('_',' ',parts[1])
+				except IndexError:
+					parts.append(None)
+				author_dict['affiliation'] = parts[1]
+				affiliation_details.append(author_dict)
+			fs.close()
+			output[str(article)] = {"title" : title,"affiliation_data":affiliation_details, "authors" : [{'link':link,'name':name} for link,name in zip(links,author_names)] , "Metrics": stat, "abstract" : abstract , "doi":doi , "references":references , "citations" : citations}
 	if len(Volume)<4:
 		Volume.append(Volume[2])
 		Volume.append(Volume[2])
