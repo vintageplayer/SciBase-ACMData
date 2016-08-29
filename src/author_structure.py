@@ -73,7 +73,7 @@ def get_values(arecord):
             author_dict['city'] = None
     else:
         author_dict['university'] = None
-        author_dict['Country'] = None
+        author_dict['country'] = None
 
     return author_dict
 
@@ -92,12 +92,19 @@ for line in lines:
 
 for journal_name in journal_list:
     journal_dict = {}
+    print('Scanning : '+str(journal_name))
     try:
         with open('../output/Journal Data/'+journal_name+'.json','r') as infile:
             journal_dict = json.load(infile)
-    except FileNotFoundError:
+    except IOError:
         print('File Not Found : '+journal_name)
         continue
+    # try:
+    #     with open('../output/Journal Data/'+journal_name+'.json','r') as infile:
+    #         journal_dict = json.load(infile)
+    # except FileNotFoundError:
+    #     print('File Not Found : '+journal_name)
+    #     continue
     volume_dict = {}
     for volume in journal_dict[journal_name]['Volumes']:
         issue_dict = {}
